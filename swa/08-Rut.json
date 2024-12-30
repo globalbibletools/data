@@ -38,11 +38,11 @@
             },
             {
               "id": "0800100108",
-              "gloss": "na alitoka"
+              "gloss": "na alienda"
             },
             {
               "id": "0800100109",
-              "gloss": null
+              "gloss": "mwanaume fulani"
             },
             {
               "id": "0800100110",
@@ -74,11 +74,11 @@
             },
             {
               "id": "0800100117",
-              "gloss": "na wawili"
+              "gloss": "na wanawe wawili"
             },
             {
               "id": "0800100118",
-              "gloss": "watoto wake wa kiume"
+              "gloss": "na wanawe wawili"
             }
           ]
         },
@@ -115,11 +115,11 @@
             },
             {
               "id": "0800100208",
-              "gloss": null
+              "gloss": "wanawe wawili"
             },
             {
               "id": "0800100209",
-              "gloss": "wanawe"
+              "gloss": "wanawe wawili"
             },
             {
               "id": "0800100210",
@@ -147,7 +147,7 @@
             },
             {
               "id": "0800100216",
-              "gloss": "kwenye mashamba ya"
+              "gloss": "katika mashamba ya"
             },
             {
               "id": "0800100217",
@@ -192,11 +192,11 @@
             },
             {
               "id": "0800100307",
-              "gloss": "na wawili"
+              "gloss": "na wanawe wawili"
             },
             {
               "id": "0800100308",
-              "gloss": "wanawe"
+              "gloss": "na wanawe wawili"
             }
           ]
         },
@@ -209,7 +209,7 @@
             },
             {
               "id": "0800100402",
-              "gloss": "-"
+              "gloss": "na wakajichukulia"
             },
             {
               "id": "0800100403",
@@ -253,11 +253,11 @@
             },
             {
               "id": "0800100413",
-              "gloss": "karibu kumi"
+              "gloss": "karibu miaka kumi"
             },
             {
               "id": "0800100414",
-              "gloss": "miaka"
+              "gloss": "karibu miaka kumi"
             }
           ]
         },
@@ -286,7 +286,7 @@
             },
             {
               "id": "0800100506",
-              "gloss": "hivyo akaachwa"
+              "gloss": "hivyo akabaki"
             },
             {
               "id": "0800100507",
@@ -294,11 +294,11 @@
             },
             {
               "id": "0800100508",
-              "gloss": "kutoka kwa wawili"
+              "gloss": "kutoka kwa wanawe wawili"
             },
             {
               "id": "0800100509",
-              "gloss": "wanawe"
+              "gloss": "kutoka kwa wanawe wawili"
             },
             {
               "id": "0800100510",
@@ -375,7 +375,7 @@
             },
             {
               "id": "0800100617",
-              "gloss": "-"
+              "gloss": "kwa kuwapa"
             },
             {
               "id": "0800100618",
@@ -412,11 +412,11 @@
             },
             {
               "id": "0800100707",
-              "gloss": "na wawili"
+              "gloss": "na binti wakwe zake wawili"
             },
             {
               "id": "0800100708",
-              "gloss": "binti wakwe zake"
+              "gloss": "na binti wakwe zake wawili"
             },
             {
               "id": "0800100709",
@@ -424,7 +424,7 @@
             },
             {
               "id": "0800100710",
-              "gloss": "wakatembea"
+              "gloss": "wakaenda"
             },
             {
               "id": "0800100711",
@@ -461,11 +461,11 @@
             },
             {
               "id": "0800100803",
-              "gloss": "kwa wawili"
+              "gloss": "kwa binti wakwe zake wawili"
             },
             {
               "id": "0800100804",
-              "gloss": "binti wakwe zake"
+              "gloss": "kwa binti wakwe zake wawili"
             },
             {
               "id": "0800100805",
@@ -489,11 +489,11 @@
             },
             {
               "id": "0800100810",
-              "gloss": "atashughulika"
+              "gloss": "atatenda"
             },
             {
               "id": "0800100811",
-              "gloss": "ashughulikie"
+              "gloss": "awatendee"
             },
             {
               "id": "0800100812",
@@ -501,7 +501,7 @@
             },
             {
               "id": "0800100813",
-              "gloss": "pamoja nanyi"
+              "gloss": "kwenu"
             },
             {
               "id": "0800100814",
@@ -521,7 +521,7 @@
             },
             {
               "id": "0800100818",
-              "gloss": null
+              "gloss": "marehemu"
             },
             {
               "id": "0800100819",
@@ -546,7 +546,7 @@
             },
             {
               "id": "0800100904",
-              "gloss": "awatafutie"
+              "gloss": "hivyo apate"
             },
             {
               "id": "0800100905",
@@ -570,7 +570,7 @@
             },
             {
               "id": "0800100910",
-              "gloss": "-"
+              "gloss": "na akawabusu"
             },
             {
               "id": "0800100911",
@@ -595,7 +595,7 @@
             },
             {
               "id": "0800101002",
-              "gloss": "-"
+              "gloss": "wakamwambia"
             },
             {
               "id": "0800101003",
@@ -652,27 +652,27 @@
             },
             {
               "id": "0800101109",
-              "gloss": null
+              "gloss": "nina"
             },
             {
               "id": "0800101110",
-              "gloss": "wana"
+              "gloss": "watoto wa kiume"
             },
             {
               "id": "0800101111",
-              "gloss": "tumboni mwangu"
+              "gloss": "katika tumbo langu"
             },
             {
               "id": "0800101112",
-              "gloss": "ili waweze kuwa"
+              "gloss": "ili wawe"
             },
             {
               "id": "0800101113",
-              "gloss": "kwenu"
+              "gloss": "waume zenu"
             },
             {
               "id": "0800101114",
-              "gloss": "waume"
+              "gloss": "waume zenu"
             }
           ]
         },
@@ -721,7 +721,7 @@
             },
             {
               "id": "0800101211",
-              "gloss": "-"
+              "gloss": "niwe na"
             },
             {
               "id": "0800101212",
@@ -733,7 +733,7 @@
             },
             {
               "id": "0800101214",
-              "gloss": "[hata kama] ningekuwa na"
+              "gloss": "[hata kama] ningekuwa"
             },
             {
               "id": "0800101215",
@@ -741,11 +741,11 @@
             },
             {
               "id": "0800101216",
-              "gloss": null
+              "gloss": "kwa mume"
             },
             {
               "id": "0800101217",
-              "gloss": "na pia"
+              "gloss": "na kisha"
             },
             {
               "id": "0800101218",
@@ -753,7 +753,7 @@
             },
             {
               "id": "0800101219",
-              "gloss": "wana"
+              "gloss": "watoto wa kiume"
             }
           ]
         },
@@ -762,91 +762,91 @@
           "words": [
             {
               "id": "0800101301",
-              "gloss": "kwa ajili yao"
+              "gloss": "je kwa ajili yao"
             },
             {
               "id": "0800101302",
-              "gloss": "mngesubiri"
+              "gloss": "mngengojea"
             },
             {
               "id": "0800101303",
-              "gloss": null
+              "gloss": "hadi"
             },
             {
               "id": "0800101304",
-              "gloss": null
+              "gloss": "ambapo"
             },
             {
               "id": "0800101305",
-              "gloss": null
+              "gloss": "watakua"
             },
             {
               "id": "0800101306",
-              "gloss": null
+              "gloss": "je mngejizuia"
             },
             {
               "id": "0800101307",
-              "gloss": null
+              "gloss": "je mngejizuia"
             },
             {
               "id": "0800101308",
-              "gloss": null
+              "gloss": "kuwa na"
             },
             {
               "id": "0800101309",
-              "gloss": null
+              "gloss": "kuwa na"
             },
             {
               "id": "0800101310",
-              "gloss": null
+              "gloss": "waume"
             },
             {
               "id": "0800101311",
-              "gloss": null
+              "gloss": "hapana"
             },
             {
               "id": "0800101312",
-              "gloss": null
+              "gloss": "binti zangu"
             },
             {
               "id": "0800101313",
-              "gloss": null
+              "gloss": "kwa maana"
             },
             {
               "id": "0800101314",
-              "gloss": null
+              "gloss": "nina uchungu mwingi"
             },
             {
               "id": "0800101315",
-              "gloss": null
+              "gloss": "nina uchungu mwingi"
             },
             {
               "id": "0800101316",
-              "gloss": null
+              "gloss": "sana"
             },
             {
               "id": "0800101317",
-              "gloss": null
+              "gloss": "kwaajili yenu"
             },
             {
               "id": "0800101318",
-              "gloss": null
+              "gloss": "kwa sababu"
             },
             {
               "id": "0800101319",
-              "gloss": null
+              "gloss": "umetoka nje"
             },
             {
               "id": "0800101320",
-              "gloss": null
+              "gloss": "dhidi yangu"
             },
             {
               "id": "0800101321",
-              "gloss": null
+              "gloss": "mkono wa"
             },
             {
               "id": "0800101322",
-              "gloss": null
+              "gloss": "Yehova"
             }
           ]
         },
@@ -855,43 +855,43 @@
           "words": [
             {
               "id": "0800101401",
-              "gloss": null
+              "gloss": "nao wakapaza"
             },
             {
               "id": "0800101402",
-              "gloss": null
+              "gloss": "sauti zao"
             },
             {
               "id": "0800101403",
-              "gloss": null
+              "gloss": "na kulia"
             },
             {
               "id": "0800101404",
-              "gloss": null
+              "gloss": "tena"
             },
             {
               "id": "0800101405",
-              "gloss": null
+              "gloss": "na akambusu"
             },
             {
               "id": "0800101406",
-              "gloss": null
+              "gloss": "Orpa"
             },
             {
               "id": "0800101407",
-              "gloss": null
+              "gloss": "mama mkwe wake"
             },
             {
               "id": "0800101408",
-              "gloss": null
+              "gloss": "lakini Ruthu"
             },
             {
               "id": "0800101409",
-              "gloss": null
+              "gloss": "akashimana"
             },
             {
               "id": "0800101410",
-              "gloss": null
+              "gloss": "naye"
             }
           ]
         },
@@ -900,47 +900,47 @@
           "words": [
             {
               "id": "0800101501",
-              "gloss": null
+              "gloss": "akasema"
             },
             {
               "id": "0800101502",
-              "gloss": null
+              "gloss": "tazama"
             },
             {
               "id": "0800101503",
-              "gloss": null
+              "gloss": "amerudi"
             },
             {
               "id": "0800101504",
-              "gloss": null
+              "gloss": "dada mkwe mwenzako mjane"
             },
             {
               "id": "0800101505",
-              "gloss": null
+              "gloss": "kwa"
             },
             {
               "id": "0800101506",
-              "gloss": null
+              "gloss": "watu wake"
             },
             {
               "id": "0800101507",
-              "gloss": null
+              "gloss": "na kwa"
             },
             {
               "id": "0800101508",
-              "gloss": null
+              "gloss": "miungu yake"
             },
             {
               "id": "0800101509",
-              "gloss": null
+              "gloss": "rudi"
             },
             {
               "id": "0800101510",
-              "gloss": null
+              "gloss": "pamoja na"
             },
             {
               "id": "0800101511",
-              "gloss": null
+              "gloss": "dada mkwe mwenzako"
             }
           ]
         },
@@ -949,83 +949,83 @@
           "words": [
             {
               "id": "0800101601",
-              "gloss": null
+              "gloss": "lakini akasema"
             },
             {
               "id": "0800101602",
-              "gloss": null
+              "gloss": "Ruthu"
             },
             {
               "id": "0800101603",
-              "gloss": null
+              "gloss": "usinihisi"
             },
             {
               "id": "0800101604",
-              "gloss": null
+              "gloss": "usinihisi"
             },
             {
               "id": "0800101605",
-              "gloss": null
+              "gloss": "usinihisi"
             },
             {
               "id": "0800101606",
-              "gloss": null
+              "gloss": "nikuache"
             },
             {
               "id": "0800101607",
-              "gloss": null
+              "gloss": "kurudi"
             },
             {
               "id": "0800101608",
-              "gloss": null
+              "gloss": "kukufuata"
             },
             {
               "id": "0800101609",
-              "gloss": null
+              "gloss": "kwa maana"
             },
             {
               "id": "0800101610",
-              "gloss": null
+              "gloss": "pale"
             },
             {
               "id": "0800101611",
-              "gloss": null
+              "gloss": "ambapo"
             },
             {
               "id": "0800101612",
-              "gloss": null
+              "gloss": "utaenda"
             },
             {
               "id": "0800101613",
-              "gloss": null
+              "gloss": "nitakwenda"
             },
             {
               "id": "0800101614",
-              "gloss": null
+              "gloss": "na popote"
             },
             {
               "id": "0800101615",
-              "gloss": null
+              "gloss": "unapolala usiku"
             },
             {
               "id": "0800101616",
-              "gloss": null
+              "gloss": "nitalala"
             },
             {
               "id": "0800101617",
-              "gloss": null
+              "gloss": "watu wako"
             },
             {
               "id": "0800101618",
-              "gloss": null
+              "gloss": "[watakuwa] watu wangu"
             },
             {
               "id": "0800101619",
-              "gloss": null
+              "gloss": "na mungu wako"
             },
             {
               "id": "0800101620",
-              "gloss": null
+              "gloss": "[atakuwa] Mungu wangu"
             }
           ]
         },
@@ -1034,67 +1034,67 @@
           "words": [
             {
               "id": "0800101701",
-              "gloss": null
+              "gloss": "pale ambapo"
             },
             {
               "id": "0800101702",
-              "gloss": null
+              "gloss": "utakufa"
             },
             {
               "id": "0800101703",
-              "gloss": null
+              "gloss": "nitakufa"
             },
             {
               "id": "0800101704",
-              "gloss": null
+              "gloss": "na hapo"
             },
             {
               "id": "0800101705",
-              "gloss": null
+              "gloss": "nitazikwa"
             },
             {
               "id": "0800101706",
-              "gloss": null
+              "gloss": "hivyo"
             },
             {
               "id": "0800101707",
-              "gloss": null
+              "gloss": "atende"
             },
             {
               "id": "0800101708",
-              "gloss": null
+              "gloss": "Yehova"
             },
             {
               "id": "0800101709",
-              "gloss": null
+              "gloss": "kwangu"
             },
             {
               "id": "0800101710",
-              "gloss": null
+              "gloss": "na pia"
             },
             {
               "id": "0800101711",
-              "gloss": null
+              "gloss": "zaidi"
             },
             {
               "id": "0800101712",
-              "gloss": null
+              "gloss": "kama"
             },
             {
               "id": "0800101713",
-              "gloss": null
+              "gloss": "[ kitu chochote isipokuwa] kifo"
             },
             {
               "id": "0800101714",
-              "gloss": null
+              "gloss": "kinanitenganisha"
             },
             {
               "id": "0800101715",
-              "gloss": null
+              "gloss": "kinanitenganisha"
             },
             {
               "id": "0800101716",
-              "gloss": null
+              "gloss": "na wewe"
             }
           ]
         },
@@ -1103,39 +1103,39 @@
           "words": [
             {
               "id": "0800101801",
-              "gloss": null
+              "gloss": "na alipoona"
             },
             {
               "id": "0800101802",
-              "gloss": null
+              "gloss": "hilo"
             },
             {
               "id": "0800101803",
-              "gloss": null
+              "gloss": "limedhamiriwa"
             },
             {
               "id": "0800101804",
-              "gloss": null
+              "gloss": "akaenda"
             },
             {
               "id": "0800101805",
-              "gloss": null
+              "gloss": "akaenda"
             },
             {
               "id": "0800101806",
-              "gloss": null
+              "gloss": "naye"
             },
             {
               "id": "0800101807",
-              "gloss": null
+              "gloss": "naye akaacha"
             },
             {
               "id": "0800101808",
-              "gloss": null
+              "gloss": "kuzungumza naye "
             },
             {
               "id": "0800101809",
-              "gloss": null
+              "gloss": "kuzungumza naye "
             }
           ]
         },
@@ -1144,63 +1144,63 @@
           "words": [
             {
               "id": "0800101901",
-              "gloss": null
+              "gloss": "wakaenda"
             },
             {
               "id": "0800101902",
-              "gloss": null
+              "gloss": "hao wawili"
             },
             {
               "id": "0800101903",
-              "gloss": null
+              "gloss": "mpaka"
             },
             {
               "id": "0800101904",
-              "gloss": null
+              "gloss": "walipokuja"
             },
             {
               "id": "0800101905",
-              "gloss": null
+              "gloss": "Bethlehemu"
             },
             {
               "id": "0800101906",
-              "gloss": null
+              "gloss": "na ikawa"
             },
             {
               "id": "0800101907",
-              "gloss": null
+              "gloss": "walipokuja"
             },
             {
               "id": "0800101908",
-              "gloss": null
+              "gloss": "Bethlehemu"
             },
             {
               "id": "0800101909",
-              "gloss": null
+              "gloss": "likasisimka"
             },
             {
               "id": "0800101910",
-              "gloss": null
+              "gloss": "jiji lote"
             },
             {
               "id": "0800101911",
-              "gloss": null
+              "gloss": "jiji lote"
             },
             {
               "id": "0800101912",
-              "gloss": null
+              "gloss": "kwa sababu yao"
             },
             {
               "id": "0800101913",
-              "gloss": null
+              "gloss": "wakasema wanawake"
             },
             {
               "id": "0800101914",
-              "gloss": null
+              "gloss": "je huyu [ni]"
             },
             {
               "id": "0800101915",
-              "gloss": null
+              "gloss": "Naomi"
             }
           ]
         },
@@ -1209,59 +1209,59 @@
           "words": [
             {
               "id": "0800102001",
-              "gloss": null
+              "gloss": "lakini akawaambia"
             },
             {
               "id": "0800102002",
-              "gloss": null
+              "gloss": "lakini akawaambia"
             },
             {
               "id": "0800102003",
-              "gloss": null
+              "gloss": "msiniite"
             },
             {
               "id": "0800102004",
-              "gloss": null
+              "gloss": "msiniite"
             },
             {
               "id": "0800102005",
-              "gloss": null
+              "gloss": "msiniite"
             },
             {
               "id": "0800102006",
-              "gloss": null
+              "gloss": "Naomi"
             },
             {
               "id": "0800102007",
-              "gloss": null
+              "gloss": "niiteni "
             },
             {
               "id": "0800102008",
-              "gloss": null
+              "gloss": "niiteni "
             },
             {
               "id": "0800102009",
-              "gloss": null
+              "gloss": "Mara"
             },
             {
               "id": "0800102010",
-              "gloss": null
+              "gloss": "kwa maana"
             },
             {
               "id": "0800102011",
-              "gloss": null
+              "gloss": "amefanya yawe magumu"
             },
             {
               "id": "0800102012",
-              "gloss": null
+              "gloss": "Mweza yote "
             },
             {
               "id": "0800102013",
-              "gloss": null
+              "gloss": "kwangu"
             },
             {
               "id": "0800102014",
-              "gloss": null
+              "gloss": "sana"
             }
           ]
         },
@@ -1278,59 +1278,59 @@
             },
             {
               "id": "0800102103",
-              "gloss": null
+              "gloss": "nilipotoka"
             },
             {
               "id": "0800102104",
-              "gloss": null
+              "gloss": "kisha [mikono] mitupu"
             },
             {
               "id": "0800102105",
-              "gloss": null
+              "gloss": "amenifanya nirudi"
             },
             {
               "id": "0800102106",
-              "gloss": null
+              "gloss": "Yehova"
             },
             {
               "id": "0800102107",
-              "gloss": null
+              "gloss": "kwanini"
             },
             {
               "id": "0800102108",
-              "gloss": null
+              "gloss": "mniite"
             },
             {
               "id": "0800102109",
-              "gloss": null
+              "gloss": "mniite"
             },
             {
               "id": "0800102110",
-              "gloss": null
+              "gloss": "Naomi"
             },
             {
               "id": "0800102111",
-              "gloss": null
+              "gloss": "wakati Yehova"
             },
             {
               "id": "0800102112",
-              "gloss": null
+              "gloss": "amenishuhudia"
             },
             {
               "id": "0800102113",
-              "gloss": null
+              "gloss": "amenishuhudia"
             },
             {
               "id": "0800102114",
-              "gloss": null
+              "gloss": "na Mweza yote"
             },
             {
               "id": "0800102115",
-              "gloss": null
+              "gloss": "amenitesa"
             },
             {
               "id": "0800102116",
-              "gloss": null
+              "gloss": "amenitesa"
             }
           ]
         },
@@ -1339,63 +1339,63 @@
           "words": [
             {
               "id": "0800102201",
-              "gloss": null
+              "gloss": "hivyo akarudi"
             },
             {
               "id": "0800102202",
-              "gloss": null
+              "gloss": "Naomi"
             },
             {
               "id": "0800102203",
-              "gloss": null
+              "gloss": "na Ruthu"
             },
             {
               "id": "0800102204",
-              "gloss": null
+              "gloss": "Mmoabu"
             },
             {
               "id": "0800102205",
-              "gloss": null
+              "gloss": "binti-mkwe wake"
             },
             {
               "id": "0800102206",
-              "gloss": null
+              "gloss": "pamoja naye"
             },
             {
               "id": "0800102207",
-              "gloss": null
+              "gloss": "aliyerudi"
             },
             {
               "id": "0800102208",
-              "gloss": null
+              "gloss": "kutoka nchi ya"
             },
             {
               "id": "0800102209",
-              "gloss": null
+              "gloss": "Moabu"
             },
             {
               "id": "0800102210",
-              "gloss": null
+              "gloss": "nao"
             },
             {
               "id": "0800102211",
-              "gloss": null
+              "gloss": "wakaja"
             },
             {
               "id": "0800102212",
-              "gloss": null
+              "gloss": "Bethlehemu"
             },
             {
               "id": "0800102213",
-              "gloss": null
+              "gloss": "mwanzoni mwa"
             },
             {
               "id": "0800102214",
-              "gloss": null
+              "gloss": "mavuno ya"
             },
             {
               "id": "0800102215",
-              "gloss": null
+              "gloss": "shayiri"
             }
           ]
         }
@@ -1409,47 +1409,47 @@
           "words": [
             {
               "id": "0800200101",
-              "gloss": null
+              "gloss": "na Naomi alikuwa na"
             },
             {
               "id": "0800200102",
-              "gloss": null
+              "gloss": "na mtu aliyemfahamu"
             },
             {
               "id": "0800200103",
-              "gloss": null
+              "gloss": "mtu wa ukoo"
             },
             {
               "id": "0800200104",
-              "gloss": null
+              "gloss": "wa mume wake"
             },
             {
               "id": "0800200105",
-              "gloss": null
+              "gloss": "mtu"
             },
             {
               "id": "0800200106",
-              "gloss": null
+              "gloss": "mwenye mali nyingi"
             },
             {
               "id": "0800200107",
-              "gloss": null
+              "gloss": "mwenye mali nyingi"
             },
             {
               "id": "0800200108",
-              "gloss": null
+              "gloss": "wa familia ya"
             },
             {
               "id": "0800200109",
-              "gloss": null
+              "gloss": "Elimeleki"
             },
             {
               "id": "0800200110",
-              "gloss": null
+              "gloss": "na jina lake"
             },
             {
               "id": "0800200111",
-              "gloss": null
+              "gloss": "[lilikuwa] Boazi"
             }
           ]
         },
@@ -1458,79 +1458,79 @@
           "words": [
             {
               "id": "0800200201",
-              "gloss": null
+              "gloss": "hivyo akasema"
             },
             {
               "id": "0800200202",
-              "gloss": null
+              "gloss": "Ruthu"
             },
             {
               "id": "0800200203",
-              "gloss": null
+              "gloss": "Mmoabu"
             },
             {
               "id": "0800200204",
-              "gloss": null
+              "gloss": "kwa"
             },
             {
               "id": "0800200205",
-              "gloss": null
+              "gloss": "Naomi"
             },
             {
               "id": "0800200206",
-              "gloss": null
+              "gloss": "tafadhali niruhusu niende"
             },
             {
               "id": "0800200207",
-              "gloss": null
+              "gloss": "tafadhali niruhusu niende"
             },
             {
               "id": "0800200208",
-              "gloss": null
+              "gloss": "mashambani"
             },
             {
               "id": "0800200209",
-              "gloss": null
+              "gloss": "nikaokote"
             },
             {
               "id": "0800200210",
-              "gloss": null
+              "gloss": "vichwa vya nafaka"
             },
             {
               "id": "0800200211",
-              "gloss": null
+              "gloss": "nyuma ya [yule]"
             },
             {
               "id": "0800200212",
-              "gloss": null
+              "gloss": "ambaye"
             },
             {
               "id": "0800200213",
-              "gloss": null
+              "gloss": "naweza kupata"
             },
             {
               "id": "0800200214",
-              "gloss": null
+              "gloss": "upendeleo"
             },
             {
               "id": "0800200215",
-              "gloss": null
+              "gloss": "machoni pake"
             },
             {
               "id": "0800200216",
-              "gloss": null
+              "gloss": "basi akamwambia"
             },
             {
               "id": "0800200217",
-              "gloss": null
+              "gloss": "basi akamwambia"
             },
             {
               "id": "0800200218",
-              "gloss": null
+              "gloss": " nenda"
             },
             {
               "id": "0800200219",
-              "gloss": null
+              "gloss": "binti yangu"
             }
           ]
         },
@@ -1539,59 +1539,59 @@
           "words": [
             {
               "id": "0800200301",
-              "gloss": null
+              "gloss": "basi akaondoka"
             },
             {
               "id": "0800200302",
-              "gloss": null
+              "gloss": "akaenda"
             },
             {
               "id": "0800200303",
-              "gloss": null
+              "gloss": "na akaokota"
             },
             {
               "id": "0800200304",
-              "gloss": null
+              "gloss": "mashambani"
             },
             {
               "id": "0800200305",
-              "gloss": null
+              "gloss": "nyuma ya"
             },
             {
               "id": "0800200306",
-              "gloss": null
+              "gloss": "wavunaji"
             },
             {
               "id": "0800200307",
-              "gloss": null
+              "gloss": "bila kutarajia akajikuta"
             },
             {
               "id": "0800200308",
-              "gloss": null
+              "gloss": "bila kutarajia akajikuta"
             },
             {
               "id": "0800200309",
-              "gloss": null
+              "gloss": "[katika] sehemu ya"
             },
             {
               "id": "0800200310",
-              "gloss": null
+              "gloss": "shamba"
             },
             {
               "id": "0800200311",
-              "gloss": null
+              "gloss": "la Boazi"
             },
             {
               "id": "0800200312",
-              "gloss": null
+              "gloss": "aliyekuwa "
             },
             {
               "id": "0800200313",
-              "gloss": null
+              "gloss": "wa ukoo wa"
             },
             {
               "id": "0800200314",
-              "gloss": null
+              "gloss": "Elimeleki"
             }
           ]
         },
@@ -1600,51 +1600,51 @@
           "words": [
             {
               "id": "0800200401",
-              "gloss": null
+              "gloss": "na tazama"
             },
             {
               "id": "0800200402",
-              "gloss": null
+              "gloss": "Boazi"
             },
             {
               "id": "0800200403",
-              "gloss": null
+              "gloss": "akaja"
             },
             {
               "id": "0800200404",
-              "gloss": null
+              "gloss": "kutoka Bethlehemu"
             },
             {
               "id": "0800200405",
-              "gloss": null
+              "gloss": "akasema"
             },
             {
               "id": "0800200406",
-              "gloss": null
+              "gloss": "kwa wavunaji"
             },
             {
               "id": "0800200407",
-              "gloss": null
+              "gloss": "Yehova [awe]"
             },
             {
               "id": "0800200408",
-              "gloss": null
+              "gloss": "pamoja nanyi"
             },
             {
               "id": "0800200409",
-              "gloss": null
+              "gloss": "wakamjibu"
             },
             {
               "id": "0800200410",
-              "gloss": null
+              "gloss": "wakamjibu"
             },
             {
               "id": "0800200411",
-              "gloss": null
+              "gloss": "akubariki"
             },
             {
               "id": "0800200412",
-              "gloss": null
+              "gloss": "Yehova"
             }
           ]
         },
@@ -1653,19 +1653,19 @@
           "words": [
             {
               "id": "0800200501",
-              "gloss": null
+              "gloss": "kisha akazungumza"
             },
             {
               "id": "0800200502",
-              "gloss": null
+              "gloss": "Boazi"
             },
             {
               "id": "0800200503",
-              "gloss": null
+              "gloss": "kwa mtumishi wake"
             },
             {
               "id": "0800200504",
-              "gloss": null
+              "gloss": "ambaye alikuwa anasimamia"
             },
             {
               "id": "0800200505",

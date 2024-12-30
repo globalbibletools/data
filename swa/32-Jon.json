@@ -22,11 +22,11 @@
             },
             {
               "id": "3200100104",
-              "gloss": null
+              "gloss": "Yona"
             },
             {
               "id": "3200100105",
-              "gloss": null
+              "gloss": "Yona"
             },
             {
               "id": "3200100106",
@@ -55,7 +55,7 @@
             },
             {
               "id": "3200100203",
-              "gloss": "-"
+              "gloss": "Ninawi"
             },
             {
               "id": "3200100204",
@@ -71,7 +71,7 @@
             },
             {
               "id": "3200100207",
-              "gloss": "na utangaze"
+              "gloss": "na upaze sauti"
             },
             {
               "id": "3200100208",
@@ -108,7 +108,7 @@
             },
             {
               "id": "3200100303",
-              "gloss": "[ili] kukimbilia"
+              "gloss": "kukimbilia"
             },
             {
               "id": "3200100304",
@@ -132,7 +132,7 @@
             },
             {
               "id": "3200100309",
-              "gloss": "akakuta"
+              "gloss": "na akakuta"
             },
             {
               "id": "3200100310",
@@ -189,7 +189,7 @@
           "words": [
             {
               "id": "3200100401",
-              "gloss": "ndipo Yehova"
+              "gloss": "lakini Yehova"
             },
             {
               "id": "3200100402",
@@ -254,7 +254,7 @@
             },
             {
               "id": "3200100503",
-              "gloss": "na wakapaza sauti"
+              "gloss": "nao wakapaza sauti"
             },
             {
               "id": "3200100504",
@@ -339,15 +339,15 @@
           "words": [
             {
               "id": "3200100601",
-              "gloss": null
+              "gloss": "hivyo akamkaribia"
             },
             {
               "id": "3200100602",
-              "gloss": null
+              "gloss": "hivyo akamkaribia"
             },
             {
               "id": "3200100603",
-              "gloss": "mkuu wa"
+              "gloss": "nahodha wa meli"
             },
             {
               "id": "3200100604",
@@ -359,7 +359,7 @@
             },
             {
               "id": "3200100606",
-              "gloss": "-"
+              "gloss": "akamwambia"
             },
             {
               "id": "3200100607",
@@ -367,7 +367,7 @@
             },
             {
               "id": "3200100608",
-              "gloss": "wewe[unamaanisha]"
+              "gloss": "wewe [unamaanisha]"
             },
             {
               "id": "3200100609",
@@ -407,11 +407,11 @@
             },
             {
               "id": "3200100618",
-              "gloss": "ili tusije"
+              "gloss": "ili tusije tukaangamia"
             },
             {
               "id": "3200100619",
-              "gloss": "tukaangamia"
+              "gloss": "ili tusije tukaangamia"
             }
           ]
         },
@@ -428,7 +428,7 @@
             },
             {
               "id": "3200100703",
-              "gloss": "[na]"
+              "gloss": "kwa"
             },
             {
               "id": "3200100704",
@@ -501,11 +501,11 @@
             },
             {
               "id": "3200100802",
-              "gloss": "-"
+              "gloss": "ndipo wakamwambia"
             },
             {
               "id": "3200100803",
-              "gloss": "tuambie"
+              "gloss": "kuwa muwazi"
             },
             {
               "id": "3200100804",
@@ -513,7 +513,7 @@
             },
             {
               "id": "3200100805",
-              "gloss": "-"
+              "gloss": "kwetu"
             },
             {
               "id": "3200100806",
@@ -561,15 +561,15 @@
             },
             {
               "id": "3200100817",
-              "gloss": "na"
+              "gloss": "na umetoka kwa watu gani"
             },
             {
               "id": "3200100818",
-              "gloss": "umetoka kwa"
+              "gloss": "na umetoka kwa watu gani"
             },
             {
               "id": "3200100819",
-              "gloss": "watu [gani]"
+              "gloss": "na umetoka kwa watu gani"
             },
             {
               "id": "3200100820",
@@ -582,19 +582,19 @@
           "words": [
             {
               "id": "3200100901",
-              "gloss": "akawaambia"
+              "gloss": "basi akawaambia"
             },
             {
               "id": "3200100902",
-              "gloss": null
+              "gloss": "basi akawaambia"
             },
             {
               "id": "3200100903",
-              "gloss": "mwebrania"
+              "gloss": "mimi ni mwebrania"
             },
             {
               "id": "3200100904",
-              "gloss": "mimi"
+              "gloss": "mimi ni mwebrania"
             },
             {
               "id": "3200100905",
@@ -622,15 +622,15 @@
             },
             {
               "id": "3200100911",
-              "gloss": "aliye"
+              "gloss": "[yule] ambaye"
             },
             {
               "id": "3200100912",
-              "gloss": "zifanya"
+              "gloss": "amezifanya"
             },
             {
               "id": "3200100913",
-              "gloss": "-"
+              "gloss": "amezifanya"
             },
             {
               "id": "3200100914",
@@ -667,11 +667,11 @@
             },
             {
               "id": "3200101005",
-              "gloss": null
+              "gloss": "wakamwambia"
             },
             {
               "id": "3200101006",
-              "gloss": "-"
+              "gloss": "wakamwambia"
             },
             {
               "id": "3200101007",
@@ -695,7 +695,7 @@
             },
             {
               "id": "3200101012",
-              "gloss": null
+              "gloss": "wanaume hao"
             },
             {
               "id": "3200101013",
@@ -723,11 +723,11 @@
             },
             {
               "id": "3200101019",
-              "gloss": "alikuwa ameshawaambia"
+              "gloss": "alikuwa amewaambia"
             },
             {
               "id": "3200101020",
-              "gloss": "-"
+              "gloss": "alikuwa amewaambia"
             }
           ]
         },
@@ -740,7 +740,7 @@
             },
             {
               "id": "3200101102",
-              "gloss": "-"
+              "gloss": "basi wakamwambia"
             },
             {
               "id": "3200101103",
@@ -793,7 +793,7 @@
             },
             {
               "id": "3200101202",
-              "gloss": "-"
+              "gloss": "akawaambia"
             },
             {
               "id": "3200101203",
@@ -825,7 +825,7 @@
             },
             {
               "id": "3200101210",
-              "gloss": "kwa sababu"
+              "gloss": "kwa maana"
             },
             {
               "id": "3200101211",
@@ -833,7 +833,7 @@
             },
             {
               "id": "3200101212",
-              "gloss": "-"
+              "gloss": "najua"
             },
             {
               "id": "3200101213",
@@ -878,7 +878,7 @@
             },
             {
               "id": "3200101304",
-              "gloss": "-"
+              "gloss": "kwenye"
             },
             {
               "id": "3200101305",
@@ -886,11 +886,11 @@
             },
             {
               "id": "3200101306",
-              "gloss": "lakini hawaku"
+              "gloss": "lakini hawakuweza"
             },
             {
               "id": "3200101307",
-              "gloss": "weza"
+              "gloss": "lakini hawakuweza"
             },
             {
               "id": "3200101308",
@@ -955,7 +955,7 @@
             },
             {
               "id": "3200101410",
-              "gloss": "kwaajili ya nafsi ya"
+              "gloss": "kwaajili ya uhai ya"
             },
             {
               "id": "3200101411",
@@ -967,15 +967,15 @@
             },
             {
               "id": "3200101413",
-              "gloss": "na usi"
+              "gloss": "na usitutoze"
             },
             {
               "id": "3200101414",
-              "gloss": "weke"
+              "gloss": "na usitutoze"
             },
             {
               "id": "3200101415",
-              "gloss": "juu yetu"
+              "gloss": "na usitutoze"
             },
             {
               "id": "3200101416",
@@ -999,11 +999,11 @@
             },
             {
               "id": "3200101421",
-              "gloss": "kama"
+              "gloss": "kama ambavyo "
             },
             {
               "id": "3200101422",
-              "gloss": "upendavyo"
+              "gloss": "ilikupendeza"
             },
             {
               "id": "3200101423",
@@ -1057,7 +1057,7 @@
           "words": [
             {
               "id": "3200101601",
-              "gloss": "kisha wakaogopa"
+              "gloss": "na wakaogopa"
             },
             {
               "id": "3200101602",
@@ -1093,11 +1093,11 @@
             },
             {
               "id": "3200101610",
-              "gloss": "nao wakaapa"
+              "gloss": "na kuweka nadhiri"
             },
             {
               "id": "3200101611",
-              "gloss": "nadhiri"
+              "gloss": "na kuweka nadhiri"
             }
           ]
         },
@@ -1106,7 +1106,7 @@
           "words": [
             {
               "id": "3200101701",
-              "gloss": "kisha akamteua"
+              "gloss": "na alikuwa amemtayarisha"
             },
             {
               "id": "3200101702",
@@ -1122,11 +1122,11 @@
             },
             {
               "id": "3200101705",
-              "gloss": "ammeze"
+              "gloss": "kummeza"
             },
             {
               "id": "3200101706",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "3200101707",
@@ -1134,7 +1134,7 @@
             },
             {
               "id": "3200101708",
-              "gloss": "basi alikuwa"
+              "gloss": "na akawa"
             },
             {
               "id": "3200101709",
@@ -1162,7 +1162,7 @@
             },
             {
               "id": "3200101715",
-              "gloss": null
+              "gloss": "kwa siku tatu mchana na usiku"
             }
           ]
         }
@@ -1176,7 +1176,7 @@
           "words": [
             {
               "id": "3200200101",
-              "gloss": "ndipo akasali"
+              "gloss": "na akasali"
             },
             {
               "id": "3200200102",
@@ -1217,11 +1217,11 @@
             },
             {
               "id": "3200200203",
-              "gloss": "katika taabu"
+              "gloss": "kwa sababu ya taabu yangu"
             },
             {
               "id": "3200200204",
-              "gloss": "yangu"
+              "gloss": "kwa sababu ya taabu yangu"
             },
             {
               "id": "3200200205",
@@ -1249,7 +1249,7 @@
             },
             {
               "id": "3200200211",
-              "gloss": "[nawe] ukasikia"
+              "gloss": "ukasikia"
             },
             {
               "id": "3200200212",
@@ -1286,11 +1286,11 @@
             },
             {
               "id": "3200200307",
-              "gloss": "yote"
+              "gloss": "mawimbi yako yote makubwa"
             },
             {
               "id": "3200200308",
-              "gloss": "mawimbi yako makubwa"
+              "gloss": "mawimbi yako yote makubwa"
             },
             {
               "id": "3200200309",
@@ -1339,7 +1339,7 @@
             },
             {
               "id": "3200200408",
-              "gloss": "kulitazama"
+              "gloss": "kutazama"
             },
             {
               "id": "3200200409",
@@ -1392,7 +1392,7 @@
             },
             {
               "id": "3200200509",
-              "gloss": "kwenye kichwa changu"
+              "gloss": "kuzunguka kichwa changu"
             }
           ]
         },
@@ -1429,7 +1429,7 @@
             },
             {
               "id": "3200200608",
-              "gloss": "lakini uliupandisha"
+              "gloss": "lakini ulipandisha"
             },
             {
               "id": "3200200609",
@@ -1458,7 +1458,7 @@
             },
             {
               "id": "3200200702",
-              "gloss": "-"
+              "gloss": "nilipokuwa nikidhoofika"
             },
             {
               "id": "3200200703",
@@ -1478,7 +1478,7 @@
             },
             {
               "id": "3200200707",
-              "gloss": "na ikaja"
+              "gloss": null
             },
             {
               "id": "3200200708",
@@ -1613,7 +1613,7 @@
             },
             {
               "id": "3200201009",
-              "gloss": null
+              "gloss": "-"
             }
           ]
         }
@@ -1712,7 +1712,7 @@
             },
             {
               "id": "3200300214",
-              "gloss": "kwako"
+              "gloss": "ninakuambia"
             }
           ]
         },
@@ -1773,11 +1773,11 @@
             },
             {
               "id": "3200300314",
-              "gloss": "tatu"
+              "gloss": "siku tatu"
             },
             {
               "id": "3200300315",
-              "gloss": "siku"
+              "gloss": "siku tatu"
             }
           ]
         },
@@ -1806,7 +1806,7 @@
             },
             {
               "id": "3200300406",
-              "gloss": null
+              "gloss": "siku ya"
             },
             {
               "id": "3200300407",
@@ -1826,11 +1826,11 @@
             },
             {
               "id": "3200300411",
-              "gloss": "arobaini"
+              "gloss": "siku arobaini"
             },
             {
               "id": "3200300412",
-              "gloss": "siku"
+              "gloss": "siku arobaini"
             },
             {
               "id": "3200300413",
@@ -2005,11 +2005,11 @@
             },
             {
               "id": "3200300712",
-              "gloss": "hawapaswi"
+              "gloss": "hawapaswi kuonja"
             },
             {
               "id": "3200300713",
-              "gloss": "kuonja"
+              "gloss": "hawapaswi kuonja"
             },
             {
               "id": "3200300714",
@@ -2017,11 +2017,11 @@
             },
             {
               "id": "3200300715",
-              "gloss": "hawapaswi"
+              "gloss": "hawapaswi kula"
             },
             {
               "id": "3200300716",
-              "gloss": "kula"
+              "gloss": "hawapaswi kula"
             },
             {
               "id": "3200300717",
@@ -2029,11 +2029,11 @@
             },
             {
               "id": "3200300718",
-              "gloss": "hawapaswi"
+              "gloss": "hapaswi kunywa"
             },
             {
               "id": "3200300719",
-              "gloss": "kunywa"
+              "gloss": "hapaswi kunywa"
             }
           ]
         },
@@ -2086,7 +2086,7 @@
             },
             {
               "id": "3200300812",
-              "gloss": "uovu"
+              "gloss": "ovu"
             },
             {
               "id": "3200300813",
@@ -2127,7 +2127,7 @@
             },
             {
               "id": "3200300905",
-              "gloss": "[huyo] Mungu"
+              "gloss": "Mungu"
             },
             {
               "id": "3200300906",
@@ -2143,11 +2143,11 @@
             },
             {
               "id": "3200300909",
-              "gloss": "ili tusije"
+              "gloss": "ili tusiangamie"
             },
             {
               "id": "3200300910",
-              "gloss": "tukaangamia"
+              "gloss": "ili tusiangamie"
             }
           ]
         },
@@ -2212,7 +2212,7 @@
             },
             {
               "id": "3200301015",
-              "gloss": "ameupanga"
+              "gloss": "angeuleta"
             },
             {
               "id": "3200301016",
@@ -2220,11 +2220,11 @@
             },
             {
               "id": "3200301017",
-              "gloss": "wala haku "
+              "gloss": "wala hakufanya"
             },
             {
               "id": "3200301018",
-              "gloss": "fanya"
+              "gloss": "wala hakufanya"
             }
           ]
         }
@@ -2258,11 +2258,11 @@
             },
             {
               "id": "3200400106",
-              "gloss": "akakasirika [sana]"
+              "gloss": "akawa na hasira"
             },
             {
               "id": "3200400107",
-              "gloss": "-"
+              "gloss": "akawa na hasira"
             }
           ]
         },
@@ -2538,11 +2538,11 @@
             },
             {
               "id": "3200400515",
-              "gloss": "hadi"
+              "gloss": "mpaka"
             },
             {
               "id": "3200400516",
-              "gloss": "-"
+              "gloss": "mpaka"
             },
             {
               "id": "3200400517",
@@ -2567,7 +2567,7 @@
           "words": [
             {
               "id": "3200400601",
-              "gloss": "kisha akaandaa"
+              "gloss": "na akatayarisha"
             },
             {
               "id": "3200400602",
@@ -2579,7 +2579,7 @@
             },
             {
               "id": "3200400604",
-              "gloss": "mmng'unye"
+              "gloss": "mmea"
             },
             {
               "id": "3200400605",
@@ -2635,7 +2635,7 @@
             },
             {
               "id": "3200400618",
-              "gloss": "mmung'unye [huo]"
+              "gloss": "mmea [huo]"
             },
             {
               "id": "3200400619",
@@ -2652,7 +2652,7 @@
           "words": [
             {
               "id": "3200400701",
-              "gloss": "lakini akamuandaa"
+              "gloss": "lakini akatayarisha "
             },
             {
               "id": "3200400702",
@@ -2684,7 +2684,7 @@
             },
             {
               "id": "3200400709",
-              "gloss": "mmung'unye [huo]"
+              "gloss": "mmea [huo]"
             },
             {
               "id": "3200400710",
@@ -2709,7 +2709,7 @@
             },
             {
               "id": "3200400804",
-              "gloss": "akauandaa"
+              "gloss": "akatayarisha "
             },
             {
               "id": "3200400805",
@@ -2765,7 +2765,7 @@
             },
             {
               "id": "3200400818",
-              "gloss": null
+              "gloss": "kufa"
             },
             {
               "id": "3200400819",
@@ -2822,7 +2822,7 @@
             },
             {
               "id": "3200400909",
-              "gloss": "mmung'unye [huo]"
+              "gloss": "mmea [huo]"
             },
             {
               "id": "3200400910",
@@ -2875,7 +2875,7 @@
             },
             {
               "id": "3200401006",
-              "gloss": "mmung'unye [huo]"
+              "gloss": "mmea [huo]"
             },
             {
               "id": "3200401007",
@@ -2883,23 +2883,23 @@
             },
             {
               "id": "3200401008",
-              "gloss": "haukuwa"
+              "gloss": "haukuwa umeufanyia kazi"
             },
             {
               "id": "3200401009",
-              "gloss": "umefanya kazi"
+              "gloss": "haukuwa umeufanyia kazi"
             },
             {
               "id": "3200401010",
-              "gloss": "kwake"
+              "gloss": "haukuwa umeufanyia kazi"
             },
             {
               "id": "3200401011",
-              "gloss": "na haukuwa"
+              "gloss": "wala kuukuza"
             },
             {
               "id": "3200401012",
-              "gloss": "umeufanya ukue"
+              "gloss": "wala kuukuza"
             },
             {
               "id": "3200401013",
@@ -2936,11 +2936,11 @@
             },
             {
               "id": "3200401102",
-              "gloss": "sikupaswa"
+              "gloss": "sikupaswa kuwa na huruma"
             },
             {
               "id": "3200401103",
-              "gloss": "kuwa na huruma"
+              "gloss": "sikupaswa kuwa na huruma"
             },
             {
               "id": "3200401104",
@@ -2964,27 +2964,27 @@
             },
             {
               "id": "3200401109",
-              "gloss": "kuna"
+              "gloss": "ndani yake kuna"
             },
             {
               "id": "3200401110",
-              "gloss": "ndani yake"
+              "gloss": "ndani yake kuna"
             },
             {
               "id": "3200401111",
-              "gloss": "zaidi"
+              "gloss": "zaidi ya"
             },
             {
               "id": "3200401112",
-              "gloss": "kuliko mbili"
+              "gloss": "mara mbili"
             },
             {
               "id": "3200401113",
-              "gloss": "[na] kumi [mara]"
+              "gloss": "mara mbili"
             },
             {
               "id": "3200401114",
-              "gloss": "elfu kumi"
+              "gloss": "kumi elfu"
             },
             {
               "id": "3200401115",
@@ -2996,11 +2996,11 @@
             },
             {
               "id": "3200401117",
-              "gloss": null
+              "gloss": "siwezi kujua"
             },
             {
               "id": "3200401118",
-              "gloss": "kutambua"
+              "gloss": "siwezi kujua"
             },
             {
               "id": "3200401119",
