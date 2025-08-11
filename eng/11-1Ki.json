@@ -590,7 +590,7 @@
             },
             {
               "id": "1100100923",
-              "gloss": null
+              "gloss": "the king"
             }
           ]
         },
@@ -9428,35 +9428,35 @@
           "words": [
             {
               "id": "1100400901",
-              "gloss": "in Ben-deker"
+              "gloss": "Ben"
             },
             {
               "id": "1100400902",
-              "gloss": "in Makaz"
+              "gloss": "deker"
             },
             {
               "id": "1100400903",
-              "gloss": "and Shaalbim"
+              "gloss": "in Makaz"
             },
             {
               "id": "1100400904",
-              "gloss": "and Beth Shemesh"
+              "gloss": "and in Shaalbim"
             },
             {
               "id": "1100400905",
-              "gloss": "and Elon in Beth Hanan"
+              "gloss": "and Beth Shemesh"
             },
             {
               "id": "1100400906",
-              "gloss": " - "
+              "gloss": "and Elon"
             },
             {
               "id": "1100400907",
-              "gloss": null
+              "gloss": "Beth Hanan"
             },
             {
               "id": "1100400908",
-              "gloss": null
+              "gloss": " - "
             }
           ]
         },
