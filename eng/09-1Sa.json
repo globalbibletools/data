@@ -44317,11 +44317,7 @@
             },
             {
               "id": "0902302814",
-              "gloss": "the Rock of Escape"
-            },
-            {
-              "id": "0902302815",
-              "gloss": "Hammahlekoth"
+              "gloss": null
             }
           ]
         },
@@ -44350,11 +44346,7 @@
             },
             {
               "id": "0902302906",
-              "gloss": "En"
-            },
-            {
-              "id": "0902302907",
-              "gloss": "Gedi"
+              "gloss": null
             }
           ]
         }
@@ -44416,15 +44408,11 @@
             },
             {
               "id": "0902400113",
-              "gloss": "En Gedi"
+              "gloss": null
             },
             {
               "id": "0902400114",
-              "gloss": "Gedi"
-            },
-            {
-              "id": "0902400115",
-              "gloss": " - "
+              "gloss": "-"
             }
           ]
         },

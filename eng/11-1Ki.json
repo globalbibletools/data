@@ -542,7 +542,7 @@
             },
             {
               "id": "1100100911",
-              "gloss": "En Rogel"
+              "gloss": null
             },
             {
               "id": "1100100912",
@@ -586,10 +586,6 @@
             },
             {
               "id": "1100100922",
-              "gloss": "the king"
-            },
-            {
-              "id": "1100100923",
               "gloss": "the king"
             }
           ]
@@ -9428,34 +9424,26 @@
           "words": [
             {
               "id": "1100400901",
-              "gloss": "Ben"
+              "gloss": null
             },
             {
               "id": "1100400902",
-              "gloss": "deker"
-            },
-            {
-              "id": "1100400903",
               "gloss": "in Makaz"
             },
             {
-              "id": "1100400904",
+              "id": "1100400903",
               "gloss": "and in Shaalbim"
             },
             {
-              "id": "1100400905",
+              "id": "1100400904",
               "gloss": "and Beth Shemesh"
             },
             {
+              "id": "1100400905",
+              "gloss": null
+            },
+            {
               "id": "1100400906",
-              "gloss": "and Elon"
-            },
-            {
-              "id": "1100400907",
-              "gloss": "Beth Hanan"
-            },
-            {
-              "id": "1100400908",
               "gloss": " - "
             }
           ]
