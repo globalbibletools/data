@@ -365,16 +365,16 @@
               "gloss": "een gebod"
             },
             {
+              "id": "6300100508-01",
+              "gloss": null
+            },
+            {
               "id": "6300100509",
               "gloss": "ik schrijvende"
             },
             {
               "id": "6300100510",
               "gloss": "aan jou"
-            },
-            {
-              "id": "6300100511",
-              "gloss": "nieuwe"
             },
             {
               "id": "6300100512",
@@ -385,8 +385,8 @@
               "gloss": "dat wat"
             },
             {
-              "id": "6300100514",
-              "gloss": "wij hebben gehad"
+              "id": "6300100513-01",
+              "gloss": null
             },
             {
               "id": "6300100515",
@@ -628,8 +628,8 @@
               "gloss": "die dingen"
             },
             {
-              "id": "6300100807",
-              "gloss": "wij hebben bereikt"
+              "id": "6300100806-01",
+              "gloss": null
             },
             {
               "id": "6300100808",
@@ -996,8 +996,8 @@
               "gloss": "vreugde"
             },
             {
-              "id": "6300101224",
-              "gloss": "van ons"
+              "id": "6300101223-01",
+              "gloss": null
             },
             {
               "id": "6300101225",
@@ -1047,10 +1047,6 @@
             {
               "id": "6300101309",
               "gloss": "uitverkorene"
-            },
-            {
-              "id": "6300101310",
-              "gloss": "amen"
             }
           ]
         }
