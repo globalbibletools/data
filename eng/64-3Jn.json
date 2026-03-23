@@ -367,8 +367,8 @@
               "gloss": "name"
             },
             {
-              "id": "6400100705",
-              "gloss": "they went forth"
+              "id": "6400100704-01",
+              "gloss": null
             },
             {
               "id": "6400100706",
@@ -904,50 +904,55 @@
             {
               "id": "6400101410",
               "gloss": "we will speak"
+            }
+          ]
+        },
+        {
+          "id": "64001015",
+          "words": [
+            {
+              "id": "6400101500-01",
+              "gloss": null
             },
             {
-              "id": "6400101411",
-              "gloss": "peace"
+              "id": "6400101500-02",
+              "gloss": null
             },
             {
-              "id": "6400101412",
-              "gloss": "to you"
+              "id": "6400101500-03",
+              "gloss": null
             },
             {
-              "id": "6400101413",
-              "gloss": "greet"
+              "id": "6400101500-04",
+              "gloss": null
             },
             {
-              "id": "6400101414",
-              "gloss": "you"
+              "id": "6400101500-05",
+              "gloss": null
             },
             {
-              "id": "6400101415",
-              "gloss": "the"
+              "id": "6400101500-06",
+              "gloss": null
             },
             {
-              "id": "6400101416",
-              "gloss": "friends"
+              "id": "6400101500-07",
+              "gloss": null
             },
             {
-              "id": "6400101417",
-              "gloss": "greet"
+              "id": "6400101500-08",
+              "gloss": null
             },
             {
-              "id": "6400101418",
-              "gloss": "the"
+              "id": "6400101500-09",
+              "gloss": null
             },
             {
-              "id": "6400101419",
-              "gloss": "friends"
+              "id": "6400101500-10",
+              "gloss": null
             },
             {
-              "id": "6400101420",
-              "gloss": "by"
-            },
-            {
-              "id": "6400101421",
-              "gloss": "name"
+              "id": "6400101500-11",
+              "gloss": null
             }
           ]
         }

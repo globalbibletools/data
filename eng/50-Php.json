@@ -491,8 +491,8 @@
               "gloss": "gospel"
             },
             {
-              "id": "5000100731",
-              "gloss": "fellow-partakers"
+              "id": "5000100730-01",
+              "gloss": null
             },
             {
               "id": "5000100732",
@@ -1052,44 +1052,60 @@
               "gloss": "The [latter]"
             },
             {
-              "id": "5000101602",
-              "gloss": "indeed"
+              "id": "5000101601-01",
+              "gloss": null
             },
             {
               "id": "5000101603",
               "gloss": "out of"
             },
             {
-              "id": "5000101604",
-              "gloss": "love"
+              "id": "5000101603-01",
+              "gloss": null
             },
             {
-              "id": "5000101605",
-              "gloss": "knowing"
+              "id": "5000101603-02",
+              "gloss": null
             },
             {
-              "id": "5000101606",
-              "gloss": "that"
+              "id": "5000101603-03",
+              "gloss": null
             },
             {
-              "id": "5000101607",
-              "gloss": "for"
+              "id": "5000101603-04",
+              "gloss": null
             },
             {
-              "id": "5000101608",
-              "gloss": "defense"
+              "id": "5000101603-05",
+              "gloss": null
             },
             {
-              "id": "5000101609",
-              "gloss": "of the"
+              "id": "5000101603-06",
+              "gloss": null
             },
             {
-              "id": "5000101610",
-              "gloss": "gospel"
+              "id": "5000101603-07",
+              "gloss": null
             },
             {
-              "id": "5000101611",
-              "gloss": "I am appointed"
+              "id": "5000101603-08",
+              "gloss": null
+            },
+            {
+              "id": "5000101603-09",
+              "gloss": null
+            },
+            {
+              "id": "5000101603-10",
+              "gloss": null
+            },
+            {
+              "id": "5000101603-11",
+              "gloss": null
+            },
+            {
+              "id": "5000101603-12",
+              "gloss": null
             }
           ]
         },
@@ -1101,60 +1117,44 @@
               "gloss": "the [former]"
             },
             {
-              "id": "5000101702",
-              "gloss": "however"
+              "id": "5000101701-01",
+              "gloss": null
             },
             {
               "id": "5000101703",
               "gloss": "out of"
             },
             {
-              "id": "5000101704",
-              "gloss": "self-interest"
+              "id": "5000101703-01",
+              "gloss": null
             },
             {
-              "id": "5000101705",
-              "gloss": " - "
+              "id": "5000101703-02",
+              "gloss": null
             },
             {
-              "id": "5000101706",
-              "gloss": "Christ"
+              "id": "5000101703-03",
+              "gloss": null
             },
             {
-              "id": "5000101707",
-              "gloss": "are proclaiming"
+              "id": "5000101703-04",
+              "gloss": null
             },
             {
-              "id": "5000101708",
-              "gloss": "not"
+              "id": "5000101703-05",
+              "gloss": null
             },
             {
-              "id": "5000101709",
-              "gloss": "purely"
+              "id": "5000101703-06",
+              "gloss": null
             },
             {
-              "id": "5000101710",
-              "gloss": "supposing"
+              "id": "5000101703-07",
+              "gloss": null
             },
             {
-              "id": "5000101711",
-              "gloss": "tribulation"
-            },
-            {
-              "id": "5000101712",
-              "gloss": "to add"
-            },
-            {
-              "id": "5000101713",
-              "gloss": "to the"
-            },
-            {
-              "id": "5000101714",
-              "gloss": "chains"
-            },
-            {
-              "id": "5000101715",
-              "gloss": "of me"
+              "id": "5000101703-08",
+              "gloss": null
             }
           ]
         },
@@ -2395,8 +2395,8 @@
               "gloss": "of themselves"
             },
             {
-              "id": "5000200404",
-              "gloss": "each"
+              "id": "5000200403-01",
+              "gloss": null
             },
             {
               "id": "5000200405",
@@ -2560,32 +2560,32 @@
             {
               "id": "5000200710",
               "gloss": "having been made"
+            },
+            {
+              "id": "5000200710-01",
+              "gloss": null
+            },
+            {
+              "id": "5000200710-02",
+              "gloss": null
+            },
+            {
+              "id": "5000200710-03",
+              "gloss": null
+            },
+            {
+              "id": "5000200710-04",
+              "gloss": null
+            },
+            {
+              "id": "5000200710-05",
+              "gloss": null
             }
           ]
         },
         {
           "id": "50002008",
           "words": [
-            {
-              "id": "5000200801",
-              "gloss": "and"
-            },
-            {
-              "id": "5000200802",
-              "gloss": "in appearance"
-            },
-            {
-              "id": "5000200803",
-              "gloss": "having been found"
-            },
-            {
-              "id": "5000200804",
-              "gloss": "as"
-            },
-            {
-              "id": "5000200805",
-              "gloss": "a man"
-            },
             {
               "id": "5000200806",
               "gloss": "he humbled"
@@ -2770,16 +2770,16 @@
               "gloss": "that"
             },
             {
-              "id": "5000201106",
-              "gloss": "[is] Lord"
+              "id": "5000201105-01",
+              "gloss": null
             },
             {
-              "id": "5000201107",
-              "gloss": "Jesus"
+              "id": "5000201105-02",
+              "gloss": null
             },
             {
-              "id": "5000201108",
-              "gloss": "Christ"
+              "id": "5000201105-03",
+              "gloss": null
             },
             {
               "id": "5000201109",
@@ -3184,8 +3184,8 @@
           "id": "50002017",
           "words": [
             {
-              "id": "5000201701",
-              "gloss": "But"
+              "id": "5000201700-01",
+              "gloss": null
             },
             {
               "id": "5000201702",
@@ -3240,8 +3240,8 @@
               "gloss": "and"
             },
             {
-              "id": "5000201715",
-              "gloss": "rejoice with"
+              "id": "5000201714-01",
+              "gloss": null
             },
             {
               "id": "5000201716",
@@ -3285,8 +3285,8 @@
               "gloss": "and"
             },
             {
-              "id": "5000201808",
-              "gloss": "rejoice with"
+              "id": "5000201807-01",
+              "gloss": null
             },
             {
               "id": "5000201809",
@@ -3444,12 +3444,12 @@
               "gloss": "the things"
             },
             {
-              "id": "5000202109",
-              "gloss": "of Christ"
+              "id": "5000202108-01",
+              "gloss": null
             },
             {
-              "id": "5000202110",
-              "gloss": "Jesus"
+              "id": "5000202109",
+              "gloss": "of Christ"
             }
           ]
         },
@@ -3727,10 +3727,6 @@
             {
               "id": "5000202605",
               "gloss": "you"
-            },
-            {
-              "id": "5000202606",
-              "gloss": "to behold"
             },
             {
               "id": "5000202607",
@@ -4494,16 +4490,8 @@
               "gloss": "But"
             },
             {
-              "id": "5000300802",
-              "gloss": "yes rather"
-            },
-            {
-              "id": "5000300803",
-              "gloss": "Therefore"
-            },
-            {
-              "id": "5000300804",
-              "gloss": "indeed"
+              "id": "5000300801-01",
+              "gloss": null
             },
             {
               "id": "5000300805",
@@ -4752,16 +4740,8 @@
               "gloss": "and"
             },
             {
-              "id": "5000301011",
-              "gloss": "the"
-            },
-            {
               "id": "5000301012",
               "gloss": "fellowship"
-            },
-            {
-              "id": "5000301013",
-              "gloss": "of the"
             },
             {
               "id": "5000301014",
@@ -5140,22 +5120,6 @@
             {
               "id": "5000301607",
               "gloss": "to walk"
-            },
-            {
-              "id": "5000301608",
-              "gloss": "rule"
-            },
-            {
-              "id": "5000301609",
-              "gloss": "the"
-            },
-            {
-              "id": "5000301610",
-              "gloss": "same"
-            },
-            {
-              "id": "5000301611",
-              "gloss": "mind"
             }
           ]
         },
@@ -6478,8 +6442,8 @@
               "gloss": "you did"
             },
             {
-              "id": "5000401404",
-              "gloss": "having fellowship in"
+              "id": "5000401403-01",
+              "gloss": null
             },
             {
               "id": "5000401405",

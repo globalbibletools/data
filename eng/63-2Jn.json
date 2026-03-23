@@ -365,16 +365,16 @@
               "gloss": "a commandment"
             },
             {
+              "id": "6300100508-01",
+              "gloss": null
+            },
+            {
               "id": "6300100509",
               "gloss": "I am writing"
             },
             {
               "id": "6300100510",
               "gloss": "to you"
-            },
-            {
-              "id": "6300100511",
-              "gloss": "new"
             },
             {
               "id": "6300100512",
@@ -385,8 +385,8 @@
               "gloss": "that which"
             },
             {
-              "id": "6300100514",
-              "gloss": "we have had"
+              "id": "6300100513-01",
+              "gloss": null
             },
             {
               "id": "6300100515",
@@ -628,8 +628,8 @@
               "gloss": "what things"
             },
             {
-              "id": "6300100807",
-              "gloss": "we have accomplished"
+              "id": "6300100806-01",
+              "gloss": null
             },
             {
               "id": "6300100808",
@@ -996,8 +996,8 @@
               "gloss": "joy"
             },
             {
-              "id": "6300101224",
-              "gloss": "of us"
+              "id": "6300101223-01",
+              "gloss": null
             },
             {
               "id": "6300101225",
@@ -1047,10 +1047,6 @@
             {
               "id": "6300101309",
               "gloss": "elect"
-            },
-            {
-              "id": "6300101310",
-              "gloss": "amen"
             }
           ]
         }

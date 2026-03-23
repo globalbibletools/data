@@ -654,10 +654,6 @@
               "gloss": "many"
             },
             {
-              "id": "5600101004",
-              "gloss": "also"
-            },
-            {
               "id": "5600101005",
               "gloss": "insubordinate"
             },
@@ -1245,8 +1241,8 @@
               "gloss": "that"
             },
             {
-              "id": "5600200402",
-              "gloss": "they might train"
+              "id": "5600200401-01",
+              "gloss": null
             },
             {
               "id": "5600200403",
@@ -1782,12 +1778,12 @@
               "gloss": "of us"
             },
             {
-              "id": "5600201315",
-              "gloss": "Christ"
+              "id": "5600201314-01",
+              "gloss": null
             },
             {
-              "id": "5600201316",
-              "gloss": "Jesus"
+              "id": "5600201315",
+              "gloss": "Christ"
             }
           ]
         },
@@ -2250,8 +2246,8 @@
               "gloss": "[the] washing"
             },
             {
-              "id": "5600300519",
-              "gloss": "of regeneration"
+              "id": "5600300518-01",
+              "gloss": null
             },
             {
               "id": "5600300520",
@@ -2878,10 +2874,6 @@
             {
               "id": "5600301517",
               "gloss": "of you"
-            },
-            {
-              "id": "5600301518",
-              "gloss": "Amen"
             }
           ]
         }

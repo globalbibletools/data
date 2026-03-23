@@ -402,10 +402,6 @@
               "gloss": "being necessary"
             },
             {
-              "id": "6000100608",
-              "gloss": "you are"
-            },
-            {
               "id": "6000100609",
               "gloss": "having been put to grief"
             },
@@ -860,10 +856,6 @@
               "gloss": "you"
             },
             {
-              "id": "6000101218",
-              "gloss": "by"
-            },
-            {
               "id": "6000101219",
               "gloss": "[the] Spirit"
             },
@@ -1108,10 +1100,6 @@
               "gloss": "it has been written"
             },
             {
-              "id": "6000101603",
-              "gloss": " - "
-            },
-            {
               "id": "6000101604",
               "gloss": "Holy"
             },
@@ -1130,10 +1118,6 @@
             {
               "id": "6000101608",
               "gloss": "holy"
-            },
-            {
-              "id": "6000101609",
-              "gloss": "am"
             }
           ]
         },
@@ -1532,10 +1516,6 @@
             {
               "id": "6000102213",
               "gloss": "out of"
-            },
-            {
-              "id": "6000102214",
-              "gloss": "[a] pure"
             },
             {
               "id": "6000102215",
@@ -2047,10 +2027,6 @@
               "gloss": "acceptable"
             },
             {
-              "id": "6000200516",
-              "gloss": " - "
-            },
-            {
               "id": "6000200517",
               "gloss": "to God"
             },
@@ -2108,12 +2084,12 @@
               "gloss": "a stone"
             },
             {
-              "id": "6000200610",
-              "gloss": "chosen"
+              "id": "6000200609-01",
+              "gloss": null
             },
             {
-              "id": "6000200611",
-              "gloss": "a cornerstone"
+              "id": "6000200610",
+              "gloss": "chosen"
             },
             {
               "id": "6000200612",
@@ -2610,8 +2586,8 @@
               "gloss": "having witnessed"
             },
             {
-              "id": "6000201221",
-              "gloss": "they might glorify"
+              "id": "6000201220-01",
+              "gloss": null
             },
             {
               "id": "6000201222",
@@ -3423,8 +3399,8 @@
               "gloss": "going astray"
             },
             {
-              "id": "6000202506",
-              "gloss": "but"
+              "id": "6000202505-01",
+              "gloss": null
             },
             {
               "id": "6000202507",
@@ -3479,10 +3455,6 @@
             {
               "id": "6000300101",
               "gloss": "Likewise"
-            },
-            {
-              "id": "6000300102",
-              "gloss": " - "
             },
             {
               "id": "6000300103",
@@ -3704,8 +3676,8 @@
               "gloss": "of the"
             },
             {
-              "id": "6000300411",
-              "gloss": "gentle"
+              "id": "6000300410-01",
+              "gloss": null
             },
             {
               "id": "6000300412",
@@ -3955,8 +3927,8 @@
               "gloss": "also"
             },
             {
-              "id": "6000300716",
-              "gloss": "joint-heirs"
+              "id": "6000300715-01",
+              "gloss": null
             },
             {
               "id": "6000300717",
@@ -3979,8 +3951,8 @@
               "gloss": "not"
             },
             {
-              "id": "6000300722",
-              "gloss": "to be hindered"
+              "id": "6000300721-01",
+              "gloss": null
             },
             {
               "id": "6000300723",
@@ -4533,32 +4505,32 @@
             {
               "id": "6000301523",
               "gloss": "hope"
-            },
-            {
-              "id": "6000301524",
-              "gloss": "yet"
-            },
-            {
-              "id": "6000301525",
-              "gloss": "with"
-            },
-            {
-              "id": "6000301526",
-              "gloss": "gentleness"
-            },
-            {
-              "id": "6000301527",
-              "gloss": "and"
-            },
-            {
-              "id": "6000301528",
-              "gloss": "fear"
             }
           ]
         },
         {
           "id": "60003016",
           "words": [
+            {
+              "id": "6000301600-01",
+              "gloss": null
+            },
+            {
+              "id": "6000301600-02",
+              "gloss": null
+            },
+            {
+              "id": "6000301600-03",
+              "gloss": null
+            },
+            {
+              "id": "6000301600-04",
+              "gloss": null
+            },
+            {
+              "id": "6000301600-05",
+              "gloss": null
+            },
             {
               "id": "6000301601",
               "gloss": "a conscience"
@@ -4584,8 +4556,20 @@
               "gloss": "this"
             },
             {
-              "id": "6000301607",
-              "gloss": "they might speak against you"
+              "id": "6000301606-01",
+              "gloss": null
+            },
+            {
+              "id": "6000301606-02",
+              "gloss": null
+            },
+            {
+              "id": "6000301606-03",
+              "gloss": null
+            },
+            {
+              "id": "6000301606-04",
+              "gloss": null
             },
             {
               "id": "6000301608",
@@ -4706,8 +4690,8 @@
               "gloss": "sins"
             },
             {
-              "id": "6000301807",
-              "gloss": "suffered"
+              "id": "6000301806-01",
+              "gloss": null
             },
             {
               "id": "6000301808",
@@ -5012,10 +4996,6 @@
             {
               "id": "6000302204",
               "gloss": "[the] right hand"
-            },
-            {
-              "id": "6000302205",
-              "gloss": " - "
             },
             {
               "id": "6000302206",
@@ -5362,10 +5342,6 @@
             {
               "id": "6000400505",
               "gloss": "ready"
-            },
-            {
-              "id": "6000400506",
-              "gloss": "is"
             },
             {
               "id": "6000400507",
@@ -6023,38 +5999,6 @@
             {
               "id": "6000401418",
               "gloss": "rests"
-            },
-            {
-              "id": "6000401419",
-              "gloss": "on"
-            },
-            {
-              "id": "6000401420",
-              "gloss": "indeed"
-            },
-            {
-              "id": "6000401421",
-              "gloss": "their [part]"
-            },
-            {
-              "id": "6000401422",
-              "gloss": "he is blasphemed"
-            },
-            {
-              "id": "6000401423",
-              "gloss": "on"
-            },
-            {
-              "id": "6000401424",
-              "gloss": "however"
-            },
-            {
-              "id": "6000401425",
-              "gloss": "your [part]"
-            },
-            {
-              "id": "6000401426",
-              "gloss": "he is glorified"
             }
           ]
         },
@@ -6321,10 +6265,6 @@
               "gloss": "the"
             },
             {
-              "id": "6000401808",
-              "gloss": "also"
-            },
-            {
               "id": "6000401809",
               "gloss": "ungodly"
             },
@@ -6539,10 +6479,6 @@
             {
               "id": "6000500207",
               "gloss": "of God"
-            },
-            {
-              "id": "6000500208",
-              "gloss": "exercising oversight"
             },
             {
               "id": "6000500209",
@@ -6915,10 +6851,6 @@
               "gloss": "seeking"
             },
             {
-              "id": "6000500812",
-              "gloss": "whom"
-            },
-            {
               "id": "6000500813",
               "gloss": "to devour"
             }
@@ -7061,10 +6993,6 @@
               "gloss": "Christ"
             },
             {
-              "id": "6000501016",
-              "gloss": "Jesus"
-            },
-            {
               "id": "6000501017",
               "gloss": "a little while"
             },
@@ -7087,10 +7015,6 @@
             {
               "id": "6000501022",
               "gloss": " will strengthen [you]"
-            },
-            {
-              "id": "6000501023",
-              "gloss": "[and] will establish [you]"
             }
           ]
         },
@@ -7327,10 +7251,6 @@
             {
               "id": "6000501411",
               "gloss": "Christ"
-            },
-            {
-              "id": "6000501412",
-              "gloss": "Amen"
             }
           ]
         }

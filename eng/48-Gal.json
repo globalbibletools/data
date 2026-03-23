@@ -167,16 +167,16 @@
               "gloss": "Father"
             },
             {
-              "id": "4800100308",
-              "gloss": "of us"
-            },
-            {
               "id": "4800100309",
               "gloss": "and"
             },
             {
               "id": "4800100310",
               "gloss": "the Lord"
+            },
+            {
+              "id": "4800100310-01",
+              "gloss": null
             },
             {
               "id": "4800100311",
@@ -204,8 +204,8 @@
               "gloss": "himself"
             },
             {
-              "id": "4800100404",
-              "gloss": "for"
+              "id": "4800100403-01",
+              "gloss": null
             },
             {
               "id": "4800100405",
@@ -508,12 +508,12 @@
               "gloss": "heaven"
             },
             {
-              "id": "4800100809",
-              "gloss": "should preach a gospel"
+              "id": "4800100808-01",
+              "gloss": null
             },
             {
-              "id": "4800100810",
-              "gloss": "to you"
+              "id": "4800100809",
+              "gloss": "should preach a gospel"
             },
             {
               "id": "4800100811",
@@ -1003,14 +1003,6 @@
               "gloss": " - "
             },
             {
-              "id": "4800101505",
-              "gloss": "God"
-            },
-            {
-              "id": "4800101506",
-              "gloss": "the [One]"
-            },
-            {
               "id": "4800101507",
               "gloss": "having selected"
             },
@@ -1226,12 +1218,12 @@
               "gloss": "after"
             },
             {
-              "id": "4800101803",
-              "gloss": "three"
+              "id": "4800101802-01",
+              "gloss": null
             },
             {
-              "id": "4800101804",
-              "gloss": "years"
+              "id": "4800101803",
+              "gloss": "three"
             },
             {
               "id": "4800101805",
@@ -2773,12 +2765,12 @@
               "gloss": "faith"
             },
             {
-              "id": "4800201614",
-              "gloss": "of Christ"
+              "id": "4800201613-01",
+              "gloss": null
             },
             {
-              "id": "4800201615",
-              "gloss": "Jesus"
+              "id": "4800201614",
+              "gloss": "of Christ"
             },
             {
               "id": "4800201616",
@@ -3030,20 +3022,20 @@
             {
               "id": "4800201909",
               "gloss": "I might live"
+            },
+            {
+              "id": "4800201909-01",
+              "gloss": null
+            },
+            {
+              "id": "4800201909-02",
+              "gloss": null
             }
           ]
         },
         {
           "id": "48002020",
           "words": [
-            {
-              "id": "4800202001",
-              "gloss": "Christ"
-            },
-            {
-              "id": "4800202002",
-              "gloss": "I have been crucified with"
-            },
             {
               "id": "4800202003",
               "gloss": "I live"
@@ -3266,22 +3258,6 @@
             {
               "id": "4800300106",
               "gloss": "has bewitched"
-            },
-            {
-              "id": "4800300107",
-              "gloss": "the"
-            },
-            {
-              "id": "4800300108",
-              "gloss": "truth"
-            },
-            {
-              "id": "4800300109",
-              "gloss": "not"
-            },
-            {
-              "id": "4800300110",
-              "gloss": "obeying"
             },
             {
               "id": "4800300111",
@@ -4129,12 +4105,12 @@
               "gloss": "in"
             },
             {
-              "id": "4800301411",
-              "gloss": "Jesus"
+              "id": "4800301410-01",
+              "gloss": null
             },
             {
-              "id": "4800301412",
-              "gloss": "Christ"
+              "id": "4800301411",
+              "gloss": "Jesus"
             },
             {
               "id": "4800301413",
@@ -4874,8 +4850,8 @@
               "gloss": "we were held captive"
             },
             {
-              "id": "4800302310",
-              "gloss": "having been imprisoned"
+              "id": "4800302309-01",
+              "gloss": null
             },
             {
               "id": "4800302311",
@@ -5388,8 +5364,8 @@
               "gloss": "world"
             },
             {
-              "id": "4800400312",
-              "gloss": "were"
+              "id": "4800400311-01",
+              "gloss": null
             },
             {
               "id": "4800400313",
@@ -5705,8 +5681,8 @@
               "gloss": "not"
             },
             {
-              "id": "4800400811",
-              "gloss": "being"
+              "id": "4800400810-01",
+              "gloss": null
             },
             {
               "id": "4800400812",
@@ -6043,8 +6019,8 @@
               "gloss": "reject [me] with contempt"
             },
             {
-              "id": "4800401413",
-              "gloss": "but"
+              "id": "4800401412-01",
+              "gloss": null
             },
             {
               "id": "4800401414",
@@ -6592,10 +6568,6 @@
               "gloss": "through"
             },
             {
-              "id": "4800402316",
-              "gloss": "the"
-            },
-            {
               "id": "4800402317",
               "gloss": "promise"
             }
@@ -6986,8 +6958,8 @@
               "gloss": "having been born"
             },
             {
-              "id": "4800402908",
-              "gloss": "persecuted"
+              "id": "4800402907-01",
+              "gloss": null
             },
             {
               "id": "4800402909",
@@ -7502,10 +7474,6 @@
             {
               "id": "4800500705",
               "gloss": "cut into"
-            },
-            {
-              "id": "4800500706",
-              "gloss": "the"
             },
             {
               "id": "4800500707",
@@ -8209,8 +8177,8 @@
           "id": "48005020",
           "words": [
             {
-              "id": "4800502001",
-              "gloss": "idolatry"
+              "id": "4800502000-01",
+              "gloss": null
             },
             {
               "id": "4800502002",
@@ -8225,8 +8193,8 @@
               "gloss": "strife"
             },
             {
-              "id": "4800502005",
-              "gloss": "jealousy"
+              "id": "4800502004-01",
+              "gloss": null
             },
             {
               "id": "4800502006",
@@ -8682,8 +8650,8 @@
               "gloss": "thus"
             },
             {
-              "id": "4800600207",
-              "gloss": "you shall fulfill"
+              "id": "4800600206-01",
+              "gloss": null
             },
             {
               "id": "4800600208",
@@ -9089,8 +9057,8 @@
               "gloss": "not"
             },
             {
-              "id": "4800600906",
-              "gloss": "we should grow weary"
+              "id": "4800600905-01",
+              "gloss": null
             },
             {
               "id": "4800600907",
@@ -9321,8 +9289,8 @@
               "gloss": "those"
             },
             {
-              "id": "4800601304",
-              "gloss": "being circumcised"
+              "id": "4800601303-01",
+              "gloss": null
             },
             {
               "id": "4800601305",
