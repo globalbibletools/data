@@ -200,7 +200,7 @@
           "words": [
             {
               "id": "0200100701",
-              "gloss": "Ary ny zanak'"
+              "gloss": "Fa ny zanak'"
             },
             {
               "id": "0200100702",
@@ -285,11 +285,11 @@
             },
             {
               "id": "0200100809",
-              "gloss": "an'i"
+              "gloss": null
             },
             {
               "id": "0200100810",
-              "gloss": null
+              "gloss": "Josefa"
             }
           ]
         },
@@ -310,7 +310,7 @@
             },
             {
               "id": "0200100904",
-              "gloss": null
+              "gloss": "jereo"
             },
             {
               "id": "0200100905",
@@ -367,7 +367,7 @@
             },
             {
               "id": "0200101007",
-              "gloss": null
+              "gloss": "rahoviana"
             },
             {
               "id": "0200101008",
@@ -509,7 +509,7 @@
             },
             {
               "id": "0200101206",
-              "gloss": "sady"
+              "gloss": null
             },
             {
               "id": "0200101207",
@@ -546,7 +546,7 @@
             },
             {
               "id": "0200101303",
-              "gloss": "-ny"
+              "gloss": null
             },
             {
               "id": "0200101304",
@@ -790,7 +790,7 @@
             },
             {
               "id": "0200101708",
-              "gloss": null
+              "gloss": "nolazain'ny"
             },
             {
               "id": "0200101709",
@@ -969,7 +969,7 @@
             },
             {
               "id": "0200102005",
-              "gloss": "ny olona"
+              "gloss": null
             },
             {
               "id": "0200102006",
@@ -1002,7 +1002,7 @@
             },
             {
               "id": "0200102105",
-              "gloss": "an'"
+              "gloss": null
             },
             {
               "id": "0200102106",
@@ -1113,11 +1113,11 @@
             },
             {
               "id": "0200200106",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "0200200107",
-              "gloss": "zanakavavin'i"
+              "gloss": "ny zanakavavin'i"
             },
             {
               "id": "0200200108",
@@ -1247,7 +1247,7 @@
             },
             {
               "id": "0200200317",
-              "gloss": "tao anaty bararata (zozoro)"
+              "gloss": "tao anaty zozoro"
             },
             {
               "id": "0200200318",
@@ -18378,7 +18378,7 @@
           "words": [
             {
               "id": "0201200201",
-              "gloss": "Ity voalona vaovao"
+              "gloss": "Ity volana vaovao"
             },
             {
               "id": "0201200202",
@@ -18577,51 +18577,51 @@
           "words": [
             {
               "id": "0201200501",
-              "gloss": null
+              "gloss": "zanak'ondry iray"
             },
             {
               "id": "0201200502",
-              "gloss": null
+              "gloss": "tsy misy kilema"
             },
             {
               "id": "0201200503",
-              "gloss": null
+              "gloss": "lahy"
             },
             {
               "id": "0201200504",
-              "gloss": null
+              "gloss": "zanakalahin'ny"
             },
             {
               "id": "0201200505",
-              "gloss": null
+              "gloss": "taona"
             },
             {
               "id": "0201200506",
-              "gloss": null
+              "gloss": "no ho"
             },
             {
               "id": "0201200507",
-              "gloss": null
+              "gloss": "anareo"
             },
             {
               "id": "0201200508",
-              "gloss": null
+              "gloss": "amin'"
             },
             {
               "id": "0201200509",
-              "gloss": null
+              "gloss": "ny ondry"
             },
             {
               "id": "0201200510",
-              "gloss": null
+              "gloss": "ary avy amin'"
             },
             {
               "id": "0201200511",
-              "gloss": null
+              "gloss": "ny osy"
             },
             {
               "id": "0201200512",
-              "gloss": null
+              "gloss": "raisinareo"
             }
           ]
         },
@@ -18630,71 +18630,71 @@
           "words": [
             {
               "id": "0201200601",
-              "gloss": null
+              "gloss": "Dia ho"
             },
             {
               "id": "0201200602",
-              "gloss": null
+              "gloss": "anareo"
             },
             {
               "id": "0201200603",
-              "gloss": null
+              "gloss": "hotehirizina"
             },
             {
               "id": "0201200604",
-              "gloss": null
+              "gloss": "mandrapahatongan'ny"
             },
             {
               "id": "0201200605",
-              "gloss": null
+              "gloss": "efatra"
             },
             {
               "id": "0201200606",
-              "gloss": null
+              "gloss": "[ambin'ny] folo"
             },
             {
               "id": "0201200607",
-              "gloss": null
+              "gloss": "andro"
             },
             {
               "id": "0201200608",
-              "gloss": null
+              "gloss": "amin'ny volana"
             },
             {
               "id": "0201200609",
-              "gloss": null
+              "gloss": "ity"
             },
             {
               "id": "0201200610",
-              "gloss": null
+              "gloss": "ary hamono"
             },
             {
               "id": "0201200611",
-              "gloss": null
+              "gloss": "izany"
             },
             {
               "id": "0201200612",
-              "gloss": null
+              "gloss": "ny rehetra"
             },
             {
               "id": "0201200613",
-              "gloss": null
+              "gloss": "fivoriamben'"
             },
             {
               "id": "0201200614",
-              "gloss": null
+              "gloss": "ny fiangonan'ny"
             },
             {
               "id": "0201200615",
-              "gloss": null
+              "gloss": "Israely"
             },
             {
               "id": "0201200616",
-              "gloss": null
+              "gloss": "anelanelan'"
             },
             {
               "id": "0201200617",
-              "gloss": null
+              "gloss": "hariva."
             }
           ]
         },
@@ -18703,63 +18703,63 @@
           "words": [
             {
               "id": "0201200701",
-              "gloss": null
+              "gloss": "Ary haka izy ireo"
             },
             {
               "id": "0201200702",
-              "gloss": null
+              "gloss": "avy amin'"
             },
             {
               "id": "0201200703",
-              "gloss": null
+              "gloss": "rà"
             },
             {
               "id": "0201200704",
-              "gloss": null
+              "gloss": "ary hapetrak'izy ireo [izany]"
             },
             {
               "id": "0201200705",
-              "gloss": null
+              "gloss": "eo ambonin'"
             },
             {
               "id": "0201200706",
-              "gloss": null
+              "gloss": "roa "
             },
             {
               "id": "0201200707",
-              "gloss": null
+              "gloss": "ny tolam-baravarana"
             },
             {
               "id": "0201200708",
-              "gloss": null
+              "gloss": "ary ambonin'ny"
             },
             {
               "id": "0201200709",
-              "gloss": null
+              "gloss": "ny tataom-baravarana"
             },
             {
               "id": "0201200710",
-              "gloss": null
+              "gloss": "eo amin'"
             },
             {
               "id": "0201200711",
-              "gloss": null
+              "gloss": "trano."
             },
             {
               "id": "0201200712",
-              "gloss": null
+              "gloss": "izay"
             },
             {
               "id": "0201200713",
-              "gloss": null
+              "gloss": "ihinanan'izy ireo"
             },
             {
               "id": "0201200714",
-              "gloss": null
+              "gloss": "izany"
             },
             {
               "id": "0201200715",
-              "gloss": null
+              "gloss": "ao anatiny."
             }
           ]
         },
@@ -18768,47 +18768,47 @@
           "words": [
             {
               "id": "0201200801",
-              "gloss": null
+              "gloss": "Ary hihinana izy ireo"
             },
             {
               "id": "0201200802",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "0201200803",
-              "gloss": null
+              "gloss": "ny hena"
             },
             {
               "id": "0201200804",
-              "gloss": null
+              "gloss": "amin'ny alina"
             },
             {
               "id": "0201200805",
-              "gloss": null
+              "gloss": "ity"
             },
             {
               "id": "0201200806",
-              "gloss": null
+              "gloss": "natono tamin'ny"
             },
             {
               "id": "0201200807",
-              "gloss": null
+              "gloss": "afo"
             },
             {
               "id": "0201200808",
-              "gloss": null
+              "gloss": "ary amin'ny mofo tsy misy masirasira"
             },
             {
               "id": "0201200809",
-              "gloss": null
+              "gloss": "ambony"
             },
             {
               "id": "0201200810",
-              "gloss": null
+              "gloss": "anana mangidy "
             },
             {
               "id": "0201200811",
-              "gloss": null
+              "gloss": "hihinanany azy"
             }
           ]
         },
@@ -18817,67 +18817,67 @@
           "words": [
             {
               "id": "0201200901",
-              "gloss": null
+              "gloss": "tsy"
             },
             {
               "id": "0201200902",
-              "gloss": null
+              "gloss": "hohaninareo"
             },
             {
               "id": "0201200903",
-              "gloss": null
+              "gloss": "izany"
             },
             {
               "id": "0201200904",
-              "gloss": null
+              "gloss": "manta na"
             },
             {
               "id": "0201200905",
-              "gloss": null
+              "gloss": "masaka"
             },
             {
               "id": "0201200906",
-              "gloss": null
+              "gloss": "nandrahoina"
             },
             {
               "id": "0201200907",
-              "gloss": null
+              "gloss": "tamin'ny rano"
             },
             {
               "id": "0201200908",
-              "gloss": null
+              "gloss": "kosa"
             },
             {
               "id": "0201200909",
-              "gloss": null
+              "gloss": "fa"
             },
             {
               "id": "0201200910",
-              "gloss": null
+              "gloss": "natono tamin'ny"
             },
             {
               "id": "0201200911",
-              "gloss": null
+              "gloss": "afo"
             },
             {
               "id": "0201200912",
-              "gloss": null
+              "gloss": "lohany"
             },
             {
               "id": "0201200913",
-              "gloss": null
+              "gloss": "mbamin'ny"
             },
             {
               "id": "0201200914",
-              "gloss": null
+              "gloss": "tongony"
             },
             {
               "id": "0201200915",
-              "gloss": null
+              "gloss": "ary mbamin'ny"
             },
             {
               "id": "0201200916",
-              "gloss": null
+              "gloss": "ao anatiny."
             }
           ]
         },
@@ -18886,47 +18886,47 @@
           "words": [
             {
               "id": "0201201001",
-              "gloss": null
+              "gloss": "ary tsy"
             },
             {
               "id": "0201201002",
-              "gloss": null
+              "gloss": "havelanao hisy sisa"
             },
             {
               "id": "0201201003",
-              "gloss": null
+              "gloss": "avy aminy"
             },
             {
               "id": "0201201004",
-              "gloss": null
+              "gloss": "mandra-"
             },
             {
               "id": "0201201005",
-              "gloss": null
+              "gloss": "maraina"
             },
             {
               "id": "0201201006",
-              "gloss": null
+              "gloss": "ary izay sisa tavela"
             },
             {
               "id": "0201201007",
-              "gloss": null
+              "gloss": "avy aminy"
             },
             {
               "id": "0201201008",
-              "gloss": null
+              "gloss": "mandra-"
             },
             {
               "id": "0201201009",
-              "gloss": null
+              "gloss": "maraina"
             },
             {
               "id": "0201201010",
-              "gloss": null
+              "gloss": "amin’ny afo"
             },
             {
               "id": "0201201011",
-              "gloss": null
+              "gloss": "handoranareo"
             }
           ]
         },
@@ -18935,63 +18935,63 @@
           "words": [
             {
               "id": "0201201101",
-              "gloss": null
+              "gloss": "ary amin'izany raha"
             },
             {
               "id": "0201201102",
-              "gloss": null
+              "gloss": "hihininana hianareo"
             },
             {
               "id": "0201201103",
-              "gloss": null
+              "gloss": "izany"
             },
             {
               "id": "0201201104",
-              "gloss": null
+              "gloss": "ny tehezanareo"
             },
             {
               "id": "0201201105",
-              "gloss": null
+              "gloss": "ho voasikina"
             },
             {
               "id": "0201201106",
-              "gloss": null
+              "gloss": "ny kapanareo"
             },
             {
               "id": "0201201107",
-              "gloss": null
+              "gloss": "ho eo amin'ny tongotrareo"
             },
             {
               "id": "0201201108",
-              "gloss": null
+              "gloss": "ary ny tehinareo"
             },
             {
               "id": "0201201109",
-              "gloss": null
+              "gloss": "ho eny an-tananareo"
             },
             {
               "id": "0201201110",
-              "gloss": null
+              "gloss": "ka dia hohaninareo"
             },
             {
               "id": "0201201111",
-              "gloss": null
+              "gloss": "izany"
             },
             {
               "id": "0201201112",
-              "gloss": null
+              "gloss": "faingana"
             },
             {
               "id": "0201201113",
-              "gloss": null
+              "gloss": "Paska"
             },
             {
               "id": "0201201114",
-              "gloss": null
+              "gloss": "izany"
             },
             {
               "id": "0201201115",
-              "gloss": null
+              "gloss": "ho an'i YHWH"
             }
           ]
         },
@@ -19000,83 +19000,83 @@
           "words": [
             {
               "id": "0201201201",
-              "gloss": null
+              "gloss": "fa Izaho hamakivaky"
             },
             {
               "id": "0201201202",
-              "gloss": null
+              "gloss": "amin'ny tany"
             },
             {
               "id": "0201201203",
-              "gloss": null
+              "gloss": "Egypta"
             },
             {
               "id": "0201201204",
-              "gloss": null
+              "gloss": "amin'ny alina"
             },
             {
               "id": "0201201205",
-              "gloss": null
+              "gloss": "izany"
             },
             {
               "id": "0201201206",
-              "gloss": null
+              "gloss": "ary Izaho hamono"
             },
             {
               "id": "0201201207",
-              "gloss": null
+              "gloss": "ny rehetra"
             },
             {
               "id": "0201201208",
-              "gloss": null
+              "gloss": "voalohan-teraka"
             },
             {
               "id": "0201201209",
-              "gloss": null
+              "gloss": "amin’ny tany"
             },
             {
               "id": "0201201210",
-              "gloss": null
+              "gloss": "Egypta"
             },
             {
               "id": "0201201211",
-              "gloss": null
+              "gloss": "avy amin'ny olona"
             },
             {
               "id": "0201201212",
-              "gloss": null
+              "gloss": "ka hatramin'ny"
             },
             {
               "id": "0201201213",
-              "gloss": null
+              "gloss": "biby fiompy"
             },
             {
               "id": "0201201214",
-              "gloss": null
+              "gloss": "sy amin'ny rehetra"
             },
             {
               "id": "0201201215",
-              "gloss": null
+              "gloss": "ny andriamanitr'i"
             },
             {
               "id": "0201201216",
-              "gloss": null
+              "gloss": "Egypta"
             },
             {
               "id": "0201201217",
-              "gloss": null
+              "gloss": "Izaho hanao"
             },
             {
               "id": "0201201218",
-              "gloss": null
+              "gloss": "fitsarana"
             },
             {
               "id": "0201201219",
-              "gloss": null
+              "gloss": "Izaho no"
             },
             {
               "id": "0201201220",
-              "gloss": null
+              "gloss": "YHWH"
             }
           ]
         },
@@ -19085,59 +19085,59 @@
           "words": [
             {
               "id": "0201201301",
-              "gloss": null
+              "gloss": "ary dia ho"
             },
             {
               "id": "0201201302",
-              "gloss": null
+              "gloss": "rà"
             },
             {
               "id": "0201201303",
-              "gloss": null
+              "gloss": "ho anareo"
             },
             {
               "id": "0201201304",
-              "gloss": null
+              "gloss": "ho famantarana"
             },
             {
               "id": "0201201305",
-              "gloss": null
+              "gloss": "eo ambonin'"
             },
             {
               "id": "0201201306",
-              "gloss": null
+              "gloss": "trano"
             },
             {
               "id": "0201201307",
-              "gloss": null
+              "gloss": "izay"
             },
             {
               "id": "0201201308",
-              "gloss": null
+              "gloss": "hianareo"
             },
             {
               "id": "0201201309",
-              "gloss": null
+              "gloss": "ho ao"
             },
             {
               "id": "0201201310",
-              "gloss": null
+              "gloss": "ary Izaho rehefa mahita"
             },
             {
               "id": "0201201311",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "0201201312",
-              "gloss": null
+              "gloss": "ny rà"
             },
             {
               "id": "0201201313",
-              "gloss": null
+              "gloss": "dia handalo aho"
             },
             {
               "id": "0201201314",
-              "gloss": null
+              "gloss": "eo amboninareo"
             },
             {
               "id": "0201201315",
@@ -19145,31 +19145,31 @@
             },
             {
               "id": "0201201316",
-              "gloss": null
+              "gloss": "hisy"
             },
             {
               "id": "0201201317",
-              "gloss": null
+              "gloss": "ao aminareo"
             },
             {
               "id": "0201201318",
-              "gloss": null
+              "gloss": "fandringanana"
             },
             {
               "id": "0201201319",
-              "gloss": null
+              "gloss": "ho fandravana"
             },
             {
               "id": "0201201320",
-              "gloss": null
+              "gloss": "rehefa mamely aho"
             },
             {
               "id": "0201201321",
-              "gloss": null
+              "gloss": "ny tany"
             },
             {
               "id": "0201201322",
-              "gloss": null
+              "gloss": "Egypta"
             }
           ]
         },
@@ -19178,55 +19178,55 @@
           "words": [
             {
               "id": "0201201401",
-              "gloss": null
+              "gloss": "ary izany"
             },
             {
               "id": "0201201402",
-              "gloss": null
+              "gloss": "andro"
             },
             {
               "id": "0201201403",
-              "gloss": null
+              "gloss": "izany"
             },
             {
               "id": "0201201404",
-              "gloss": null
+              "gloss": "ho anareo"
             },
             {
               "id": "0201201405",
-              "gloss": null
+              "gloss": "ho fahatsiarovana"
             },
             {
               "id": "0201201406",
-              "gloss": null
+              "gloss": "ary hotandremanareo ho fety"
             },
             {
               "id": "0201201407",
-              "gloss": null
+              "gloss": "izany"
             },
             {
               "id": "0201201408",
-              "gloss": null
+              "gloss": "ho firavoravoana"
             },
             {
               "id": "0201201409",
-              "gloss": null
+              "gloss": "ho an'i YHWH"
             },
             {
               "id": "0201201410",
-              "gloss": null
+              "gloss": "hatramin'ny taranakareo rehetra"
             },
             {
               "id": "0201201411",
-              "gloss": null
+              "gloss": "ho lalàna"
             },
             {
               "id": "0201201412",
-              "gloss": null
+              "gloss": "mandrakizay"
             },
             {
               "id": "0201201413",
-              "gloss": null
+              "gloss": "hotandremanao ho fetim-piravoravoana"
             }
           ]
         },
@@ -19235,95 +19235,95 @@
           "words": [
             {
               "id": "0201201501",
-              "gloss": null
+              "gloss": "fito"
             },
             {
               "id": "0201201502",
-              "gloss": null
+              "gloss": "andro"
             },
             {
               "id": "0201201503",
-              "gloss": null
+              "gloss": "mofo tsy misy masirasira"
             },
             {
               "id": "0201201504",
-              "gloss": null
+              "gloss": "hihinanareo"
             },
             {
               "id": "0201201505",
-              "gloss": null
+              "gloss": "tokoa"
             },
             {
               "id": "0201201506",
-              "gloss": null
+              "gloss": "amin'ny andro"
             },
             {
               "id": "0201201507",
-              "gloss": null
+              "gloss": "ny voalohany"
             },
             {
               "id": "0201201508",
-              "gloss": null
+              "gloss": "hesorinareo"
             },
             {
               "id": "0201201509",
-              "gloss": null
+              "gloss": "masirasira"
             },
             {
               "id": "0201201510",
-              "gloss": null
+              "gloss": "hiala ny tranonareo"
             },
             {
               "id": "0201201511",
-              "gloss": null
+              "gloss": "fa"
             },
             {
               "id": "0201201512",
-              "gloss": null
+              "gloss": "izay rehetra"
             },
             {
               "id": "0201201513",
-              "gloss": null
+              "gloss": "homana"
             },
             {
               "id": "0201201514",
-              "gloss": null
+              "gloss": "mofo misy masirasira"
             },
             {
               "id": "0201201515",
-              "gloss": null
+              "gloss": "dia hofongorana izy"
             },
             {
               "id": "0201201516",
-              "gloss": null
+              "gloss": "ny olona"
             },
             {
               "id": "0201201517",
-              "gloss": null
+              "gloss": "izay"
             },
             {
               "id": "0201201518",
-              "gloss": null
+              "gloss": "avy amin'ny Israely"
             },
             {
               "id": "0201201519",
-              "gloss": null
+              "gloss": "avy amin'ny andro"
             },
             {
               "id": "0201201520",
-              "gloss": null
+              "gloss": "voalohany"
             },
             {
               "id": "0201201521",
-              "gloss": null
+              "gloss": "mandrapahatongan'ny"
             },
             {
               "id": "0201201522",
-              "gloss": null
+              "gloss": "andro"
             },
             {
               "id": "0201201523",
-              "gloss": null
+              "gloss": "ny fahafito"
             }
           ]
         },
@@ -19332,51 +19332,51 @@
           "words": [
             {
               "id": "0201201601",
-              "gloss": null
+              "gloss": "Ary amin'ny andro"
             },
             {
               "id": "0201201602",
-              "gloss": null
+              "gloss": "ny voalohany"
             },
             {
               "id": "0201201603",
-              "gloss": null
+              "gloss": "[hisy] fiantsoam-pivoriana"
             },
             {
               "id": "0201201604",
-              "gloss": null
+              "gloss": "masina"
             },
             {
               "id": "0201201605",
-              "gloss": null
+              "gloss": "ary amin'ny andro"
             },
             {
               "id": "0201201606",
-              "gloss": null
+              "gloss": "ny fahafito"
             },
             {
               "id": "0201201607",
-              "gloss": null
+              "gloss": "fiantsoam-pivoriana"
             },
             {
               "id": "0201201608",
-              "gloss": null
+              "gloss": "masina"
             },
             {
               "id": "0201201609",
-              "gloss": null
+              "gloss": "hisy"
             },
             {
               "id": "0201201610",
-              "gloss": null
+              "gloss": "ho anareo"
             },
             {
               "id": "0201201611",
-              "gloss": null
+              "gloss": "rehetra"
             },
             {
               "id": "0201201612",
-              "gloss": null
+              "gloss": "asa hatao"
             },
             {
               "id": "0201201613",
@@ -19384,47 +19384,47 @@
             },
             {
               "id": "0201201614",
-              "gloss": null
+              "gloss": "hanao"
             },
             {
               "id": "0201201615",
-              "gloss": null
+              "gloss": "ao aminy"
             },
             {
               "id": "0201201616",
-              "gloss": null
+              "gloss": "tokoa"
             },
             {
               "id": "0201201617",
-              "gloss": null
+              "gloss": "izay"
             },
             {
               "id": "0201201618",
-              "gloss": null
+              "gloss": "tsy maintsy hohaniny"
             },
             {
               "id": "0201201619",
-              "gloss": null
+              "gloss": "ho an'ny isan'"
             },
             {
               "id": "0201201620",
-              "gloss": null
+              "gloss": "olona"
             },
             {
               "id": "0201201621",
-              "gloss": null
+              "gloss": "izy"
             },
             {
               "id": "0201201622",
-              "gloss": null
+              "gloss": "ihany"
             },
             {
               "id": "0201201623",
-              "gloss": null
+              "gloss": "no hatao"
             },
             {
               "id": "0201201624",
-              "gloss": null
+              "gloss": "ho anareo"
             }
           ]
         },
@@ -19433,79 +19433,79 @@
           "words": [
             {
               "id": "0201201701",
-              "gloss": null
+              "gloss": "Dia hitandrina hianareo"
             },
             {
               "id": "0201201702",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "0201201703",
-              "gloss": null
+              "gloss": "[ny fetin'ny] mofo tsy misy masirasira"
             },
             {
               "id": "0201201704",
-              "gloss": null
+              "gloss": "satria"
             },
             {
               "id": "0201201705",
-              "gloss": null
+              "gloss": "amin'izany "
             },
             {
               "id": "0201201706",
-              "gloss": null
+              "gloss": "ny andro"
             },
             {
               "id": "0201201707",
-              "gloss": null
+              "gloss": "ity"
             },
             {
               "id": "0201201708",
-              "gloss": null
+              "gloss": "no nitondrako"
             },
             {
               "id": "0201201709",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "0201201710",
-              "gloss": null
+              "gloss": "ny tafikareo"
             },
             {
               "id": "0201201711",
-              "gloss": null
+              "gloss": "avy any amin'ny tany"
             },
             {
               "id": "0201201712",
-              "gloss": null
+              "gloss": "Egypta"
             },
             {
               "id": "0201201713",
-              "gloss": null
+              "gloss": "ary hianareo hitandrina "
             },
             {
               "id": "0201201714",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "0201201715",
-              "gloss": null
+              "gloss": "ny andro"
             },
             {
               "id": "0201201716",
-              "gloss": null
+              "gloss": "ity"
             },
             {
               "id": "0201201717",
-              "gloss": null
+              "gloss": "mandritra ny taranakareo rehetra"
             },
             {
               "id": "0201201718",
-              "gloss": null
+              "gloss": "ho lalàna"
             },
             {
               "id": "0201201719",
-              "gloss": null
+              "gloss": "mandrakizay"
             }
           ]
         },
@@ -19514,59 +19514,59 @@
           "words": [
             {
               "id": "0201201801",
-              "gloss": null
+              "gloss": "Amin'ny volana voalohany"
             },
             {
               "id": "0201201802",
-              "gloss": null
+              "gloss": "amin'ny fahefatra"
             },
             {
               "id": "0201201803",
-              "gloss": null
+              "gloss": "ambin'ny folo"
             },
             {
               "id": "0201201804",
-              "gloss": null
+              "gloss": "andro"
             },
             {
               "id": "0201201805",
-              "gloss": null
+              "gloss": "amin'ny voalohambolana"
             },
             {
               "id": "0201201806",
-              "gloss": null
+              "gloss": "amin'ny hariva"
             },
             {
               "id": "0201201807",
-              "gloss": null
+              "gloss": "hihinananareo"
             },
             {
               "id": "0201201808",
-              "gloss": null
+              "gloss": "mofo tsy misy masirasira"
             },
             {
               "id": "0201201809",
-              "gloss": null
+              "gloss": "hatramin'ny"
             },
             {
               "id": "0201201810",
-              "gloss": null
+              "gloss": "andro"
             },
             {
               "id": "0201201811",
-              "gloss": null
+              "gloss": "ny iraika"
             },
             {
               "id": "0201201812",
-              "gloss": null
+              "gloss": "amby roapolo"
             },
             {
               "id": "0201201813",
-              "gloss": null
+              "gloss": "amin'ny voalohambolana"
             },
             {
               "id": "0201201814",
-              "gloss": null
+              "gloss": "amin'ny hariva"
             }
           ]
         },
@@ -19575,19 +19575,19 @@
           "words": [
             {
               "id": "0201201901",
-              "gloss": null
+              "gloss": "Fito"
             },
             {
               "id": "0201201902",
-              "gloss": null
+              "gloss": "andro"
             },
             {
               "id": "0201201903",
-              "gloss": null
+              "gloss": "masirasira"
             },
             {
               "id": "0201201904",
-              "gloss": null
+              "gloss": "tsy misy"
             },
             {
               "id": "0201201905",
@@ -19595,55 +19595,55 @@
             },
             {
               "id": "0201201906",
-              "gloss": null
+              "gloss": "ao an-tranonareo."
             },
             {
               "id": "0201201907",
-              "gloss": null
+              "gloss": "fa"
             },
             {
               "id": "0201201908",
-              "gloss": null
+              "gloss": "izay rehetra"
             },
             {
               "id": "0201201909",
-              "gloss": null
+              "gloss": "homana"
             },
             {
               "id": "0201201910",
-              "gloss": null
+              "gloss": "na inona na inona misy masirasira"
             },
             {
               "id": "0201201911",
-              "gloss": null
+              "gloss": "dia hofongorana"
             },
             {
               "id": "0201201912",
-              "gloss": null
+              "gloss": "ny olona"
             },
             {
               "id": "0201201913",
-              "gloss": null
+              "gloss": "izy"
             },
             {
               "id": "0201201914",
-              "gloss": null
+              "gloss": "eo amin'ny fiangonan'"
             },
             {
               "id": "0201201915",
-              "gloss": null
+              "gloss": "Israely"
             },
             {
               "id": "0201201916",
-              "gloss": null
+              "gloss": "amin'ny vahiny"
             },
             {
               "id": "0201201917",
-              "gloss": null
+              "gloss": "sy amin'ny teratany "
             },
             {
               "id": "0201201918",
-              "gloss": null
+              "gloss": "ny tany."
             }
           ]
         },
@@ -19652,39 +19652,39 @@
           "words": [
             {
               "id": "0201202001",
-              "gloss": null
+              "gloss": "Izay rehetra"
             },
             {
               "id": "0201202002",
-              "gloss": null
+              "gloss": "masirasira"
             },
             {
               "id": "0201202003",
-              "gloss": null
+              "gloss": "tsy"
             },
             {
               "id": "0201202004",
-              "gloss": null
+              "gloss": "hohaninareo"
             },
             {
               "id": "0201202005",
-              "gloss": null
+              "gloss": "amin'izay rehetra"
             },
             {
               "id": "0201202006",
-              "gloss": null
+              "gloss": "fonenanareo"
             },
             {
               "id": "0201202007",
-              "gloss": null
+              "gloss": "hohaninareo"
             },
             {
               "id": "0201202008",
-              "gloss": null
+              "gloss": "mofo tsy misy masirasira"
             },
             {
               "id": "0201202009",
-              "gloss": null
+              "gloss": "-"
             }
           ]
         },
