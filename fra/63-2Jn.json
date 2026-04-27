@@ -365,16 +365,16 @@
               "gloss": "un commandement"
             },
             {
+              "id": "6300100508-01",
+              "gloss": "nouveau"
+            },
+            {
               "id": "6300100509",
               "gloss": "je suis en train d'écrire"
             },
             {
               "id": "6300100510",
               "gloss": "à toi"
-            },
-            {
-              "id": "6300100511",
-              "gloss": "nouveau"
             },
             {
               "id": "6300100512",
@@ -385,8 +385,8 @@
               "gloss": "celui que"
             },
             {
-              "id": "6300100514",
-              "gloss": "nous avons eu"
+              "id": "6300100513-01",
+              "gloss": "nous avons"
             },
             {
               "id": "6300100515",
@@ -628,8 +628,8 @@
               "gloss": "ce que"
             },
             {
-              "id": "6300100807",
-              "gloss": "nous avons produit"
+              "id": "6300100806-01",
+              "gloss": "vous avez fait"
             },
             {
               "id": "6300100808",
@@ -996,8 +996,8 @@
               "gloss": "joie"
             },
             {
-              "id": "6300101224",
-              "gloss": "de nous"
+              "id": "6300101223-01",
+              "gloss": "de vous"
             },
             {
               "id": "6300101225",
@@ -1047,10 +1047,6 @@
             {
               "id": "6300101309",
               "gloss": "choisie"
-            },
-            {
-              "id": "6300101310",
-              "gloss": "amen"
             }
           ]
         }
