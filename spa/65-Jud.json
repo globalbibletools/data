@@ -10,71 +10,71 @@
           "words": [
             {
               "id": "6500100101",
-              "gloss": null
+              "gloss": "Judas"
             },
             {
               "id": "6500100102",
-              "gloss": null
+              "gloss": "de Jesús"
             },
             {
               "id": "6500100103",
-              "gloss": null
+              "gloss": "Cristo"
             },
             {
               "id": "6500100104",
-              "gloss": null
+              "gloss": "siervo"
             },
             {
               "id": "6500100105",
-              "gloss": null
+              "gloss": "hermano"
             },
             {
               "id": "6500100106",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "6500100107",
-              "gloss": null
+              "gloss": "de Jacobo"
             },
             {
               "id": "6500100108",
-              "gloss": null
+              "gloss": "a los"
             },
             {
               "id": "6500100109",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "6500100110",
-              "gloss": null
+              "gloss": "Dios"
             },
             {
               "id": "6500100111",
-              "gloss": null
+              "gloss": "Padre"
             },
             {
               "id": "6500100112",
-              "gloss": null
+              "gloss": "amados"
             },
             {
               "id": "6500100113",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "6500100114",
-              "gloss": null
+              "gloss": "en Jesús"
             },
             {
               "id": "6500100115",
-              "gloss": null
+              "gloss": "Cristo"
             },
             {
               "id": "6500100116",
-              "gloss": null
+              "gloss": "guardados"
             },
             {
               "id": "6500100117",
-              "gloss": null
+              "gloss": "llamados."
             }
           ]
         },
@@ -83,31 +83,31 @@
           "words": [
             {
               "id": "6500100201",
-              "gloss": null
+              "gloss": "misericordia"
             },
             {
               "id": "6500100202",
-              "gloss": null
+              "gloss": "a ustedes"
             },
             {
               "id": "6500100203",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "6500100204",
-              "gloss": null
+              "gloss": "paz"
             },
             {
               "id": "6500100205",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "6500100206",
-              "gloss": null
+              "gloss": "amor"
             },
             {
               "id": "6500100207",
-              "gloss": null
+              "gloss": "sean multiplicados."
             }
           ]
         },
@@ -373,11 +373,7 @@
               "gloss": null
             },
             {
-              "id": "6500100510",
-              "gloss": null
-            },
-            {
-              "id": "6500100511",
+              "id": "6500100509-01",
               "gloss": null
             },
             {
@@ -1126,7 +1122,7 @@
           "id": "65001014",
           "words": [
             {
-              "id": "6500101401",
+              "id": "6500101400-01",
               "gloss": null
             },
             {
@@ -1474,19 +1470,11 @@
               "gloss": null
             },
             {
-              "id": "6500101804",
-              "gloss": null
-            },
-            {
               "id": "6500101805",
               "gloss": null
             },
             {
               "id": "6500101806",
-              "gloss": null
-            },
-            {
-              "id": "6500101807",
               "gloss": null
             },
             {
