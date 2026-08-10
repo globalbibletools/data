@@ -238,7 +238,7 @@
             },
             {
               "id": "0100100514",
-              "gloss": "achamtah"
+              "gloss": "-"
             }
           ]
         },
@@ -409,7 +409,7 @@
             },
             {
               "id": "0100100811",
-              "gloss": "achamtah"
+              "gloss": "-"
             }
           ]
         },
@@ -714,7 +714,7 @@
             },
             {
               "id": "0100101307",
-              "gloss": "achamtah"
+              "gloss": "-"
             }
           ]
         },
@@ -1024,7 +1024,7 @@
             },
             {
               "id": "0100101907",
-              "gloss": "achamtah"
+              "gloss": "-"
             }
           ]
         },
@@ -1276,7 +1276,7 @@
             },
             {
               "id": "0100102307",
-              "gloss": null
+              "gloss": "-"
             }
           ]
         },
@@ -1916,7 +1916,7 @@
             },
             {
               "id": "0100103116",
-              "gloss": "achamtah"
+              "gloss": "-"
             }
           ]
         }
@@ -4905,59 +4905,59 @@
           "words": [
             {
               "id": "0100400101",
-              "gloss": null
+              "gloss": "mihem"
             },
             {
               "id": "0100400102",
-              "gloss": null
+              "gloss": "het"
             },
             {
               "id": "0100400103",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100400104",
-              "gloss": null
+              "gloss": "Eve"
             },
             {
               "id": "0100400105",
-              "gloss": null
+              "gloss": "aji"
             },
             {
               "id": "0100400106",
-              "gloss": null
+              "gloss": "avop"
             },
             {
               "id": "0100400107",
-              "gloss": null
+              "gloss": "anei"
             },
             {
               "id": "0100400108",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100400109",
-              "gloss": null
+              "gloss": "Cain"
             },
             {
               "id": "0100400110",
-              "gloss": null
+              "gloss": "a seijin "
             },
             {
               "id": "0100400111",
-              "gloss": null
+              "gloss": "ka neitai"
             },
             {
               "id": "0100400112",
-              "gloss": null
+              "gloss": "Pasal in "
             },
             {
               "id": "0100400113",
-              "gloss": null
+              "gloss": "jalin"
             },
             {
               "id": "0100400114",
-              "gloss": null
+              "gloss": "Pathen"
             }
           ]
         },
@@ -5219,39 +5219,39 @@
           "words": [
             {
               "id": "0100400701",
-              "gloss": null
+              "gloss": "Lou"
             },
             {
               "id": "0100400702",
-              "gloss": null
+              "gloss": "ahileh"
             },
             {
               "id": "0100400703",
-              "gloss": null
+              "gloss": "phatah a na bol"
             },
             {
               "id": "0100400704",
-              "gloss": null
+              "gloss": "choisang"
             },
             {
               "id": "0100400705",
-              "gloss": null
+              "gloss": "ahileh"
             },
             {
               "id": "0100400706",
-              "gloss": null
+              "gloss": "Lou"
             },
             {
               "id": "0100400707",
-              "gloss": null
+              "gloss": "na bol hoi"
             },
             {
               "id": "0100400708",
-              "gloss": null
+              "gloss": "kotphung a"
             },
             {
               "id": "0100400709",
-              "gloss": null
+              "gloss": "setna"
             },
             {
               "id": "0100400710",
@@ -5263,19 +5263,19 @@
             },
             {
               "id": "0100400712",
-              "gloss": null
+              "gloss": "ngaichat"
             },
             {
               "id": "0100400713",
-              "gloss": null
+              "gloss": "nang le"
             },
             {
               "id": "0100400714",
-              "gloss": null
+              "gloss": "vai ahop"
             },
             {
               "id": "0100400715",
-              "gloss": null
+              "gloss": "achamtah"
             }
           ]
         },
@@ -5332,7 +5332,7 @@
             },
             {
               "id": "0100400813",
-              "gloss": "asopia"
+              "gloss": "asopi"
             },
             {
               "id": "0100400814",
@@ -5345,19 +5345,19 @@
           "words": [
             {
               "id": "0100400901",
-              "gloss": null
+              "gloss": "aseijin"
             },
             {
               "id": "0100400902",
-              "gloss": null
+              "gloss": "Pathen"
             },
             {
               "id": "0100400903",
-              "gloss": null
+              "gloss": "a chun"
             },
             {
               "id": "0100400904",
-              "gloss": null
+              "gloss": "Cain"
             },
             {
               "id": "0100400905",
@@ -5365,7 +5365,7 @@
             },
             {
               "id": "0100400906",
-              "gloss": null
+              "gloss": "Abel"
             },
             {
               "id": "0100400907",
@@ -5373,7 +5373,7 @@
             },
             {
               "id": "0100400908",
-              "gloss": null
+              "gloss": "aseijin"
             },
             {
               "id": "0100400909",
@@ -5402,15 +5402,15 @@
           "words": [
             {
               "id": "0100401001",
-              "gloss": null
+              "gloss": "aseijin"
             },
             {
               "id": "0100401002",
-              "gloss": null
+              "gloss": "Ipi"
             },
             {
               "id": "0100401003",
-              "gloss": null
+              "gloss": "na bol "
             },
             {
               "id": "0100401004",
@@ -5434,11 +5434,11 @@
             },
             {
               "id": "0100401009",
-              "gloss": null
+              "gloss": "A kon "
             },
             {
               "id": "0100401010",
-              "gloss": null
+              "gloss": "Leiset"
             }
           ]
         },
@@ -5447,39 +5447,39 @@
           "words": [
             {
               "id": "0100401101",
-              "gloss": null
+              "gloss": "tun"
             },
             {
               "id": "0100401102",
-              "gloss": null
+              "gloss": "gaosap"
             },
             {
               "id": "0100401103",
-              "gloss": null
+              "gloss": "nangma"
             },
             {
               "id": "0100401104",
-              "gloss": null
+              "gloss": "A kon "
             },
             {
               "id": "0100401105",
-              "gloss": null
+              "gloss": "Leiset"
             },
             {
               "id": "0100401106",
-              "gloss": null
+              "gloss": "ama ama"
             },
             {
               "id": "0100401107",
-              "gloss": null
+              "gloss": "a kah in"
             },
             {
               "id": "0100401108",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100401109",
-              "gloss": null
+              "gloss": "a kam "
             },
             {
               "id": "0100401110",
@@ -5487,15 +5487,15 @@
             },
             {
               "id": "0100401111",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100401112",
-              "gloss": null
+              "gloss": "thisan"
             },
             {
               "id": "0100401113",
-              "gloss": null
+              "gloss": "na sopi"
             },
             {
               "id": "0100401114",
@@ -5508,27 +5508,27 @@
           "words": [
             {
               "id": "0100401201",
-              "gloss": null
+              "gloss": "Chuti chun"
             },
             {
               "id": "0100401202",
-              "gloss": null
+              "gloss": "na tohna"
             },
             {
               "id": "0100401203",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100401204",
-              "gloss": null
+              "gloss": "Leiset"
             },
             {
               "id": "0100401205",
-              "gloss": null
+              "gloss": "Lou"
             },
             {
               "id": "0100401206",
-              "gloss": null
+              "gloss": "kibelap"
             },
             {
               "id": "0100401207",
@@ -5536,11 +5536,11 @@
             },
             {
               "id": "0100401208",
-              "gloss": null
+              "gloss": "thahat"
             },
             {
               "id": "0100401209",
-              "gloss": null
+              "gloss": "nangma"
             },
             {
               "id": "0100401210",
@@ -5548,15 +5548,15 @@
             },
             {
               "id": "0100401211",
-              "gloss": null
+              "gloss": "gamvah le"
             },
             {
               "id": "0100401212",
-              "gloss": null
+              "gloss": "nangma"
             },
             {
               "id": "0100401213",
-              "gloss": null
+              "gloss": "Leiset a"
             }
           ]
         },
@@ -5565,15 +5565,15 @@
           "words": [
             {
               "id": "0100401301",
-              "gloss": null
+              "gloss": "aseijin"
             },
             {
               "id": "0100401302",
-              "gloss": null
+              "gloss": "Cain"
             },
             {
               "id": "0100401303",
-              "gloss": null
+              "gloss": "a chun"
             },
             {
               "id": "0100401304",
@@ -5589,7 +5589,7 @@
             },
             {
               "id": "0100401307",
-              "gloss": "ka thoh"
+              "gloss": "ka thohna kon"
             }
           ]
         },
@@ -5598,7 +5598,7 @@
           "words": [
             {
               "id": "0100401401",
-              "gloss": null
+              "gloss": "vetan"
             },
             {
               "id": "0100401402",
@@ -5610,19 +5610,19 @@
             },
             {
               "id": "0100401404",
-              "gloss": null
+              "gloss": "Ni"
             },
             {
               "id": "0100401405",
-              "gloss": null
+              "gloss": "akon "
             },
             {
               "id": "0100401406",
-              "gloss": null
+              "gloss": "mai "
             },
             {
               "id": "0100401407",
-              "gloss": null
+              "gloss": "Leiset"
             },
             {
               "id": "0100401408",
@@ -5634,11 +5634,11 @@
             },
             {
               "id": "0100401410",
-              "gloss": null
+              "gloss": "kahi ding"
             },
             {
               "id": "0100401411",
-              "gloss": null
+              "gloss": "lungdong"
             },
             {
               "id": "0100401412",
@@ -5646,15 +5646,15 @@
             },
             {
               "id": "0100401413",
-              "gloss": null
+              "gloss": "Leiset a"
             },
             {
               "id": "0100401414",
-              "gloss": null
+              "gloss": "Ahungsoh"
             },
             {
               "id": "0100401415",
-              "gloss": null
+              "gloss": "jouse"
             },
             {
               "id": "0100401416",
@@ -5662,7 +5662,7 @@
             },
             {
               "id": "0100401417",
-              "gloss": null
+              "gloss": "ei tha ding"
             }
           ]
         },
@@ -5671,31 +5671,31 @@
           "words": [
             {
               "id": "0100401501",
-              "gloss": null
+              "gloss": "aseijin"
             },
             {
               "id": "0100401502",
-              "gloss": null
+              "gloss": "ama kom"
             },
             {
               "id": "0100401503",
-              "gloss": null
+              "gloss": "Pathen"
             },
             {
               "id": "0100401504",
-              "gloss": null
+              "gloss": "Hiti chun"
             },
             {
               "id": "0100401505",
-              "gloss": null
+              "gloss": "jouse"
             },
             {
               "id": "0100401506",
-              "gloss": null
+              "gloss": "athat"
             },
             {
               "id": "0100401507",
-              "gloss": null
+              "gloss": "Cain"
             },
             {
               "id": "0100401508",
@@ -5703,27 +5703,27 @@
             },
             {
               "id": "0100401509",
-              "gloss": null
+              "gloss": "phuba"
             },
             {
               "id": "0100401510",
-              "gloss": null
+              "gloss": "Akoiyin"
             },
             {
               "id": "0100401511",
-              "gloss": null
+              "gloss": "Pathen"
             },
             {
               "id": "0100401512",
-              "gloss": null
+              "gloss": "Cain"
             },
             {
               "id": "0100401513",
-              "gloss": null
+              "gloss": "melchihna"
             },
             {
               "id": "0100401514",
-              "gloss": null
+              "gloss": "lou"
             },
             {
               "id": "0100401515",
@@ -5731,15 +5731,15 @@
             },
             {
               "id": "0100401516",
-              "gloss": null
+              "gloss": "Ama"
             },
             {
               "id": "0100401517",
-              "gloss": null
+              "gloss": "jouse"
             },
             {
               "id": "0100401518",
-              "gloss": null
+              "gloss": "koi hileh ama amu"
             }
           ]
         },
@@ -5748,27 +5748,27 @@
           "words": [
             {
               "id": "0100401601",
-              "gloss": null
+              "gloss": "a chedoh"
             },
             {
               "id": "0100401602",
-              "gloss": null
+              "gloss": "Cain"
             },
             {
               "id": "0100401603",
-              "gloss": null
+              "gloss": "maiya"
             },
             {
               "id": "0100401604",
-              "gloss": null
+              "gloss": "Pathen"
             },
             {
               "id": "0100401605",
-              "gloss": null
+              "gloss": "a cheng"
             },
             {
               "id": "0100401606",
-              "gloss": null
+              "gloss": "gam a"
             },
             {
               "id": "0100401607",
@@ -5776,11 +5776,11 @@
             },
             {
               "id": "0100401608",
-              "gloss": null
+              "gloss": "Solam "
             },
             {
               "id": "0100401609",
-              "gloss": null
+              "gloss": "Eden"
             }
           ]
         },
@@ -5789,71 +5789,71 @@
           "words": [
             {
               "id": "0100401701",
-              "gloss": null
+              "gloss": "a he in"
             },
             {
               "id": "0100401702",
-              "gloss": null
+              "gloss": "Cain"
             },
             {
               "id": "0100401703",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100401704",
-              "gloss": null
+              "gloss": "aji"
             },
             {
               "id": "0100401705",
-              "gloss": null
+              "gloss": "a neijin"
             },
             {
               "id": "0100401706",
-              "gloss": null
+              "gloss": "anei"
             },
             {
               "id": "0100401707",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100401708",
-              "gloss": null
+              "gloss": "Enoch"
             },
             {
               "id": "0100401709",
-              "gloss": null
+              "gloss": "aum jingin"
             },
             {
               "id": "0100401710",
-              "gloss": null
+              "gloss": "insa"
             },
             {
               "id": "0100401711",
-              "gloss": null
+              "gloss": "khop"
             },
             {
               "id": "0100401712",
-              "gloss": null
+              "gloss": "aminsah"
             },
             {
               "id": "0100401713",
-              "gloss": null
+              "gloss": "Min "
             },
             {
               "id": "0100401714",
-              "gloss": null
+              "gloss": "khopi"
             },
             {
               "id": "0100401715",
-              "gloss": null
+              "gloss": "min tobang"
             },
             {
               "id": "0100401716",
-              "gloss": null
+              "gloss": "achapa"
             },
             {
               "id": "0100401717",
-              "gloss": null
+              "gloss": "Enoch"
             }
           ]
         },
@@ -5862,67 +5862,67 @@
           "words": [
             {
               "id": "0100401801",
-              "gloss": null
+              "gloss": "ahing in"
             },
             {
               "id": "0100401802",
-              "gloss": null
+              "gloss": "Enoch "
             },
             {
               "id": "0100401803",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100401804",
-              "gloss": null
+              "gloss": "Irad"
             },
             {
               "id": "0100401805",
-              "gloss": null
+              "gloss": "Erad chun"
             },
             {
               "id": "0100401806",
-              "gloss": null
+              "gloss": "ahing "
             },
             {
               "id": "0100401807",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100401808",
-              "gloss": null
+              "gloss": "Mehujael"
             },
             {
               "id": "0100401809",
-              "gloss": null
+              "gloss": "Mehujael"
             },
             {
               "id": "0100401810",
-              "gloss": null
+              "gloss": "ahing in"
             },
             {
               "id": "0100401811",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100401812",
-              "gloss": null
+              "gloss": "Methusael"
             },
             {
               "id": "0100401813",
-              "gloss": null
+              "gloss": "chule Methusael"
             },
             {
               "id": "0100401814",
-              "gloss": null
+              "gloss": "ahing in"
             },
             {
               "id": "0100401815",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100401816",
-              "gloss": null
+              "gloss": "Lamech"
             }
           ]
         },
@@ -5931,47 +5931,47 @@
           "words": [
             {
               "id": "0100401901",
-              "gloss": null
+              "gloss": "Ala in "
             },
             {
               "id": "0100401902",
-              "gloss": null
+              "gloss": "achamtah"
             },
             {
               "id": "0100401903",
-              "gloss": null
+              "gloss": "Lamech"
             },
             {
               "id": "0100401904",
-              "gloss": null
+              "gloss": "ni"
             },
             {
               "id": "0100401905",
-              "gloss": null
+              "gloss": "ji"
             },
             {
               "id": "0100401906",
-              "gloss": null
+              "gloss": "Min "
             },
             {
               "id": "0100401907",
-              "gloss": null
+              "gloss": "amasa"
             },
             {
               "id": "0100401908",
-              "gloss": null
+              "gloss": "Adah"
             },
             {
               "id": "0100401909",
-              "gloss": null
+              "gloss": "Min chu "
             },
             {
               "id": "0100401910",
-              "gloss": null
+              "gloss": "anina"
             },
             {
               "id": "0100401911",
-              "gloss": null
+              "gloss": "Zillah"
             }
           ]
         },
@@ -5980,43 +5980,43 @@
           "words": [
             {
               "id": "0100402001",
-              "gloss": null
+              "gloss": "anei"
             },
             {
               "id": "0100402002",
-              "gloss": null
+              "gloss": "Adah"
             },
             {
               "id": "0100402003",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100402004",
-              "gloss": null
+              "gloss": "Jabal"
             },
             {
               "id": "0100402005",
-              "gloss": null
+              "gloss": "ahi"
             },
             {
               "id": "0100402006",
-              "gloss": null
+              "gloss": "ahung hi"
             },
             {
               "id": "0100402007",
-              "gloss": null
+              "gloss": "ahing"
             },
             {
               "id": "0100402008",
-              "gloss": null
+              "gloss": "cheng"
             },
             {
               "id": "0100402009",
-              "gloss": null
+              "gloss": "khoilupon"
             },
             {
               "id": "0100402010",
-              "gloss": null
+              "gloss": "gancha"
             }
           ]
         },
@@ -6025,43 +6025,43 @@
           "words": [
             {
               "id": "0100402101",
-              "gloss": null
+              "gloss": "Min chu "
             },
             {
               "id": "0100402102",
-              "gloss": null
+              "gloss": "asopi"
             },
             {
               "id": "0100402103",
-              "gloss": null
+              "gloss": "Jubal"
             },
             {
               "id": "0100402104",
-              "gloss": null
+              "gloss": "ahi"
             },
             {
               "id": "0100402105",
-              "gloss": null
+              "gloss": "ahung hi"
             },
             {
               "id": "0100402106",
-              "gloss": null
+              "gloss": "apa"
             },
             {
               "id": "0100402107",
-              "gloss": null
+              "gloss": "jouse"
             },
             {
               "id": "0100402108",
-              "gloss": null
+              "gloss": "semthem"
             },
             {
               "id": "0100402109",
-              "gloss": null
+              "gloss": "goshem"
             },
             {
               "id": "0100402110",
-              "gloss": null
+              "gloss": "mut"
             }
           ]
         },
@@ -6070,59 +6070,59 @@
           "words": [
             {
               "id": "0100402201",
-              "gloss": null
+              "gloss": "Zillah"
             },
             {
               "id": "0100402202",
-              "gloss": null
+              "gloss": "Chujongle "
             },
             {
               "id": "0100402203",
-              "gloss": null
+              "gloss": "amanu"
             },
             {
               "id": "0100402204",
-              "gloss": null
+              "gloss": "ahing in"
             },
             {
               "id": "0100402205",
-              "gloss": null
+              "gloss": "in "
             },
             {
               "id": "0100402206",
-              "gloss": null
+              "gloss": "Tubal-Cain"
             },
             {
               "id": "0100402207",
-              "gloss": null
+              "gloss": "kheng"
             },
             {
               "id": "0100402208",
-              "gloss": null
+              "gloss": "jouse"
             },
             {
               "id": "0100402209",
-              "gloss": null
+              "gloss": "kheng"
             },
             {
               "id": "0100402210",
-              "gloss": null
+              "gloss": "sum-eng"
             },
             {
               "id": "0100402211",
-              "gloss": null
+              "gloss": "thih"
             },
             {
               "id": "0100402212",
-              "gloss": null
+              "gloss": "asopinu"
             },
             {
               "id": "0100402213",
-              "gloss": null
+              "gloss": "Tubal-Cain"
             },
             {
               "id": "0100402214",
-              "gloss": null
+              "gloss": "Naamah"
             }
           ]
         },
