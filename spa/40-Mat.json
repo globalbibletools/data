@@ -55,7 +55,7 @@
             },
             {
               "id": "4000100203",
-              "gloss": " [al]"
+              "gloss": "-"
             },
             {
               "id": "4000100204",
@@ -75,7 +75,7 @@
             },
             {
               "id": "4000100208",
-              "gloss": " [al]"
+              "gloss": "-"
             },
             {
               "id": "4000100209",
@@ -95,7 +95,7 @@
             },
             {
               "id": "4000100213",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100214",
@@ -107,7 +107,7 @@
             },
             {
               "id": "4000100216",
-              "gloss": "[a los]"
+              "gloss": "los"
             },
             {
               "id": "4000100217",
@@ -136,7 +136,7 @@
             },
             {
               "id": "4000100304",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100305",
@@ -148,7 +148,7 @@
             },
             {
               "id": "4000100307",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100308",
@@ -160,7 +160,7 @@
             },
             {
               "id": "4000100310",
-              "gloss": "[la] "
+              "gloss": "-"
             },
             {
               "id": "4000100311",
@@ -168,7 +168,7 @@
             },
             {
               "id": "4000100312",
-              "gloss": null
+              "gloss": "Fares"
             },
             {
               "id": "4000100313",
@@ -180,7 +180,7 @@
             },
             {
               "id": "4000100315",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100316",
@@ -200,7 +200,7 @@
             },
             {
               "id": "4000100320",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100321",
@@ -225,7 +225,7 @@
             },
             {
               "id": "4000100404",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100405",
@@ -245,7 +245,7 @@
             },
             {
               "id": "4000100409",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100410",
@@ -265,7 +265,7 @@
             },
             {
               "id": "4000100414",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100415",
@@ -290,7 +290,7 @@
             },
             {
               "id": "4000100504",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100505",
@@ -302,7 +302,7 @@
             },
             {
               "id": "4000100507",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "4000100508",
@@ -322,7 +322,7 @@
             },
             {
               "id": "4000100512",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100513",
@@ -334,7 +334,7 @@
             },
             {
               "id": "4000100515",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "4000100516",
@@ -354,7 +354,7 @@
             },
             {
               "id": "4000100520",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100521",
@@ -379,7 +379,7 @@
             },
             {
               "id": "4000100604",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100605",
@@ -407,11 +407,11 @@
             },
             {
               "id": "4000100611",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100612",
-              "gloss": "Solomó"
+              "gloss": "Solomón"
             },
             {
               "id": "4000100613",
@@ -436,7 +436,7 @@
           "words": [
             {
               "id": "4000100701",
-              "gloss": null
+              "gloss": "Solomón"
             },
             {
               "id": "4000100702",
@@ -448,7 +448,7 @@
             },
             {
               "id": "4000100704",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100705",
@@ -468,7 +468,7 @@
             },
             {
               "id": "4000100709",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100710",
@@ -488,7 +488,7 @@
             },
             {
               "id": "4000100714",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100715",
@@ -513,7 +513,7 @@
             },
             {
               "id": "4000100804",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100805",
@@ -533,7 +533,7 @@
             },
             {
               "id": "4000100809",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100810",
@@ -553,11 +553,11 @@
             },
             {
               "id": "4000100814",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100815",
-              "gloss": null
+              "gloss": "Uzías"
             }
           ]
         },
@@ -578,11 +578,11 @@
             },
             {
               "id": "4000100904",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "4000100905",
-              "gloss": null
+              "gloss": "Jotam"
             },
             {
               "id": "4000100906",
@@ -598,7 +598,7 @@
             },
             {
               "id": "4000100909",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100910",
@@ -618,7 +618,7 @@
             },
             {
               "id": "4000100914",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000100915",
@@ -643,7 +643,7 @@
             },
             {
               "id": "4000101004",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101005",
@@ -663,7 +663,7 @@
             },
             {
               "id": "4000101009",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101010",
@@ -683,7 +683,7 @@
             },
             {
               "id": "4000101014",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101015",
@@ -708,7 +708,7 @@
             },
             {
               "id": "4000101104",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101105",
@@ -720,7 +720,7 @@
             },
             {
               "id": "4000101107",
-              "gloss": "[a los]"
+              "gloss": "los"
             },
             {
               "id": "4000101108",
@@ -781,7 +781,7 @@
             },
             {
               "id": "4000101208",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101209",
@@ -801,7 +801,7 @@
             },
             {
               "id": "4000101213",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101214",
@@ -826,7 +826,7 @@
             },
             {
               "id": "4000101304",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101305",
@@ -846,7 +846,7 @@
             },
             {
               "id": "4000101309",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101309-01",
@@ -866,7 +866,7 @@
             },
             {
               "id": "4000101314",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101315",
@@ -891,7 +891,7 @@
             },
             {
               "id": "4000101404",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101405",
@@ -911,7 +911,7 @@
             },
             {
               "id": "4000101409",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101409-01",
@@ -931,7 +931,7 @@
             },
             {
               "id": "4000101414",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101415",
@@ -956,7 +956,7 @@
             },
             {
               "id": "4000101504",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101505",
@@ -976,7 +976,7 @@
             },
             {
               "id": "4000101509",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101510",
@@ -996,7 +996,7 @@
             },
             {
               "id": "4000101514",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101515",
@@ -1021,7 +1021,7 @@
             },
             {
               "id": "4000101604",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101605",
@@ -1178,7 +1178,7 @@
             },
             {
               "id": "4000101727",
-              "gloss": null
+              "gloss": "Cristo"
             },
             {
               "id": "4000101728",
@@ -1247,19 +1247,19 @@
             },
             {
               "id": "4000101814",
-              "gloss": "[al]"
+              "gloss": "-"
             },
             {
               "id": "4000101815",
-              "gloss": "José"
+              "gloss": "a José"
             },
             {
               "id": "4000101816",
-              "gloss": "Antes de"
+              "gloss": "antes de"
             },
             {
               "id": "4000101817",
-              "gloss": "Antes de"
+              "gloss": "antes de"
             },
             {
               "id": "4000101818",
@@ -1308,7 +1308,7 @@
             },
             {
               "id": "4000101902",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000101903",
@@ -1502,7 +1502,7 @@
           "words": [
             {
               "id": "4000102101",
-              "gloss": null
+              "gloss": "dará a luz"
             },
             {
               "id": "4000102102",
@@ -1724,7 +1724,7 @@
             },
             {
               "id": "4000102321",
-              "gloss": "[el]"
+              "gloss": "- "
             },
             {
               "id": "4000102322",
@@ -1741,11 +1741,11 @@
             },
             {
               "id": "4000102402",
-              "gloss": "* y"
+              "gloss": "y"
             },
             {
               "id": "4000102403",
-              "gloss": "[el]"
+              "gloss": "-"
             },
             {
               "id": "4000102404",
@@ -1908,7 +1908,7 @@
             },
             {
               "id": "4000200107",
-              "gloss": "la"
+              "gloss": "- "
             },
             {
               "id": "4000200108",
@@ -1924,7 +1924,7 @@
             },
             {
               "id": "4000200111",
-              "gloss": "de Heriodes"
+              "gloss": "de Herodes"
             },
             {
               "id": "4000200112",
@@ -1940,7 +1940,7 @@
             },
             {
               "id": "4000200115",
-              "gloss": null
+              "gloss": "magos"
             },
             {
               "id": "4000200116",
@@ -1969,83 +1969,83 @@
           "words": [
             {
               "id": "4000200201",
-              "gloss": null
+              "gloss": "diciendo"
             },
             {
               "id": "4000200202",
-              "gloss": null
+              "gloss": "Dónde"
             },
             {
               "id": "4000200203",
-              "gloss": null
+              "gloss": "está"
             },
             {
               "id": "4000200204",
-              "gloss": null
+              "gloss": " el"
             },
             {
               "id": "4000200205",
-              "gloss": null
+              "gloss": "habiendo sido nacido"
             },
             {
               "id": "4000200206",
-              "gloss": null
+              "gloss": "rey"
             },
             {
               "id": "4000200207",
-              "gloss": null
+              "gloss": " de los"
             },
             {
               "id": "4000200208",
-              "gloss": null
+              "gloss": "judíos"
             },
             {
               "id": "4000200209",
-              "gloss": null
+              "gloss": "vimos"
             },
             {
               "id": "4000200210",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000200211",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000200212",
-              "gloss": null
+              "gloss": " la"
             },
             {
               "id": "4000200213",
-              "gloss": null
+              "gloss": "estrella"
             },
             {
               "id": "4000200214",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000200215",
-              "gloss": null
+              "gloss": " el"
             },
             {
               "id": "4000200216",
-              "gloss": null
+              "gloss": "oriente"
             },
             {
               "id": "4000200217",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200218",
-              "gloss": null
+              "gloss": "vinimos"
             },
             {
               "id": "4000200219",
-              "gloss": null
+              "gloss": "a postrarnos"
             },
             {
               "id": "4000200220",
-              "gloss": null
+              "gloss": "ante él"
             }
           ]
         },
@@ -2054,47 +2054,47 @@
           "words": [
             {
               "id": "4000200301",
-              "gloss": null
+              "gloss": "habiendo oído"
             },
             {
               "id": "4000200302",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200303",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000200304",
-              "gloss": null
+              "gloss": "rey"
             },
             {
               "id": "4000200305",
-              "gloss": null
+              "gloss": "Herodes"
             },
             {
               "id": "4000200306",
-              "gloss": null
+              "gloss": "se turbó"
             },
             {
               "id": "4000200307",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200308",
-              "gloss": null
+              "gloss": "toda"
             },
             {
               "id": "4000200309",
-              "gloss": null
+              "gloss": "Jerusalén"
             },
             {
               "id": "4000200310",
-              "gloss": null
+              "gloss": "con"
             },
             {
               "id": "4000200311",
-              "gloss": null
+              "gloss": "él"
             }
           ]
         },
@@ -2103,67 +2103,67 @@
           "words": [
             {
               "id": "4000200401",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200402",
-              "gloss": null
+              "gloss": "habiendo reunido"
             },
             {
               "id": "4000200403",
-              "gloss": null
+              "gloss": "a todos"
             },
             {
               "id": "4000200404",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000200405",
-              "gloss": null
+              "gloss": "sumos sacerdotes"
             },
             {
               "id": "4000200406",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200407",
-              "gloss": null
+              "gloss": "escribas"
             },
             {
               "id": "4000200408",
-              "gloss": null
+              "gloss": "del"
             },
             {
               "id": "4000200409",
-              "gloss": null
+              "gloss": "pueblo"
             },
             {
               "id": "4000200410",
-              "gloss": null
+              "gloss": "preguntaba"
             },
             {
               "id": "4000200411",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000200412",
-              "gloss": null
+              "gloss": "ellos"
             },
             {
               "id": "4000200413",
-              "gloss": null
+              "gloss": "dónde"
             },
             {
               "id": "4000200414",
-              "gloss": null
+              "gloss": " el"
             },
             {
               "id": "4000200415",
-              "gloss": null
+              "gloss": "Cristo"
             },
             {
               "id": "4000200416",
-              "gloss": null
+              "gloss": "nace"
             }
           ]
         },
@@ -2172,59 +2172,59 @@
           "words": [
             {
               "id": "4000200501",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000200502",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200503",
-              "gloss": null
+              "gloss": "dijeron"
             },
             {
               "id": "4000200504",
-              "gloss": null
+              "gloss": "a él"
             },
             {
               "id": "4000200505",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000200506",
-              "gloss": null
+              "gloss": "Belén"
             },
             {
               "id": "4000200507",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000200508",
-              "gloss": null
+              "gloss": "de Judea"
             },
             {
               "id": "4000200509",
-              "gloss": null
+              "gloss": "así"
             },
             {
               "id": "4000200510",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000200511",
-              "gloss": null
+              "gloss": "ha sido escrito"
             },
             {
               "id": "4000200512",
-              "gloss": null
+              "gloss": "por medio de"
             },
             {
               "id": "4000200513",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000200514",
-              "gloss": null
+              "gloss": "profeta"
             }
           ]
         },
@@ -2233,99 +2233,99 @@
           "words": [
             {
               "id": "4000200601",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200602",
-              "gloss": null
+              "gloss": "tú"
             },
             {
               "id": "4000200603",
-              "gloss": null
+              "gloss": "Belén"
             },
             {
               "id": "4000200604",
-              "gloss": null
+              "gloss": "tierra"
             },
             {
               "id": "4000200605",
-              "gloss": null
+              "gloss": "de Judá"
             },
             {
               "id": "4000200606",
-              "gloss": null
+              "gloss": "de ningún modo"
             },
             {
               "id": "4000200607",
-              "gloss": null
+              "gloss": "la más pequeña"
             },
             {
               "id": "4000200608",
-              "gloss": null
+              "gloss": "eres"
             },
             {
               "id": "4000200609",
-              "gloss": null
+              "gloss": "entre"
             },
             {
               "id": "4000200610",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000200611",
-              "gloss": null
+              "gloss": "gobernantes"
             },
             {
               "id": "4000200612",
-              "gloss": null
+              "gloss": "de Judá"
             },
             {
               "id": "4000200612-01",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000200614",
-              "gloss": null
+              "gloss": "ti"
             },
             {
               "id": "4000200615",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000200616",
-              "gloss": null
+              "gloss": "saldrá"
             },
             {
               "id": "4000200617",
-              "gloss": null
+              "gloss": "un gobernador"
             },
             {
               "id": "4000200618",
-              "gloss": null
+              "gloss": "quien"
             },
             {
               "id": "4000200619",
-              "gloss": null
+              "gloss": "pastoreará"
             },
             {
               "id": "4000200620",
-              "gloss": null
+              "gloss": "al"
             },
             {
               "id": "4000200621",
-              "gloss": null
+              "gloss": "pueblo"
             },
             {
               "id": "4000200622",
-              "gloss": null
+              "gloss": "de mí"
             },
             {
               "id": "4000200623",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000200624",
-              "gloss": null
+              "gloss": "Israel"
             }
           ]
         },
@@ -2334,59 +2334,59 @@
           "words": [
             {
               "id": "4000200701",
-              "gloss": null
+              "gloss": "entonces"
             },
             {
               "id": "4000200702",
-              "gloss": null
+              "gloss": "Herodes"
             },
             {
               "id": "4000200703",
-              "gloss": null
+              "gloss": "secretamente"
             },
             {
               "id": "4000200704",
-              "gloss": null
+              "gloss": "habiendo llamado"
             },
             {
               "id": "4000200705",
-              "gloss": null
+              "gloss": "a los"
             },
             {
               "id": "4000200706",
-              "gloss": null
+              "gloss": "magos"
             },
             {
               "id": "4000200707",
-              "gloss": null
+              "gloss": "averiguó exactamente"
             },
             {
               "id": "4000200708",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000200709",
-              "gloss": null
+              "gloss": "ellos"
             },
             {
               "id": "4000200710",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000200711",
-              "gloss": null
+              "gloss": "tiempo"
             },
             {
               "id": "4000200712",
-              "gloss": null
+              "gloss": " de la"
             },
             {
               "id": "4000200713",
-              "gloss": null
+              "gloss": "apareciente"
             },
             {
               "id": "4000200714",
-              "gloss": null
+              "gloss": "estrella"
             }
           ]
         },
@@ -2395,91 +2395,91 @@
           "words": [
             {
               "id": "4000200801",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200802",
-              "gloss": null
+              "gloss": "habiendo enviado"
             },
             {
               "id": "4000200803",
-              "gloss": null
+              "gloss": "a ellos"
             },
             {
               "id": "4000200804",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000200805",
-              "gloss": null
+              "gloss": "Belén"
             },
             {
               "id": "4000200806",
-              "gloss": null
+              "gloss": "dijo"
             },
             {
               "id": "4000200807",
-              "gloss": null
+              "gloss": "habiendo ido"
             },
             {
               "id": "4000200808",
-              "gloss": null
+              "gloss": "averíguen "
             },
             {
               "id": "4000200809",
-              "gloss": null
+              "gloss": "exactamente"
             },
             {
               "id": "4000200810",
-              "gloss": null
+              "gloss": "acerca de"
             },
             {
               "id": "4000200811",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000200812",
-              "gloss": null
+              "gloss": "niño"
             },
             {
               "id": "4000200813",
-              "gloss": null
+              "gloss": "cuando"
             },
             {
               "id": "4000200814",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200815",
-              "gloss": null
+              "gloss": "lo hayan encontrado"
             },
             {
               "id": "4000200816",
-              "gloss": null
+              "gloss": "informen"
             },
             {
               "id": "4000200817",
-              "gloss": null
+              "gloss": "a mí"
             },
             {
               "id": "4000200818",
-              "gloss": null
+              "gloss": "para que"
             },
             {
               "id": "4000200819",
-              "gloss": null
+              "gloss": "también yo"
             },
             {
               "id": "4000200820",
-              "gloss": null
+              "gloss": "habiendo ido"
             },
             {
               "id": "4000200821",
-              "gloss": null
+              "gloss": "me prostre"
             },
             {
               "id": "4000200822",
-              "gloss": null
+              "gloss": "ante él"
             }
           ]
         },
@@ -2488,103 +2488,103 @@
           "words": [
             {
               "id": "4000200901",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "4000200902",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200903",
-              "gloss": null
+              "gloss": "habiendo oído"
             },
             {
               "id": "4000200904",
-              "gloss": null
+              "gloss": "del"
             },
             {
               "id": "4000200905",
-              "gloss": null
+              "gloss": "rey"
             },
             {
               "id": "4000200906",
-              "gloss": null
+              "gloss": "partieron"
             },
             {
               "id": "4000200907",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000200908",
-              "gloss": null
+              "gloss": "he aquí"
             },
             {
               "id": "4000200909",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000200910",
-              "gloss": null
+              "gloss": "estrella"
             },
             {
               "id": "4000200911",
-              "gloss": null
+              "gloss": "que"
             },
             {
               "id": "4000200912",
-              "gloss": null
+              "gloss": "vieron"
             },
             {
               "id": "4000200913",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000200914",
-              "gloss": null
+              "gloss": " el"
             },
             {
               "id": "4000200915",
-              "gloss": null
+              "gloss": "oriente"
             },
             {
               "id": "4000200916",
-              "gloss": null
+              "gloss": "iba delante de"
             },
             {
               "id": "4000200917",
-              "gloss": null
+              "gloss": "ellos"
             },
             {
               "id": "4000200918",
-              "gloss": null
+              "gloss": "hasta"
             },
             {
               "id": "4000200919",
-              "gloss": null
+              "gloss": "habiendo venido"
             },
             {
               "id": "4000200920",
-              "gloss": null
+              "gloss": "se detuvo"
             },
             {
               "id": "4000200921",
-              "gloss": null
+              "gloss": "encima de"
             },
             {
               "id": "4000200922",
-              "gloss": null
+              "gloss": "donde"
             },
             {
               "id": "4000200923",
-              "gloss": null
+              "gloss": "estaba"
             },
             {
               "id": "4000200924",
-              "gloss": null
+              "gloss": " el"
             },
             {
               "id": "4000200925",
-              "gloss": null
+              "gloss": "niño"
             }
           ]
         },
@@ -2593,35 +2593,35 @@
           "words": [
             {
               "id": "4000201001",
-              "gloss": null
+              "gloss": "habiendo visto"
             },
             {
               "id": "4000201002",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201003",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000201004",
-              "gloss": null
+              "gloss": "estrella"
             },
             {
               "id": "4000201005",
-              "gloss": null
+              "gloss": "se alegraron"
             },
             {
               "id": "4000201006",
-              "gloss": null
+              "gloss": "con gozo"
             },
             {
               "id": "4000201007",
-              "gloss": null
+              "gloss": "grande"
             },
             {
               "id": "4000201008",
-              "gloss": null
+              "gloss": "en gran manera"
             }
           ]
         },
@@ -2630,123 +2630,123 @@
           "words": [
             {
               "id": "4000201101",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201102",
-              "gloss": null
+              "gloss": "habiendo entrado"
             },
             {
               "id": "4000201103",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000201104",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000201105",
-              "gloss": null
+              "gloss": "casa"
             },
             {
               "id": "4000201106",
-              "gloss": null
+              "gloss": "vieron"
             },
             {
               "id": "4000201107",
-              "gloss": null
+              "gloss": "al"
             },
             {
               "id": "4000201108",
-              "gloss": null
+              "gloss": "niño"
             },
             {
               "id": "4000201109",
-              "gloss": null
+              "gloss": "con"
             },
             {
               "id": "4000201110",
-              "gloss": null
+              "gloss": "María"
             },
             {
               "id": "4000201111",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000201112",
-              "gloss": null
+              "gloss": "madre"
             },
             {
               "id": "4000201113",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000201114",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201115",
-              "gloss": null
+              "gloss": "habiendo caído"
             },
             {
               "id": "4000201116",
-              "gloss": null
+              "gloss": "se postraron"
             },
             {
               "id": "4000201117",
-              "gloss": null
+              "gloss": "ante él"
             },
             {
               "id": "4000201118",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201119",
-              "gloss": null
+              "gloss": "habiendo abierto"
             },
             {
               "id": "4000201120",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000201121",
-              "gloss": null
+              "gloss": "tesoros"
             },
             {
               "id": "4000201122",
-              "gloss": null
+              "gloss": "de ellos"
             },
             {
               "id": "4000201123",
-              "gloss": null
+              "gloss": "ofrecieron"
             },
             {
               "id": "4000201124",
-              "gloss": null
+              "gloss": "a él"
             },
             {
               "id": "4000201125",
-              "gloss": null
+              "gloss": "regalos"
             },
             {
               "id": "4000201126",
-              "gloss": null
+              "gloss": "oro"
             },
             {
               "id": "4000201127",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201128",
-              "gloss": null
+              "gloss": "incienso"
             },
             {
               "id": "4000201129",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201130",
-              "gloss": null
+              "gloss": "mirra"
             }
           ]
         },
@@ -2755,67 +2755,67 @@
           "words": [
             {
               "id": "4000201201",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201202",
-              "gloss": null
+              "gloss": "habiendo sido advertidos"
             },
             {
               "id": "4000201203",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000201204",
-              "gloss": null
+              "gloss": "un sueño"
             },
             {
               "id": "4000201205",
-              "gloss": null
+              "gloss": "no"
             },
             {
               "id": "4000201206",
-              "gloss": null
+              "gloss": "volver"
             },
             {
               "id": "4000201207",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000201208",
-              "gloss": null
+              "gloss": "Herodes"
             },
             {
               "id": "4000201209",
-              "gloss": null
+              "gloss": "por"
             },
             {
               "id": "4000201210",
-              "gloss": null
+              "gloss": "otro"
             },
             {
               "id": "4000201211",
-              "gloss": null
+              "gloss": "camino"
             },
             {
               "id": "4000201212",
-              "gloss": null
+              "gloss": "se retiraron"
             },
             {
               "id": "4000201213",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000201214",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000201215",
-              "gloss": null
+              "gloss": "región"
             },
             {
               "id": "4000201216",
-              "gloss": null
+              "gloss": "de ellos"
             }
           ]
         },
@@ -2824,163 +2824,163 @@
           "words": [
             {
               "id": "4000201301",
-              "gloss": null
+              "gloss": "habiéndose retirado"
             },
             {
               "id": "4000201302",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201303",
-              "gloss": null
+              "gloss": "ellos"
             },
             {
               "id": "4000201304",
-              "gloss": null
+              "gloss": "he aquí"
             },
             {
               "id": "4000201305",
-              "gloss": null
+              "gloss": "un ángel"
             },
             {
               "id": "4000201306",
-              "gloss": null
+              "gloss": "del Señor"
             },
             {
               "id": "4000201307",
-              "gloss": null
+              "gloss": "aparece"
             },
             {
               "id": "4000201308",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000201309",
-              "gloss": null
+              "gloss": "un sueño"
             },
             {
               "id": "4000201310",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000201311",
-              "gloss": null
+              "gloss": "José"
             },
             {
               "id": "4000201312",
-              "gloss": null
+              "gloss": "diciendo"
             },
             {
               "id": "4000201313",
-              "gloss": null
+              "gloss": "habiéndote levantado"
             },
             {
               "id": "4000201314",
-              "gloss": null
+              "gloss": "toma"
             },
             {
               "id": "4000201315",
-              "gloss": null
+              "gloss": "al"
             },
             {
               "id": "4000201316",
-              "gloss": null
+              "gloss": "niño"
             },
             {
               "id": "4000201317",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201318",
-              "gloss": null
+              "gloss": "a la"
             },
             {
               "id": "4000201319",
-              "gloss": null
+              "gloss": "madre"
             },
             {
               "id": "4000201320",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000201321",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201322",
-              "gloss": null
+              "gloss": "huye"
             },
             {
               "id": "4000201323",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000201324",
-              "gloss": null
+              "gloss": "Egipto"
             },
             {
               "id": "4000201325",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201326",
-              "gloss": null
+              "gloss": "permanece"
             },
             {
               "id": "4000201327",
-              "gloss": null
+              "gloss": "allí"
             },
             {
               "id": "4000201328",
-              "gloss": null
+              "gloss": "hasta que"
             },
             {
               "id": "4000201329",
-              "gloss": null
+              "gloss": "hasta que"
             },
             {
               "id": "4000201330",
-              "gloss": null
+              "gloss": "yo diga"
             },
             {
               "id": "4000201331",
-              "gloss": null
+              "gloss": "a ti"
             },
             {
               "id": "4000201332",
-              "gloss": null
+              "gloss": "va a"
             },
             {
               "id": "4000201333",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000201334",
-              "gloss": null
+              "gloss": "Herodes"
             },
             {
               "id": "4000201335",
-              "gloss": null
+              "gloss": "buscar"
             },
             {
               "id": "4000201336",
-              "gloss": null
+              "gloss": "al"
             },
             {
               "id": "4000201337",
-              "gloss": null
+              "gloss": "niño"
             },
             {
               "id": "4000201338",
-              "gloss": null
+              "gloss": "para"
             },
             {
               "id": "4000201339",
-              "gloss": null
+              "gloss": "destruir"
             },
             {
               "id": "4000201340",
-              "gloss": null
+              "gloss": "a él"
             }
           ]
         },
@@ -2989,63 +2989,63 @@
           "words": [
             {
               "id": "4000201401",
-              "gloss": null
+              "gloss": "él"
             },
             {
               "id": "4000201402",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201403",
-              "gloss": null
+              "gloss": "habiéndose levantado"
             },
             {
               "id": "4000201403-01",
-              "gloss": null
+              "gloss": "tomó"
             },
             {
               "id": "4000201405",
-              "gloss": null
+              "gloss": "al"
             },
             {
               "id": "4000201406",
-              "gloss": null
+              "gloss": "niño"
             },
             {
               "id": "4000201407",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201408",
-              "gloss": null
+              "gloss": "a la"
             },
             {
               "id": "4000201409",
-              "gloss": null
+              "gloss": "madre"
             },
             {
               "id": "4000201410",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000201411",
-              "gloss": null
+              "gloss": "de noche"
             },
             {
               "id": "4000201412",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201413",
-              "gloss": null
+              "gloss": "se retiró"
             },
             {
               "id": "4000201414",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000201415",
-              "gloss": null
+              "gloss": "Egipto"
             }
           ]
         },
@@ -3054,95 +3054,95 @@
           "words": [
             {
               "id": "4000201501",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201502",
-              "gloss": null
+              "gloss": "estaba"
             },
             {
               "id": "4000201503",
-              "gloss": null
+              "gloss": "allí"
             },
             {
               "id": "4000201504",
-              "gloss": null
+              "gloss": "hasta"
             },
             {
               "id": "4000201505",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000201506",
-              "gloss": null
+              "gloss": "muerte"
             },
             {
               "id": "4000201507",
-              "gloss": null
+              "gloss": "de Herodes"
             },
             {
               "id": "4000201508",
-              "gloss": null
+              "gloss": "para que"
             },
             {
               "id": "4000201509",
-              "gloss": null
+              "gloss": "se cumpliera"
             },
             {
               "id": "4000201510",
-              "gloss": null
+              "gloss": "lo"
             },
             {
               "id": "4000201511",
-              "gloss": null
+              "gloss": "dicho"
             },
             {
               "id": "4000201512",
-              "gloss": null
+              "gloss": "por"
             },
             {
               "id": "4000201513",
-              "gloss": null
+              "gloss": "el Señor"
             },
             {
               "id": "4000201514",
-              "gloss": null
+              "gloss": "por medio de"
             },
             {
               "id": "4000201515",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000201516",
-              "gloss": null
+              "gloss": "profeta"
             },
             {
               "id": "4000201517",
-              "gloss": null
+              "gloss": "diciendo"
             },
             {
               "id": "4000201518",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000201519",
-              "gloss": null
+              "gloss": "Egipto"
             },
             {
               "id": "4000201520",
-              "gloss": null
+              "gloss": "llamé"
             },
             {
               "id": "4000201521",
-              "gloss": null
+              "gloss": "al"
             },
             {
               "id": "4000201522",
-              "gloss": null
+              "gloss": "hijo"
             },
             {
               "id": "4000201523",
-              "gloss": null
+              "gloss": "de mí"
             }
           ]
         },
@@ -3151,151 +3151,151 @@
           "words": [
             {
               "id": "4000201601",
-              "gloss": null
+              "gloss": "entonces"
             },
             {
               "id": "4000201602",
-              "gloss": null
+              "gloss": "Herodes"
             },
             {
               "id": "4000201603",
-              "gloss": null
+              "gloss": "habiendo visto"
             },
             {
               "id": "4000201604",
-              "gloss": null
+              "gloss": "que"
             },
             {
               "id": "4000201605",
-              "gloss": null
+              "gloss": "fue burlado"
             },
             {
               "id": "4000201606",
-              "gloss": null
+              "gloss": "por"
             },
             {
               "id": "4000201607",
-              "gloss": null
+              "gloss": " los"
             },
             {
               "id": "4000201608",
-              "gloss": null
+              "gloss": "magos"
             },
             {
               "id": "4000201609",
-              "gloss": null
+              "gloss": "se enfureció"
             },
             {
               "id": "4000201610",
-              "gloss": null
+              "gloss": "mucho"
             },
             {
               "id": "4000201611",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201612",
-              "gloss": null
+              "gloss": "habiendo enviado"
             },
             {
               "id": "4000201613",
-              "gloss": null
+              "gloss": "mató"
             },
             {
               "id": "4000201614",
-              "gloss": null
+              "gloss": "a todos"
             },
             {
               "id": "4000201615",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000201616",
-              "gloss": null
+              "gloss": "niños"
             },
             {
               "id": "4000201617",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000201618",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000201619",
-              "gloss": null
+              "gloss": "Belén"
             },
             {
               "id": "4000201620",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201621",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000201622",
-              "gloss": null
+              "gloss": "todos"
             },
             {
               "id": "4000201623",
-              "gloss": null
+              "gloss": " los"
             },
             {
               "id": "4000201624",
-              "gloss": null
+              "gloss": "alrededores"
             },
             {
               "id": "4000201625",
-              "gloss": null
+              "gloss": "de ella"
             },
             {
               "id": "4000201626",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000201627",
-              "gloss": null
+              "gloss": "dos años"
             },
             {
               "id": "4000201628",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201629",
-              "gloss": null
+              "gloss": "menos"
             },
             {
               "id": "4000201630",
-              "gloss": null
+              "gloss": "según"
             },
             {
               "id": "4000201631",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000201632",
-              "gloss": null
+              "gloss": "tiempo"
             },
             {
               "id": "4000201633",
-              "gloss": null
+              "gloss": "que"
             },
             {
               "id": "4000201634",
-              "gloss": null
+              "gloss": "averiguó exactamente"
             },
             {
               "id": "4000201635",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000201636",
-              "gloss": null
+              "gloss": " los"
             },
             {
               "id": "4000201637",
-              "gloss": null
+              "gloss": "magos"
             }
           ]
         },
@@ -3304,39 +3304,39 @@
           "words": [
             {
               "id": "4000201701",
-              "gloss": null
+              "gloss": "entonces"
             },
             {
               "id": "4000201702",
-              "gloss": null
+              "gloss": "se cumplió"
             },
             {
               "id": "4000201703",
-              "gloss": null
+              "gloss": "lo"
             },
             {
               "id": "4000201704",
-              "gloss": null
+              "gloss": "dicho"
             },
             {
               "id": "4000201705",
-              "gloss": null
+              "gloss": "por medio de"
             },
             {
               "id": "4000201706",
-              "gloss": null
+              "gloss": "Jeremías"
             },
             {
               "id": "4000201707",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000201708",
-              "gloss": null
+              "gloss": "profeta"
             },
             {
               "id": "4000201709",
-              "gloss": null
+              "gloss": "diciendo"
             }
           ]
         },
@@ -3345,83 +3345,83 @@
           "words": [
             {
               "id": "4000201801",
-              "gloss": null
+              "gloss": "una voz"
             },
             {
               "id": "4000201802",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000201803",
-              "gloss": null
+              "gloss": "Ramá"
             },
             {
               "id": "4000201804",
-              "gloss": null
+              "gloss": "se escuchó"
             },
             {
               "id": "4000201805",
-              "gloss": null
+              "gloss": "llanto"
             },
             {
               "id": "4000201806",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201807",
-              "gloss": null
+              "gloss": "lamento"
             },
             {
               "id": "4000201808",
-              "gloss": null
+              "gloss": "mucho"
             },
             {
               "id": "4000201809",
-              "gloss": null
+              "gloss": "Raquel"
             },
             {
               "id": "4000201810",
-              "gloss": null
+              "gloss": "llorando"
             },
             {
               "id": "4000201811",
-              "gloss": null
+              "gloss": "por los"
             },
             {
               "id": "4000201812",
-              "gloss": null
+              "gloss": "hijos"
             },
             {
               "id": "4000201813",
-              "gloss": null
+              "gloss": "de ella"
             },
             {
               "id": "4000201814",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000201815",
-              "gloss": null
+              "gloss": "no"
             },
             {
               "id": "4000201816",
-              "gloss": null
+              "gloss": "quería"
             },
             {
               "id": "4000201817",
-              "gloss": null
+              "gloss": "ser consolada"
             },
             {
               "id": "4000201818",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000201819",
-              "gloss": null
+              "gloss": "no"
             },
             {
               "id": "4000201820",
-              "gloss": null
+              "gloss": "estan"
             }
           ]
         },
@@ -3430,59 +3430,59 @@
           "words": [
             {
               "id": "4000201901",
-              "gloss": null
+              "gloss": "habiendo muerto"
             },
             {
               "id": "4000201902",
-              "gloss": null
+              "gloss": "pero"
             },
             {
               "id": "4000201903",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000201904",
-              "gloss": null
+              "gloss": "Herodes"
             },
             {
               "id": "4000201905",
-              "gloss": null
+              "gloss": "he aquí"
             },
             {
               "id": "4000201906",
-              "gloss": null
+              "gloss": "un ángel"
             },
             {
               "id": "4000201907",
-              "gloss": null
+              "gloss": "del Señor"
             },
             {
               "id": "4000201908",
-              "gloss": null
+              "gloss": "aparece"
             },
             {
               "id": "4000201909",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000201910",
-              "gloss": null
+              "gloss": "un sueño"
             },
             {
               "id": "4000201911",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000201912",
-              "gloss": null
+              "gloss": "José"
             },
             {
               "id": "4000201913",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000201914",
-              "gloss": null
+              "gloss": "Egipto"
             }
           ]
         },
@@ -3491,91 +3491,91 @@
           "words": [
             {
               "id": "4000202001",
-              "gloss": null
+              "gloss": "diciendo"
             },
             {
               "id": "4000202002",
-              "gloss": null
+              "gloss": "habiéndote levantado"
             },
             {
               "id": "4000202003",
-              "gloss": null
+              "gloss": "toma"
             },
             {
               "id": "4000202004",
-              "gloss": null
+              "gloss": "al"
             },
             {
               "id": "4000202005",
-              "gloss": null
+              "gloss": "niño"
             },
             {
               "id": "4000202006",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000202007",
-              "gloss": null
+              "gloss": "a la"
             },
             {
               "id": "4000202008",
-              "gloss": null
+              "gloss": "madre"
             },
             {
               "id": "4000202009",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000202010",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000202011",
-              "gloss": null
+              "gloss": "ve"
             },
             {
               "id": "4000202012",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000202013",
-              "gloss": null
+              "gloss": "la tierra"
             },
             {
               "id": "4000202014",
-              "gloss": null
+              "gloss": "de Israel"
             },
             {
               "id": "4000202015",
-              "gloss": null
+              "gloss": "han muerto"
             },
             {
               "id": "4000202016",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000202017",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000202018",
-              "gloss": null
+              "gloss": "que buscaban"
             },
             {
               "id": "4000202019",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000202020",
-              "gloss": null
+              "gloss": "vida"
             },
             {
               "id": "4000202021",
-              "gloss": null
+              "gloss": "del"
             },
             {
               "id": "4000202022",
-              "gloss": null
+              "gloss": "niño"
             }
           ]
         },
@@ -3584,63 +3584,63 @@
           "words": [
             {
               "id": "4000202101",
-              "gloss": null
+              "gloss": "él"
             },
             {
               "id": "4000202102",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000202103",
-              "gloss": null
+              "gloss": "habiéndose levantado"
             },
             {
               "id": "4000202104",
-              "gloss": null
+              "gloss": "tomó"
             },
             {
               "id": "4000202105",
-              "gloss": null
+              "gloss": "al"
             },
             {
               "id": "4000202106",
-              "gloss": null
+              "gloss": "niño"
             },
             {
               "id": "4000202107",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000202108",
-              "gloss": null
+              "gloss": "a la"
             },
             {
               "id": "4000202109",
-              "gloss": null
+              "gloss": "madre"
             },
             {
               "id": "4000202110",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000202111",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000202112",
-              "gloss": null
+              "gloss": "entró"
             },
             {
               "id": "4000202113",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000202114",
-              "gloss": null
+              "gloss": "la tierra"
             },
             {
               "id": "4000202115",
-              "gloss": null
+              "gloss": "de Israel"
             }
           ]
         },
@@ -3649,103 +3649,103 @@
           "words": [
             {
               "id": "4000202201",
-              "gloss": null
+              "gloss": "habiendo oído"
             },
             {
               "id": "4000202202",
-              "gloss": null
+              "gloss": "pero"
             },
             {
               "id": "4000202203",
-              "gloss": null
+              "gloss": "que"
             },
             {
               "id": "4000202204",
-              "gloss": null
+              "gloss": "Arquelao"
             },
             {
               "id": "4000202205",
-              "gloss": null
+              "gloss": "reina"
             },
             {
               "id": "4000202206",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000202207",
-              "gloss": null
+              "gloss": "de Judea"
             },
             {
               "id": "4000202208",
-              "gloss": null
+              "gloss": "en lugar de"
             },
             {
               "id": "4000202209",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000202210",
-              "gloss": null
+              "gloss": "padre"
             },
             {
               "id": "4000202211",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000202212",
-              "gloss": null
+              "gloss": "Herodes"
             },
             {
               "id": "4000202213",
-              "gloss": null
+              "gloss": "[José] temió"
             },
             {
               "id": "4000202214",
-              "gloss": null
+              "gloss": "allí"
             },
             {
               "id": "4000202215",
-              "gloss": null
+              "gloss": "ir"
             },
             {
               "id": "4000202216",
-              "gloss": null
+              "gloss": "habiendo sido advertido"
             },
             {
               "id": "4000202217",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000202218",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000202219",
-              "gloss": null
+              "gloss": "un sueño"
             },
             {
               "id": "4000202220",
-              "gloss": null
+              "gloss": "se retiró"
             },
             {
               "id": "4000202221",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000202222",
-              "gloss": null
+              "gloss": "las"
             },
             {
               "id": "4000202223",
-              "gloss": null
+              "gloss": "regiones"
             },
             {
               "id": "4000202224",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000202225",
-              "gloss": null
+              "gloss": "de Galilea"
             }
           ]
         },
@@ -3754,71 +3754,71 @@
           "words": [
             {
               "id": "4000202301",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000202302",
-              "gloss": null
+              "gloss": "habiendo venido"
             },
             {
               "id": "4000202303",
-              "gloss": null
+              "gloss": "habitó"
             },
             {
               "id": "4000202304",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000202305",
-              "gloss": null
+              "gloss": "una ciudad"
             },
             {
               "id": "4000202306",
-              "gloss": null
+              "gloss": "llamada"
             },
             {
               "id": "4000202307",
-              "gloss": null
+              "gloss": "Nazaret"
             },
             {
               "id": "4000202308",
-              "gloss": null
+              "gloss": "para que"
             },
             {
               "id": "4000202309",
-              "gloss": null
+              "gloss": "se cumpliera"
             },
             {
               "id": "4000202310",
-              "gloss": null
+              "gloss": "lo"
             },
             {
               "id": "4000202311",
-              "gloss": null
+              "gloss": "dicho"
             },
             {
               "id": "4000202312",
-              "gloss": null
+              "gloss": "por medio de"
             },
             {
               "id": "4000202313",
-              "gloss": null
+              "gloss": "de los"
             },
             {
               "id": "4000202314",
-              "gloss": null
+              "gloss": "profetas"
             },
             {
               "id": "4000202315",
-              "gloss": null
+              "gloss": "que"
             },
             {
               "id": "4000202316",
-              "gloss": null
+              "gloss": "nazareno"
             },
             {
               "id": "4000202317",
-              "gloss": null
+              "gloss": "será llamado"
             }
           ]
         }
@@ -3832,63 +3832,63 @@
           "words": [
             {
               "id": "4000300101",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000300102",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300103",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000300104",
-              "gloss": null
+              "gloss": "días"
             },
             {
               "id": "4000300105",
-              "gloss": null
+              "gloss": "aquellos"
             },
             {
               "id": "4000300106",
-              "gloss": null
+              "gloss": "esta llegando"
             },
             {
               "id": "4000300107",
-              "gloss": null
+              "gloss": "Juan"
             },
             {
               "id": "4000300108",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300109",
-              "gloss": null
+              "gloss": "bautista"
             },
             {
               "id": "4000300110",
-              "gloss": null
+              "gloss": "proclamando"
             },
             {
               "id": "4000300111",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000300112",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300113",
-              "gloss": null
+              "gloss": "desierto"
             },
             {
               "id": "4000300114",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000300115",
-              "gloss": null
+              "gloss": "de Judea"
             }
           ]
         },
@@ -3897,35 +3897,35 @@
           "words": [
             {
               "id": "4000300202",
-              "gloss": null
+              "gloss": "diciendo"
             },
             {
               "id": "4000300203",
-              "gloss": null
+              "gloss": "arrepiéntanse"
             },
             {
               "id": "4000300204",
-              "gloss": null
+              "gloss": "se ha acercado"
             },
             {
               "id": "4000300205",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000300206",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300207",
-              "gloss": null
+              "gloss": "reino"
             },
             {
               "id": "4000300208",
-              "gloss": null
+              "gloss": "de los"
             },
             {
               "id": "4000300209",
-              "gloss": null
+              "gloss": "cielos"
             }
           ]
         },
@@ -3934,99 +3934,99 @@
           "words": [
             {
               "id": "4000300301",
-              "gloss": null
+              "gloss": "éste"
             },
             {
               "id": "4000300302",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000300303",
-              "gloss": null
+              "gloss": "es"
             },
             {
               "id": "4000300304",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300305",
-              "gloss": null
+              "gloss": "dicho"
             },
             {
               "id": "4000300306",
-              "gloss": null
+              "gloss": "por medio de"
             },
             {
               "id": "4000300307",
-              "gloss": null
+              "gloss": "Isaías"
             },
             {
               "id": "4000300308",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300309",
-              "gloss": null
+              "gloss": "profeta"
             },
             {
               "id": "4000300310",
-              "gloss": null
+              "gloss": "diciendo"
             },
             {
               "id": "4000300311",
-              "gloss": null
+              "gloss": "voz"
             },
             {
               "id": "4000300312",
-              "gloss": null
+              "gloss": "de uno que clama"
             },
             {
               "id": "4000300313",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000300314",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300315",
-              "gloss": null
+              "gloss": "desierto"
             },
             {
               "id": "4000300316",
-              "gloss": null
+              "gloss": "preparen"
             },
             {
               "id": "4000300317",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300318",
-              "gloss": null
+              "gloss": "camino"
             },
             {
               "id": "4000300319",
-              "gloss": null
+              "gloss": "del Señor"
             },
             {
               "id": "4000300320",
-              "gloss": null
+              "gloss": "rectas"
             },
             {
               "id": "4000300321",
-              "gloss": null
+              "gloss": "hagan"
             },
             {
               "id": "4000300322",
-              "gloss": null
+              "gloss": "las"
             },
             {
               "id": "4000300323",
-              "gloss": null
+              "gloss": "sendas"
             },
             {
               "id": "4000300324",
-              "gloss": null
+              "gloss": "de él"
             }
           ]
         },
@@ -4035,111 +4035,111 @@
           "words": [
             {
               "id": "4000300401",
-              "gloss": null
+              "gloss": "él mismo"
             },
             {
               "id": "4000300402",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300403",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000300404",
-              "gloss": null
+              "gloss": "Juan"
             },
             {
               "id": "4000300405",
-              "gloss": null
+              "gloss": "tenía"
             },
             {
               "id": "4000300406",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300407",
-              "gloss": null
+              "gloss": "vestido"
             },
             {
               "id": "4000300408",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000300409",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000300410",
-              "gloss": null
+              "gloss": "pelos"
             },
             {
               "id": "4000300411",
-              "gloss": null
+              "gloss": "de camello"
             },
             {
               "id": "4000300412",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300413",
-              "gloss": null
+              "gloss": "cinturón"
             },
             {
               "id": "4000300414",
-              "gloss": null
+              "gloss": "de cuero"
             },
             {
               "id": "4000300415",
-              "gloss": null
+              "gloss": "alrededor de"
             },
             {
               "id": "4000300416",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000300417",
-              "gloss": null
+              "gloss": "cintura"
             },
             {
               "id": "4000300418",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000300419",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300420",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300421",
-              "gloss": null
+              "gloss": "alimento"
             },
             {
               "id": "4000300422",
-              "gloss": null
+              "gloss": "era"
             },
             {
               "id": "4000300423",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000300424",
-              "gloss": null
+              "gloss": "langostas"
             },
             {
               "id": "4000300425",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300426",
-              "gloss": null
+              "gloss": "miel"
             },
             {
               "id": "4000300427",
-              "gloss": null
+              "gloss": "silvestre"
             }
           ]
         },
@@ -4148,63 +4148,63 @@
           "words": [
             {
               "id": "4000300501",
-              "gloss": null
+              "gloss": "entonces"
             },
             {
               "id": "4000300502",
-              "gloss": null
+              "gloss": "salía"
             },
             {
               "id": "4000300503",
-              "gloss": null
+              "gloss": "hacia"
             },
             {
               "id": "4000300504",
-              "gloss": null
+              "gloss": "él"
             },
             {
               "id": "4000300505",
-              "gloss": null
+              "gloss": "Jerusalén"
             },
             {
               "id": "4000300506",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300507",
-              "gloss": null
+              "gloss": "toda"
             },
             {
               "id": "4000300508",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "4000300509",
-              "gloss": null
+              "gloss": "Judea"
             },
             {
               "id": "4000300510",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300511",
-              "gloss": null
+              "gloss": "toda"
             },
             {
               "id": "4000300512",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000300513",
-              "gloss": null
+              "gloss": "región circundante"
             },
             {
               "id": "4000300514",
-              "gloss": null
+              "gloss": "del"
             },
             {
               "id": "4000300515",
-              "gloss": null
+              "gloss": "Jordán"
             }
           ]
         },
@@ -4213,51 +4213,51 @@
           "words": [
             {
               "id": "4000300601",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300602",
-              "gloss": null
+              "gloss": "eran bautizados"
             },
             {
               "id": "4000300603",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000300604",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300605",
-              "gloss": null
+              "gloss": "Jordán"
             },
             {
               "id": "4000300606",
-              "gloss": null
+              "gloss": "río"
             },
             {
               "id": "4000300607",
-              "gloss": null
+              "gloss": "por"
             },
             {
               "id": "4000300608",
-              "gloss": null
+              "gloss": "él"
             },
             {
               "id": "4000300609",
-              "gloss": null
+              "gloss": "confesando"
             },
             {
               "id": "4000300610",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000300611",
-              "gloss": null
+              "gloss": "pecados"
             },
             {
               "id": "4000300612",
-              "gloss": null
+              "gloss": "de ellos"
             }
           ]
         },
@@ -4266,99 +4266,99 @@
           "words": [
             {
               "id": "4000300701",
-              "gloss": null
+              "gloss": "habiendo visto"
             },
             {
               "id": "4000300702",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300703",
-              "gloss": null
+              "gloss": "a muchos"
             },
             {
               "id": "4000300704",
-              "gloss": null
+              "gloss": "de los"
             },
             {
               "id": "4000300705",
-              "gloss": null
+              "gloss": "fariseos"
             },
             {
               "id": "4000300706",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300707",
-              "gloss": null
+              "gloss": "saduceos"
             },
             {
               "id": "4000300708",
-              "gloss": null
+              "gloss": "viniendo"
             },
             {
               "id": "4000300709",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000300710",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000300711",
-              "gloss": null
+              "gloss": "bautismo"
             },
             {
               "id": "4000300712",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000300713",
-              "gloss": null
+              "gloss": "dijo"
             },
             {
               "id": "4000300714",
-              "gloss": null
+              "gloss": "a ellos"
             },
             {
               "id": "4000300715",
-              "gloss": null
+              "gloss": "crías"
             },
             {
               "id": "4000300716",
-              "gloss": null
+              "gloss": "de víboras"
             },
             {
               "id": "4000300717",
-              "gloss": null
+              "gloss": "quién"
             },
             {
               "id": "4000300718",
-              "gloss": null
+              "gloss": "advertió"
             },
             {
               "id": "4000300719",
-              "gloss": null
+              "gloss": "a ustedes"
             },
             {
               "id": "4000300720",
-              "gloss": null
+              "gloss": "huir"
             },
             {
               "id": "4000300721",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000300722",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000300723",
-              "gloss": null
+              "gloss": "venidera"
             },
             {
               "id": "4000300724",
-              "gloss": null
+              "gloss": "ira"
             }
           ]
         },
@@ -4367,27 +4367,27 @@
           "words": [
             {
               "id": "4000300801",
-              "gloss": null
+              "gloss": "produzcan"
             },
             {
               "id": "4000300802",
-              "gloss": null
+              "gloss": "pues"
             },
             {
               "id": "4000300803",
-              "gloss": null
+              "gloss": "fruto"
             },
             {
               "id": "4000300804",
-              "gloss": null
+              "gloss": "digno"
             },
             {
               "id": "4000300805",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000300806",
-              "gloss": null
+              "gloss": "de arrepentimiento"
             }
           ]
         },
@@ -4396,103 +4396,103 @@
           "words": [
             {
               "id": "4000300901",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000300902",
-              "gloss": null
+              "gloss": "no"
             },
             {
               "id": "4000300903",
-              "gloss": null
+              "gloss": "piensen"
             },
             {
               "id": "4000300904",
-              "gloss": null
+              "gloss": "decir"
             },
             {
               "id": "4000300905",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000300906",
-              "gloss": null
+              "gloss": "ustedes mismos"
             },
             {
               "id": "4000300907",
-              "gloss": null
+              "gloss": "[por] padre"
             },
             {
               "id": "4000300908",
-              "gloss": null
+              "gloss": "tenemos"
             },
             {
               "id": "4000300909",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000300910",
-              "gloss": null
+              "gloss": "Abraham"
             },
             {
               "id": "4000300911",
-              "gloss": null
+              "gloss": "digo"
             },
             {
               "id": "4000300912",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000300913",
-              "gloss": null
+              "gloss": "a ustedes"
             },
             {
               "id": "4000300914",
-              "gloss": null
+              "gloss": "que"
             },
             {
               "id": "4000300915",
-              "gloss": null
+              "gloss": "puede"
             },
             {
               "id": "4000300916",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "4000300917",
-              "gloss": null
+              "gloss": "Dios"
             },
             {
               "id": "4000300918",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000300919",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000300920",
-              "gloss": null
+              "gloss": "piedras"
             },
             {
               "id": "4000300921",
-              "gloss": null
+              "gloss": "estas"
             },
             {
               "id": "4000300922",
-              "gloss": null
+              "gloss": "levantar"
             },
             {
               "id": "4000300923",
-              "gloss": null
+              "gloss": "hijos"
             },
             {
               "id": "4000300924",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000300925",
-              "gloss": null
+              "gloss": "a Abraham"
             }
           ]
         },
@@ -4501,91 +4501,91 @@
           "words": [
             {
               "id": "4000301001",
-              "gloss": null
+              "gloss": "ya"
             },
             {
               "id": "4000301002",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301003",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301004",
-              "gloss": null
+              "gloss": "hacha"
             },
             {
               "id": "4000301005",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000301006",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000301007",
-              "gloss": null
+              "gloss": "raíz"
             },
             {
               "id": "4000301008",
-              "gloss": null
+              "gloss": "de los"
             },
             {
               "id": "4000301009",
-              "gloss": null
+              "gloss": "árboles"
             },
             {
               "id": "4000301010",
-              "gloss": null
+              "gloss": "yace"
             },
             {
               "id": "4000301011",
-              "gloss": null
+              "gloss": "todo"
             },
             {
               "id": "4000301012",
-              "gloss": null
+              "gloss": "pues"
             },
             {
               "id": "4000301013",
-              "gloss": null
+              "gloss": "árbol"
             },
             {
               "id": "4000301014",
-              "gloss": null
+              "gloss": "no"
             },
             {
               "id": "4000301015",
-              "gloss": null
+              "gloss": "produciendo"
             },
             {
               "id": "4000301016",
-              "gloss": null
+              "gloss": "fruto"
             },
             {
               "id": "4000301017",
-              "gloss": null
+              "gloss": "bueno"
             },
             {
               "id": "4000301018",
-              "gloss": null
+              "gloss": "es cortado"
             },
             {
               "id": "4000301019",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301020",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000301021",
-              "gloss": null
+              "gloss": "fuego"
             },
             {
               "id": "4000301022",
-              "gloss": null
+              "gloss": "es echado"
             }
           ]
         },
@@ -4594,127 +4594,127 @@
           "words": [
             {
               "id": "4000301101",
-              "gloss": null
+              "gloss": "yo"
             },
             {
               "id": "4000301102",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000301103",
-              "gloss": null
+              "gloss": "a ustedes"
             },
             {
               "id": "4000301104",
-              "gloss": null
+              "gloss": "bautizo"
             },
             {
               "id": "4000301105",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000301106",
-              "gloss": null
+              "gloss": "agua"
             },
             {
               "id": "4000301107",
-              "gloss": null
+              "gloss": "para"
             },
             {
               "id": "4000301108",
-              "gloss": null
+              "gloss": "arrepentimiento"
             },
             {
               "id": "4000301109",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301110",
-              "gloss": null
+              "gloss": "pero"
             },
             {
               "id": "4000301111",
-              "gloss": null
+              "gloss": "después de"
             },
             {
               "id": "4000301112",
-              "gloss": null
+              "gloss": "mí"
             },
             {
               "id": "4000301113",
-              "gloss": null
+              "gloss": "viniendo"
             },
             {
               "id": "4000301114",
-              "gloss": null
+              "gloss": "uno más fuerte"
             },
             {
               "id": "4000301115",
-              "gloss": null
+              "gloss": "que yo"
             },
             {
               "id": "4000301116",
-              "gloss": null
+              "gloss": "es"
             },
             {
               "id": "4000301117",
-              "gloss": null
+              "gloss": "de quien"
             },
             {
               "id": "4000301118",
-              "gloss": null
+              "gloss": "no"
             },
             {
               "id": "4000301119",
-              "gloss": null
+              "gloss": "soy"
             },
             {
               "id": "4000301120",
-              "gloss": null
+              "gloss": "digno de"
             },
             {
               "id": "4000301121",
-              "gloss": null
+              "gloss": "las"
             },
             {
               "id": "4000301122",
-              "gloss": null
+              "gloss": "sandalias"
             },
             {
               "id": "4000301123",
-              "gloss": null
+              "gloss": "llevar"
             },
             {
               "id": "4000301124",
-              "gloss": null
+              "gloss": "él"
             },
             {
               "id": "4000301125",
-              "gloss": null
+              "gloss": "a ustedes"
             },
             {
               "id": "4000301126",
-              "gloss": null
+              "gloss": "bautizará"
             },
             {
               "id": "4000301127",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000301128",
-              "gloss": null
+              "gloss": "el Espíritu"
             },
             {
               "id": "4000301129",
-              "gloss": null
+              "gloss": "Santo"
             },
             {
               "id": "4000301130",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301131",
-              "gloss": null
+              "gloss": "fuego"
             }
           ]
         },
@@ -4723,107 +4723,107 @@
           "words": [
             {
               "id": "4000301201",
-              "gloss": null
+              "gloss": "de quien"
             },
             {
               "id": "4000301202",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301203",
-              "gloss": null
+              "gloss": "bieldo"
             },
             {
               "id": "4000301204",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000301205",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000301206",
-              "gloss": null
+              "gloss": "mano"
             },
             {
               "id": "4000301207",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000301208",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301209",
-              "gloss": null
+              "gloss": "limpiará"
             },
             {
               "id": "4000301210",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000301211",
-              "gloss": null
+              "gloss": "era"
             },
             {
               "id": "4000301212",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000301213",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301214",
-              "gloss": null
+              "gloss": "recogerá"
             },
             {
               "id": "4000301215",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301216",
-              "gloss": null
+              "gloss": "trigo"
             },
             {
               "id": "4000301217",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000301218",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000301219",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301220",
-              "gloss": null
+              "gloss": "granero"
             },
             {
               "id": "4000301221",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000301222",
-              "gloss": null
+              "gloss": "pero"
             },
             {
               "id": "4000301223",
-              "gloss": null
+              "gloss": "paja"
             },
             {
               "id": "4000301224",
-              "gloss": null
+              "gloss": "quemará"
             },
             {
               "id": "4000301225",
-              "gloss": null
+              "gloss": "con fuego"
             },
             {
               "id": "4000301226",
-              "gloss": null
+              "gloss": "inextinguible"
             }
           ]
         },
@@ -4832,71 +4832,71 @@
           "words": [
             {
               "id": "4000301301",
-              "gloss": null
+              "gloss": "entonces"
             },
             {
               "id": "4000301302",
-              "gloss": null
+              "gloss": "llega"
             },
             {
               "id": "4000301303",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000301304",
-              "gloss": null
+              "gloss": "Jesús"
             },
             {
               "id": "4000301305",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000301306",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000301307",
-              "gloss": null
+              "gloss": "Galilea"
             },
             {
               "id": "4000301308",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000301309",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301310",
-              "gloss": null
+              "gloss": "Jordán"
             },
             {
               "id": "4000301311",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000301312",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000301313",
-              "gloss": null
+              "gloss": "Juan"
             },
             {
               "id": "4000301314",
-              "gloss": null
+              "gloss": "para"
             },
             {
               "id": "4000301315",
-              "gloss": null
+              "gloss": "ser bautizado"
             },
             {
               "id": "4000301316",
-              "gloss": null
+              "gloss": "por"
             },
             {
               "id": "4000301317",
-              "gloss": null
+              "gloss": "él"
             }
           ]
         },
@@ -4905,67 +4905,67 @@
           "words": [
             {
               "id": "4000301401",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301402",
-              "gloss": null
+              "gloss": "pero"
             },
             {
               "id": "4000301404",
-              "gloss": null
+              "gloss": "impedía"
             },
             {
               "id": "4000301405",
-              "gloss": null
+              "gloss": "a él"
             },
             {
               "id": "4000301406",
-              "gloss": null
+              "gloss": "diciendo"
             },
             {
               "id": "4000301407",
-              "gloss": null
+              "gloss": "Yo"
             },
             {
               "id": "4000301408",
-              "gloss": null
+              "gloss": "necesidad"
             },
             {
               "id": "4000301409",
-              "gloss": null
+              "gloss": "tengo"
             },
             {
               "id": "4000301410",
-              "gloss": null
+              "gloss": "por"
             },
             {
               "id": "4000301411",
-              "gloss": null
+              "gloss": "ti"
             },
             {
               "id": "4000301412",
-              "gloss": null
+              "gloss": "ser bautizado"
             },
             {
               "id": "4000301413",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301414",
-              "gloss": null
+              "gloss": "tú"
             },
             {
               "id": "4000301415",
-              "gloss": null
+              "gloss": "vienes"
             },
             {
               "id": "4000301416",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000301417",
-              "gloss": null
+              "gloss": "mí"
             }
           ]
         },
@@ -4974,83 +4974,83 @@
           "words": [
             {
               "id": "4000301501",
-              "gloss": null
+              "gloss": "respondido"
             },
             {
               "id": "4000301502",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301503",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "4000301504",
-              "gloss": null
+              "gloss": "Jesús"
             },
             {
               "id": "4000301505",
-              "gloss": null
+              "gloss": "dijo"
             },
             {
               "id": "4000301506",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000301507",
-              "gloss": null
+              "gloss": "él"
             },
             {
               "id": "4000301508",
-              "gloss": null
+              "gloss": "permíte[lo]"
             },
             {
               "id": "4000301509",
-              "gloss": null
+              "gloss": "ahora"
             },
             {
               "id": "4000301510",
-              "gloss": null
+              "gloss": "así"
             },
             {
               "id": "4000301511",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000301512",
-              "gloss": null
+              "gloss": "adecuado"
             },
             {
               "id": "4000301513",
-              "gloss": null
+              "gloss": "es"
             },
             {
               "id": "4000301514",
-              "gloss": null
+              "gloss": "a nosotros"
             },
             {
               "id": "4000301515",
-              "gloss": null
+              "gloss": "cumplir"
             },
             {
               "id": "4000301516",
-              "gloss": null
+              "gloss": "toda"
             },
             {
               "id": "4000301517",
-              "gloss": null
+              "gloss": "justicia"
             },
             {
               "id": "4000301518",
-              "gloss": null
+              "gloss": "entonces"
             },
             {
               "id": "4000301519",
-              "gloss": null
+              "gloss": "permite"
             },
             {
               "id": "4000301520",
-              "gloss": null
+              "gloss": "a él"
             }
           ]
         },
@@ -5059,111 +5059,111 @@
           "words": [
             {
               "id": "4000301601",
-              "gloss": null
+              "gloss": "habiendo sido bautizado"
             },
             {
               "id": "4000301602",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301603",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "4000301604",
-              "gloss": null
+              "gloss": "Jesús"
             },
             {
               "id": "4000301605",
-              "gloss": null
+              "gloss": "inmediatamente"
             },
             {
               "id": "4000301606",
-              "gloss": null
+              "gloss": "subió"
             },
             {
               "id": "4000301607",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000301608",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301609",
-              "gloss": null
+              "gloss": "agua"
             },
             {
               "id": "4000301610",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301611",
-              "gloss": null
+              "gloss": "he aquí"
             },
             {
               "id": "4000301611-01",
-              "gloss": null
+              "gloss": "se abrieron"
             },
             {
               "id": "4000301614",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000301615",
-              "gloss": null
+              "gloss": "cielos"
             },
             {
               "id": "4000301616",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301617",
-              "gloss": null
+              "gloss": "vio"
             },
             {
               "id": "4000301618",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301619",
-              "gloss": null
+              "gloss": "Espíritu"
             },
             {
               "id": "4000301620",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000301621",
-              "gloss": null
+              "gloss": "de Dios"
             },
             {
               "id": "4000301622",
-              "gloss": null
+              "gloss": "descendiendo"
             },
             {
               "id": "4000301623",
-              "gloss": null
+              "gloss": "como"
             },
             {
               "id": "4000301624",
-              "gloss": null
+              "gloss": "paloma"
             },
             {
               "id": "4000301625",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301626",
-              "gloss": null
+              "gloss": "viniendo"
             },
             {
               "id": "4000301627",
-              "gloss": null
+              "gloss": "sobre"
             },
             {
               "id": "4000301628",
-              "gloss": null
+              "gloss": "él"
             }
           ]
         },
@@ -5172,71 +5172,71 @@
           "words": [
             {
               "id": "4000301701",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000301702",
-              "gloss": null
+              "gloss": "he aquí"
             },
             {
               "id": "4000301703",
-              "gloss": null
+              "gloss": "una voz"
             },
             {
               "id": "4000301704",
-              "gloss": null
+              "gloss": "de"
             },
             {
               "id": "4000301705",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000301706",
-              "gloss": null
+              "gloss": "cielos"
             },
             {
               "id": "4000301707",
-              "gloss": null
+              "gloss": "diciendo"
             },
             {
               "id": "4000301708",
-              "gloss": null
+              "gloss": "este"
             },
             {
               "id": "4000301709",
-              "gloss": null
+              "gloss": "es"
             },
             {
               "id": "4000301710",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301711",
-              "gloss": null
+              "gloss": "Hijo"
             },
             {
               "id": "4000301712",
-              "gloss": null
+              "gloss": "de mí"
             },
             {
               "id": "4000301713",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000301714",
-              "gloss": null
+              "gloss": "amado"
             },
             {
               "id": "4000301715",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000301716",
-              "gloss": null
+              "gloss": "quien"
             },
             {
               "id": "4000301717",
-              "gloss": null
+              "gloss": "me complací"
             }
           ]
         }
