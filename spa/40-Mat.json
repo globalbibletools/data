@@ -5433,7 +5433,7 @@
             },
             {
               "id": "4000400402",
-              "gloss": null
+              "gloss": "pero"
             },
             {
               "id": "4000400403",
@@ -6069,7 +6069,7 @@
             },
             {
               "id": "4000401208",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "4000401209",
@@ -6090,7 +6090,7 @@
             },
             {
               "id": "4000401303",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000401304",
@@ -6642,7 +6642,7 @@
             },
             {
               "id": "4000402113",
-              "gloss": null
+              "gloss": "Juan"
             },
             {
               "id": "4000402114",
@@ -6816,7 +6816,7 @@
             },
             {
               "id": "4000402309",
-              "gloss": null
+              "gloss": "las"
             },
             {
               "id": "4000402310",
@@ -6925,7 +6925,7 @@
             },
             {
               "id": "4000402408",
-              "gloss": null
+              "gloss": "- "
             },
             {
               "id": "4000402409",
@@ -7100,67 +7100,67 @@
           "words": [
             {
               "id": "4000500101",
-              "gloss": null
+              "gloss": "habiendo visto"
             },
             {
               "id": "4000500102",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000500103",
-              "gloss": null
+              "gloss": "las"
             },
             {
               "id": "4000500104",
-              "gloss": null
+              "gloss": "multitudes"
             },
             {
               "id": "4000500105",
-              "gloss": null
+              "gloss": "subió"
             },
             {
               "id": "4000500106",
-              "gloss": null
+              "gloss": "a"
             },
             {
               "id": "4000500107",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000500108",
-              "gloss": null
+              "gloss": "monte"
             },
             {
               "id": "4000500109",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000500110",
-              "gloss": null
+              "gloss": "habiéndose sentado"
             },
             {
               "id": "4000500111",
-              "gloss": null
+              "gloss": "él"
             },
             {
               "id": "4000500111-01",
-              "gloss": null
+              "gloss": "se acercaron"
             },
             {
               "id": "4000500113",
-              "gloss": null
+              "gloss": "a él"
             },
             {
               "id": "4000500114",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000500115",
-              "gloss": null
+              "gloss": "discípulos"
             },
             {
               "id": "4000500116",
-              "gloss": null
+              "gloss": "de él"
             }
           ]
         },
@@ -7169,35 +7169,35 @@
           "words": [
             {
               "id": "4000500201",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000500202",
-              "gloss": null
+              "gloss": "habiendo abierto"
             },
             {
               "id": "4000500203",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000500204",
-              "gloss": null
+              "gloss": "boca"
             },
             {
               "id": "4000500205",
-              "gloss": null
+              "gloss": "de él"
             },
             {
               "id": "4000500206",
-              "gloss": null
+              "gloss": "enseñaba"
             },
             {
               "id": "4000500207",
-              "gloss": null
+              "gloss": "a ellos"
             },
             {
               "id": "4000500208",
-              "gloss": null
+              "gloss": "diciendo"
             }
           ]
         },
@@ -7206,51 +7206,51 @@
           "words": [
             {
               "id": "4000500301",
-              "gloss": null
+              "gloss": "bienaventurados"
             },
             {
               "id": "4000500302",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000500303",
-              "gloss": null
+              "gloss": "pobres"
             },
             {
               "id": "4000500304",
-              "gloss": null
+              "gloss": "en el"
             },
             {
               "id": "4000500305",
-              "gloss": null
+              "gloss": "espíritu"
             },
             {
               "id": "4000500306",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000500307",
-              "gloss": null
+              "gloss": "de ellos"
             },
             {
               "id": "4000500308",
-              "gloss": null
+              "gloss": "es"
             },
             {
               "id": "4000500309",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000500310",
-              "gloss": null
+              "gloss": "reino"
             },
             {
               "id": "4000500311",
-              "gloss": null
+              "gloss": "de los"
             },
             {
               "id": "4000500312",
-              "gloss": null
+              "gloss": "cielos"
             }
           ]
         },
@@ -7259,27 +7259,27 @@
           "words": [
             {
               "id": "4000500401",
-              "gloss": null
+              "gloss": "bienaventurados"
             },
             {
               "id": "4000500402",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000500403",
-              "gloss": null
+              "gloss": "que lloran"
             },
             {
               "id": "4000500404",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000500405",
-              "gloss": null
+              "gloss": "ellos"
             },
             {
               "id": "4000500406",
-              "gloss": null
+              "gloss": "serán consolados"
             }
           ]
         },
@@ -7288,35 +7288,35 @@
           "words": [
             {
               "id": "4000500501",
-              "gloss": null
+              "gloss": "bienaventurados"
             },
             {
               "id": "4000500502",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000500503",
-              "gloss": null
+              "gloss": "mansos"
             },
             {
               "id": "4000500504",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000500505",
-              "gloss": null
+              "gloss": "ellos"
             },
             {
               "id": "4000500506",
-              "gloss": null
+              "gloss": "heredarán"
             },
             {
               "id": "4000500507",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000500508",
-              "gloss": null
+              "gloss": "tierra"
             }
           ]
         },
@@ -7325,43 +7325,43 @@
           "words": [
             {
               "id": "4000500601",
-              "gloss": null
+              "gloss": "bienaventurados"
             },
             {
               "id": "4000500602",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000500603",
-              "gloss": null
+              "gloss": "que tienen hambre"
             },
             {
               "id": "4000500604",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000500605",
-              "gloss": null
+              "gloss": "que tienen sed"
             },
             {
               "id": "4000500606",
-              "gloss": null
+              "gloss": "de la"
             },
             {
               "id": "4000500607",
-              "gloss": null
+              "gloss": "justicia"
             },
             {
               "id": "4000500608",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000500609",
-              "gloss": null
+              "gloss": "ellos"
             },
             {
               "id": "4000500610",
-              "gloss": null
+              "gloss": "serán saciados"
             }
           ]
         },
@@ -7370,27 +7370,27 @@
           "words": [
             {
               "id": "4000500701",
-              "gloss": null
+              "gloss": "bienaventurados"
             },
             {
               "id": "4000500702",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000500703",
-              "gloss": null
+              "gloss": "misericordiosos"
             },
             {
               "id": "4000500704",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000500705",
-              "gloss": null
+              "gloss": "ellos"
             },
             {
               "id": "4000500706",
-              "gloss": null
+              "gloss": "recibirán misericordia"
             }
           ]
         },
@@ -7399,43 +7399,43 @@
           "words": [
             {
               "id": "4000500801",
-              "gloss": null
+              "gloss": "bienaventurados"
             },
             {
               "id": "4000500802",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000500803",
-              "gloss": null
+              "gloss": "puros"
             },
             {
               "id": "4000500804",
-              "gloss": null
+              "gloss": "en el"
             },
             {
               "id": "4000500805",
-              "gloss": null
+              "gloss": "corazón"
             },
             {
               "id": "4000500806",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000500807",
-              "gloss": null
+              "gloss": "ellos"
             },
             {
               "id": "4000500808",
-              "gloss": null
+              "gloss": "-"
             },
             {
               "id": "4000500809",
-              "gloss": null
+              "gloss": "Dios"
             },
             {
               "id": "4000500810",
-              "gloss": null
+              "gloss": "verán"
             }
           ]
         },
@@ -7444,35 +7444,35 @@
           "words": [
             {
               "id": "4000500901",
-              "gloss": null
+              "gloss": "bienaventurados"
             },
             {
               "id": "4000500902",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000500903",
-              "gloss": null
+              "gloss": "pacificadores"
             },
             {
               "id": "4000500904",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000500905",
-              "gloss": null
+              "gloss": "ellos"
             },
             {
               "id": "4000500906",
-              "gloss": null
+              "gloss": "hijos"
             },
             {
               "id": "4000500907",
-              "gloss": null
+              "gloss": "de Dios"
             },
             {
               "id": "4000500908",
-              "gloss": null
+              "gloss": "serán llamados"
             }
           ]
         },
@@ -7481,51 +7481,51 @@
           "words": [
             {
               "id": "4000501001",
-              "gloss": null
+              "gloss": "bienaventurados"
             },
             {
               "id": "4000501002",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000501003",
-              "gloss": null
+              "gloss": "perseguidos"
             },
             {
               "id": "4000501004",
-              "gloss": null
+              "gloss": "por causa de"
             },
             {
               "id": "4000501005",
-              "gloss": null
+              "gloss": "justicia"
             },
             {
               "id": "4000501006",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000501007",
-              "gloss": null
+              "gloss": "de ellos"
             },
             {
               "id": "4000501008",
-              "gloss": null
+              "gloss": "es"
             },
             {
               "id": "4000501009",
-              "gloss": null
+              "gloss": "el"
             },
             {
               "id": "4000501010",
-              "gloss": null
+              "gloss": "reino"
             },
             {
               "id": "4000501011",
-              "gloss": null
+              "gloss": "de los"
             },
             {
               "id": "4000501012",
-              "gloss": null
+              "gloss": "cielos"
             }
           ]
         },
@@ -7534,67 +7534,67 @@
           "words": [
             {
               "id": "4000501101",
-              "gloss": null
+              "gloss": "bienaventurados"
             },
             {
               "id": "4000501102",
-              "gloss": null
+              "gloss": "son ustedes"
             },
             {
               "id": "4000501103",
-              "gloss": null
+              "gloss": "cuando"
             },
             {
               "id": "4000501104",
-              "gloss": null
+              "gloss": "vituperen"
             },
             {
               "id": "4000501105",
-              "gloss": null
+              "gloss": "a ustedes"
             },
             {
               "id": "4000501106",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000501107",
-              "gloss": null
+              "gloss": "persigan"
             },
             {
               "id": "4000501108",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000501109",
-              "gloss": null
+              "gloss": "digan"
             },
             {
               "id": "4000501110",
-              "gloss": null
+              "gloss": "cualquier"
             },
             {
               "id": "4000501111",
-              "gloss": null
+              "gloss": "mal"
             },
             {
               "id": "4000501112",
-              "gloss": null
+              "gloss": "contra"
             },
             {
               "id": "4000501113",
-              "gloss": null
+              "gloss": "ustedes"
             },
             {
               "id": "4000501114",
-              "gloss": null
+              "gloss": "mintiendo"
             },
             {
               "id": "4000501115",
-              "gloss": null
+              "gloss": "a causa de"
             },
             {
               "id": "4000501116",
-              "gloss": null
+              "gloss": "mí"
             }
           ]
         },
@@ -7603,79 +7603,79 @@
           "words": [
             {
               "id": "4000501201",
-              "gloss": null
+              "gloss": "alégrense"
             },
             {
               "id": "4000501202",
-              "gloss": null
+              "gloss": "y"
             },
             {
               "id": "4000501203",
-              "gloss": null
+              "gloss": "regocíjense "
             },
             {
               "id": "4000501204",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000501205",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000501206",
-              "gloss": null
+              "gloss": "recompensa"
             },
             {
               "id": "4000501207",
-              "gloss": null
+              "gloss": "de ustedes"
             },
             {
               "id": "4000501208",
-              "gloss": null
+              "gloss": "grande"
             },
             {
               "id": "4000501209",
-              "gloss": null
+              "gloss": "en"
             },
             {
               "id": "4000501210",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000501211",
-              "gloss": null
+              "gloss": "cielos"
             },
             {
               "id": "4000501212",
-              "gloss": null
+              "gloss": "así"
             },
             {
               "id": "4000501213",
-              "gloss": null
+              "gloss": "porque"
             },
             {
               "id": "4000501214",
-              "gloss": null
+              "gloss": "persiguieron"
             },
             {
               "id": "4000501215",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000501216",
-              "gloss": null
+              "gloss": "profetas"
             },
             {
               "id": "4000501217",
-              "gloss": null
+              "gloss": "los"
             },
             {
               "id": "4000501218",
-              "gloss": null
+              "gloss": "antes de"
             },
             {
               "id": "4000501219",
-              "gloss": null
+              "gloss": "ustedes"
             }
           ]
         },
@@ -7684,43 +7684,43 @@
           "words": [
             {
               "id": "4000501301",
-              "gloss": null
+              "gloss": "ustedes"
             },
             {
               "id": "4000501302",
-              "gloss": null
+              "gloss": "son"
             },
             {
               "id": "4000501303",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000501304",
-              "gloss": null
+              "gloss": "sal"
             },
             {
               "id": "4000501305",
-              "gloss": null
+              "gloss": "de la"
             },
             {
               "id": "4000501306",
-              "gloss": null
+              "gloss": "tierra"
             },
             {
               "id": "4000501307",
-              "gloss": null
+              "gloss": "si"
             },
             {
               "id": "4000501308",
-              "gloss": null
+              "gloss": "pero"
             },
             {
               "id": "4000501309",
-              "gloss": null
+              "gloss": "la"
             },
             {
               "id": "4000501310",
-              "gloss": null
+              "gloss": "sal"
             },
             {
               "id": "4000501311",
